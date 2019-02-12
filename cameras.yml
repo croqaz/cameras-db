@@ -784,7 +784,7 @@ Sony α900:
     Model: Sony α900
     Release date: 2008-09
     Sensor: CMOS
-    Sensor format: Full frame
+    Sensor format: Full-frame
 
 Canon 500D Rebel T1i:
     Dimensions (mm): 129 x 98 x 62
@@ -936,7 +936,7 @@ Sony α850:
     Model: Sony α850
     Release date: 2009-09
     Sensor: CMOS
-    Sensor format: Full frame
+    Sensor format: Full-frame
 
 Sony α500:
     Code:
@@ -1475,7 +1475,7 @@ Sony α99:
     Model: Sony α99
     Release date: 2012-11
     Sensor: CMOS
-    Sensor format: Full frame
+    Sensor format: Full-frame
 
 Canon 100D Rebel SL1:
     Dimensions (mm): 117 x 91 x 69
@@ -1723,6 +1723,8 @@ Nikon D810:
     Viewfinder coverage: 100%
     Viewfinder magnification: 0.7x
     Weight (kg): 0.88
+    Links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d810
 
 Canon 7D Mark II:
     Dimensions (mm): 149 x 112 x 78
@@ -1756,6 +1758,8 @@ Nikon D750:
     Viewfinder coverage: 100%
     Viewfinder magnification: 0.7x
     Weight (kg): 0.75
+    Links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d750
 
 Sony α5000:
     Code:
@@ -1767,6 +1771,8 @@ Sony α5000:
     Release date: 2014-03
     Sensor: CMOS Exmor HD
     Sensor format: APS-C, 23.2x15.4mm (1.5x)
+    Links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_a5000
 
 Sony α3500:
     Code:
@@ -1777,6 +1783,8 @@ Sony α3500:
     Release date: 2014-03
     Sensor: CMOS Exmor HD
     Sensor format: APS-C, 23.2x15.4mm (1.5x)
+    Links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_a3500
 
 Sony α6000:
     Code:
@@ -1787,6 +1795,8 @@ Sony α6000:
     Release date: 2014-04
     Sensor: CMOS Exmor HD
     Sensor format: APS-C, 23.5x15.6mm (1.5x)
+    Links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_a6000
 
 Sony α77 II:
     Code:
@@ -2111,6 +2121,8 @@ Sony α6300:
     Release date: 2016-03
     Sensor: CMOS Exmor
     Sensor format: APS-C, 23.5x15.6mm (1.5x)
+    Links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_a6300
 
 Sony α68:
     Code:
@@ -2126,7 +2138,7 @@ Sony α99 II:
     Model: Sony α99 II
     Release date: 2016-09
     Sensor: CMOS
-    Sensor format: Full frame
+    Sensor format: Full-frame
 
 Sony α6500:
     Code:
@@ -2200,6 +2212,8 @@ Nikon D7500:
     Viewfinder coverage: 100%
     Viewfinder magnification: 0.94x
     Weight (kg): 0.64
+    Links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d7500
 
 Canon 200D Rebel SL2:
     Dimensions (mm): 122.4 x 92.6 x 69.8
@@ -2216,6 +2230,8 @@ Canon 200D Rebel SL2:
     Viewfinder coverage: 0.82x
     Viewfinder magnification: 95%
     Weight (kg): 0.453
+    Links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos200d
 
 Canon 6D Mark II:
     Dimensions (mm): 144 x 110.5 x 74.8
@@ -2381,3 +2397,5 @@ Sony α6400:
     Release date: 2019-04
     Sensor: CMOS Exmor
     Sensor format: APS-C, 23.5x15.6mm (1.5x)
+    Links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_a6400
