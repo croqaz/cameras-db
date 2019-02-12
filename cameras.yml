@@ -1,4 +1,24 @@
 
+Sony α3000:
+    Code:
+    - ILCE-3000
+    - CX77100
+    - CX77121
+    Megapixels: 20.1
+    Model: Sony α3000
+    Release date: ''
+    Sensor: CMOS Exmor HD
+    Sensor format: APS-C, 23.5x15.6mm (1.5x)
+
+Sony αQX1:
+    Code:
+    - ILCE-QX1
+    Megapixels: 20.1
+    Model: Sony αQX1
+    Release date: ''
+    Sensor: CMOS
+    Sensor format: APS-C, 23.2x15.4mm (1.5x)
+
 Nikon D1:
     Dimensions (mm): 157 x 153 x 86
     Display, Pixels: 2.0" 114k
@@ -461,6 +481,17 @@ Nikon D40:
     Viewfinder magnification: 0.8x
     Weight (kg): 0.475
 
+Sony α100:
+    Code:
+    - DSLR-A100, DSLR-A100/S (silver-colored body)
+    - CX62100
+    - CX62110
+    - CX62120
+    Model: Sony α100
+    Release date: 2006-07
+    Sensor: CCD
+    Sensor format: APS-C
+
 Canon 1D Mark III:
     Dimensions (mm): 156 x 157 x 80
     Display, Ratio: 3.0", 230k
@@ -575,6 +606,16 @@ Canon 1Ds Mark III:
     Viewfinder coverage: 0.76x
     Viewfinder magnification: 100%
     Weight (kg): 1.21
+
+Sony α700:
+    Code:
+    - DSLR-A700
+    - CX62300
+    - CX62320
+    Model: Sony α700
+    Release date: 2007-09
+    Sensor: CMOS
+    Sensor format: APS-C
 
 Nikon D60:
     Dimensions (mm): 126 x 94 x 64
@@ -708,6 +749,43 @@ Nikon D3X:
     Viewfinder magnification: 0.7x
     Weight (kg): 1.22
 
+Sony α200:
+    Code:
+    - DSLR-A200
+    - CX62700
+    Model: Sony α200
+    Release date: 2008-01
+    Sensor: CCD
+    Sensor format: APS-C
+
+Sony α300:
+    Code:
+    - DSLR-A300, DSLR-A300K/N
+    - CX62800
+    Model: Sony α300
+    Release date: 2008-01
+    Sensor: CCD
+    Sensor format: APS-C
+
+Sony α350:
+    Code:
+    - DSLR-A350, DSLR-A350K/N
+    - CX62900
+    Model: Sony α350
+    Release date: 2008-01
+    Sensor: CCD
+    Sensor format: APS-C
+
+Sony α900:
+    Code:
+    - DSLR-A900
+    - CX85100
+    - CX62500
+    Model: Sony α900
+    Release date: 2008-09
+    Sensor: CMOS
+    Sensor format: Full frame
+
 Canon 500D Rebel T1i:
     Dimensions (mm): 129 x 98 x 62
     Display, Ratio: 3.0", 920k
@@ -824,6 +902,60 @@ Nikon D3S:
     Viewfinder magnification: 0.7x
     Weight (kg): 1.24
 
+Sony α230:
+    Code:
+    - DSLR-A230
+    - CX85500
+    Model: Sony α230
+    Release date: 2009-05
+    Sensor: CCD
+    Sensor format: APS-C
+
+Sony α330:
+    Code:
+    - DSLR-A330, DSLR-A330L/T
+    - CX85200
+    Model: Sony α330
+    Release date: 2009-05
+    Sensor: CCD
+    Sensor format: APS-C
+
+Sony α380:
+    Code:
+    - DSLR-A380
+    - CX85600
+    Model: Sony α380
+    Release date: 2009-05
+    Sensor: CCD
+    Sensor format: APS-C
+
+Sony α850:
+    Code:
+    - DSLR-A850
+    - CX86700
+    Model: Sony α850
+    Release date: 2009-09
+    Sensor: CMOS
+    Sensor format: Full frame
+
+Sony α500:
+    Code:
+    - DSLR-A500
+    - CX85700
+    Model: Sony α500
+    Release date: 2009-10
+    Sensor: CMOS
+    Sensor format: APS-C
+
+Sony α550:
+    Code:
+    - DSLR-A550
+    - CX85800
+    Model: Sony α550
+    Release date: 2009-10
+    Sensor: CMOS
+    Sensor format: APS-C
+
 Canon 550D Rebel T2i:
     Dimensions (mm): 129 x 98 x 62
     Display, Ratio: 3.0", 1040k 3:2
@@ -890,6 +1022,96 @@ Nikon D7000:
     Viewfinder magnification: 0.94x
     Weight (kg): 0.69
 
+Sony α450:
+    Code:
+    - DSLR-A450
+    - CX85900
+    Model: Sony α450
+    Release date: 2010-02
+    Sensor: CMOS
+    Sensor format: APS-C
+
+Sony NEX-3:
+    Code:
+    - NEX-3 (with Eye-Fi), NEX-3C (without Eye-Fi)
+    - CX75210
+    Megapixels: 14.2
+    Model: Sony NEX-3
+    Release date: 2010-06
+    Sensor: CMOS Exmor
+    Sensor format: APS-C, 23.4x15.6mm (1.5x)
+
+Sony NEX-5:
+    Code:
+    - NEX-5 (with Eye-Fi), NEX-5C (without Eye-Fi)
+    - CX75110
+    - CX75121
+    - CX75141
+    Megapixels: 14.2
+    Model: Sony NEX-5
+    Release date: 2010-06
+    Sensor: CMOS Exmor
+    Sensor format: APS-C, 23.4x15.6mm (1.5x)
+
+Sony α290:
+    Code:
+    - DSLR-A290
+    - CX86100
+    Model: Sony α290
+    Release date: 2010-06
+    Sensor: CCD
+    Sensor format: APS-C
+
+Sony α390:
+    Code:
+    - DSLR-A390
+    - CX86200
+    Model: Sony α390
+    Release date: 2010-06
+    Sensor: CCD
+    Sensor format: APS-C
+
+Sony α560:
+    Code:
+    - DSLR-A560
+    - CX86500
+    Model: Sony α560
+    Release date: 2010-08
+    Sensor: CMOS
+    Sensor format: APS-C
+
+Sony α580:
+    Code:
+    - DSLR-A580
+    - CX86600
+    - CX86610
+    Model: Sony α580
+    Release date: 2010-08
+    Sensor: CMOS
+    Sensor format: APS-C
+
+Sony α33:
+    Code:
+    - SLT-A33
+    - CX86300
+    - CX86310
+    - CX86311
+    - CX86320
+    Model: Sony α33
+    Release date: 2010-08
+    Sensor: CMOS
+    Sensor format: APS-C
+
+Sony α55:
+    Code:
+    - SLT-A55V (with GPS), SLT-A55 (without GPS)
+    - CX86400
+    - CX86410
+    Model: Sony α55
+    Release date: 2010-08
+    Sensor: CMOS
+    Sensor format: APS-C
+
 Canon 1100D Rebel T3:
     Dimensions (mm): 130 x 100 x 78
     Display, Ratio: 2.7", 230k
@@ -938,6 +1160,69 @@ Nikon D5100:
     Viewfinder coverage: 95%
     Viewfinder magnification: 0.78x
     Weight (kg): 0.51
+
+Sony NEX-C3:
+    Code:
+    - NEX-C3
+    - CX75400
+    - CX75420
+    Megapixels: 16.2
+    Model: Sony NEX-C3
+    Release date: 2011-08
+    Sensor: CMOS Exmor HD
+    Sensor format: APS-C (1.5x)
+
+Sony α35:
+    Code:
+    - SLT-A35
+    - CX86900
+    - CX86910
+    Model: Sony α35
+    Release date: 2011-08
+    Sensor: CMOS
+    Sensor format: APS-C
+
+Sony NEX-5N:
+    Code:
+    - NEX-5N
+    - CX75500
+    - CX75520
+    Megapixels: 16.1
+    Model: Sony NEX-5N
+    Release date: 2011-09
+    Sensor: CMOS Exmor HD
+    Sensor format: APS-C (1.5x)
+
+Sony α65:
+    Code:
+    - SLT-A65V (with GPS), SLT-A65 (without GPS)
+    - CX86800
+    - CX86810
+    Model: Sony α65
+    Release date: 2011-10
+    Sensor: CMOS
+    Sensor format: APS-C
+
+Sony α77:
+    Code:
+    - SLT-A77V (with GPS), SLT-A77 (without GPS)
+    - CX87000
+    - CX87010
+    Model: Sony α77
+    Release date: 2011-10
+    Sensor: CMOS
+    Sensor format: APS-C
+
+Sony NEX-7:
+    Code:
+    - NEX-7, (Hasselblad Lunar, Hasselblad Lunar Limited Edition)
+    - CX75600
+    - CX75620
+    Megapixels: 24.3
+    Model: Sony NEX-7
+    Release date: 2011-12
+    Sensor: CMOS Exmor HD
+    Sensor format: APS-C, 23.5x15.6mm (1.5x)
 
 Canon 5D Mark III:
     Dimensions (mm): 152 x 116 x 76
@@ -1135,6 +1420,63 @@ Nikon D5200:
     Viewfinder magnification: 0.78x
     Weight (kg): 0.55
 
+Sony α57:
+    Code:
+    - SLT-A57
+    - CX87400
+    Model: Sony α57
+    Release date: 2012-04
+    Sensor: CMOS
+    Sensor format: APS-C
+
+Sony NEX-F3:
+    Code:
+    - NEX-F3
+    - CX75700
+    Megapixels: 16.1
+    Model: Sony NEX-F3
+    Release date: 2012-06
+    Sensor: CMOS Exmor HD
+    Sensor format: APS-C, 23.5x15.6mm (1.5x)
+
+Sony α37:
+    Code:
+    - SLT-A37
+    - CX87100
+    Model: Sony α37
+    Release date: 2012-06
+    Sensor: CMOS
+    Sensor format: APS-C
+
+Sony NEX-5R:
+    Code:
+    - NEX-5R
+    - CX75820
+    Megapixels: 16.1
+    Model: Sony NEX-5R
+    Release date: 2012-10
+    Sensor: CMOS Exmor HD
+    Sensor format: APS-C (1.5x)
+
+Sony NEX-6:
+    Code:
+    - NEX-6
+    - CX76060
+    Megapixels: 16.1
+    Model: Sony NEX-6
+    Release date: 2012-11
+    Sensor: CMOS Exmor HD
+    Sensor format: APS-C, 23.5x15.6mm (1.5x)
+
+Sony α99:
+    Code:
+    - SLT-A99V (with GPS), SLT-A99 (without GPS), (Hasselblad HV)
+    - CX87500
+    Model: Sony α99
+    Release date: 2012-11
+    Sensor: CMOS
+    Sensor format: Full frame
+
 Canon 100D Rebel SL1:
     Dimensions (mm): 117 x 91 x 69
     Display, Ratio: 3.0", 1040k 3:2
@@ -1266,6 +1608,55 @@ Nikon Df:
     Viewfinder magnification: 0.7x
     Weight (kg): 0.71
 
+Sony NEX-3N:
+    Code:
+    - NEX-3N
+    - CX76200
+    Megapixels: 16.0
+    Model: Sony NEX-3N
+    Release date: 2013-03
+    Sensor: CMOS Exmor HD
+    Sensor format: APS-C, 23.5x15.6mm (1.5x)
+
+Sony α58:
+    Code:
+    - SLT-A58
+    - CX87600
+    Model: Sony α58
+    Release date: 2013-04
+    Sensor: CMOS
+    Sensor format: APS-C
+
+Sony NEX-5T:
+    Code:
+    - NEX-5T
+    - CX76500
+    Megapixels: 16.1
+    Model: Sony NEX-5T
+    Release date: 2013-09
+    Sensor: CMOS Exmor HD
+    Sensor format: APS-C (1.5x)
+
+Sony α7:
+    Code:
+    - ILCE-7
+    - CX77800
+    Megapixels: 24.3
+    Model: Sony α7
+    Release date: 2013-11
+    Sensor: CMOS Exmor HD
+    Sensor format: Full-frame, 35.8x23.9mm, (1.0x)
+
+Sony α7R:
+    Code:
+    - ILCE-7R, (Hasselblad Lusso)
+    - CX77900
+    Megapixels: 36.4
+    Model: Sony α7R
+    Release date: 2013-11
+    Sensor: CMOS Exmor HD
+    Sensor format: Full-frame, 35.9x24.0mm, (1.0x)
+
 Canon 1200D Rebel T5:
     Dimensions (mm): 130 x 100 x 88
     Display, Ratio: 3.0", 460k
@@ -1365,6 +1756,65 @@ Nikon D750:
     Viewfinder coverage: 100%
     Viewfinder magnification: 0.7x
     Weight (kg): 0.75
+
+Sony α5000:
+    Code:
+    - ILCE-5000
+    - CX77300
+    - CX77361
+    Megapixels: 20.1
+    Model: Sony α5000
+    Release date: 2014-03
+    Sensor: CMOS Exmor HD
+    Sensor format: APS-C, 23.2x15.4mm (1.5x)
+
+Sony α3500:
+    Code:
+    - ILCE-3500
+    - CX77100
+    Megapixels: 20.1
+    Model: Sony α3500
+    Release date: 2014-03
+    Sensor: CMOS Exmor HD
+    Sensor format: APS-C, 23.2x15.4mm (1.5x)
+
+Sony α6000:
+    Code:
+    - ILCE-6000
+    - CX77500
+    Megapixels: 24.3
+    Model: Sony α6000
+    Release date: 2014-04
+    Sensor: CMOS Exmor HD
+    Sensor format: APS-C, 23.5x15.6mm (1.5x)
+
+Sony α77 II:
+    Code:
+    - ILCA-77M2
+    Model: Sony α77 II
+    Release date: 2014-05
+    Sensor: CMOS
+    Sensor format: APS-C
+
+Sony α7S:
+    Code:
+    - ILCE-7S
+    - CX78500
+    Megapixels: 12.2
+    Model: Sony α7S
+    Release date: 2014-06
+    Sensor: CMOS Exmor HD
+    Sensor format: Full-frame, 35.6x23.8mm, (1.0x)
+
+Sony α5100:
+    Code:
+    - ILCE-5100
+    - CX78300?
+    Megapixels: 24.3
+    Model: Sony α5100
+    Release date: 2014-09
+    Sensor: CMOS Exmor HD
+    Sensor format: APS-C, 23.5x15.6mm (1.5x)
 
 Canon M3:
     Dimensions (mm): 111 x 68 x 44
@@ -1478,6 +1928,33 @@ Canon M10:
     Viewfinder coverage: '-'
     Weight (kg): 0.301
 
+Sony α7 II:
+    Code:
+    - ILCE-7M2
+    Megapixels: 24.3
+    Model: Sony α7 II
+    Release date: 2015-01
+    Sensor: CMOS Exmor HD
+    Sensor format: Full-frame, 35.8x23.9mm, (1.0x)
+
+Sony α7R II:
+    Code:
+    - ILCE-7RM2
+    Megapixels: 42.4
+    Model: Sony α7R II
+    Release date: 2015-06
+    Sensor: BSI CMOS Exmor R HD
+    Sensor format: Full-frame, 35.8x23.9mm, (1.0x)
+
+Sony α7S II:
+    Code:
+    - ILCE-7SM2
+    Megapixels: 12.2
+    Model: Sony α7S II
+    Release date: 2015-11
+    Sensor: CMOS Exmor HD
+    Sensor format: Full-frame, 35.6x23.8mm, (1.0x)
+
 Canon 1D X Mark II:
     Dimensions (mm): 158 x 164 x 83
     Display, Ratio: 3.2", 1620k
@@ -1513,7 +1990,7 @@ Nikon D5:
 
 Nikon D500:
     Dimensions (mm): 147 x 115 x 81
-    Display, Pixels: "3.2\u2033 2359k"
+    Display, Pixels: 3.2" 2359k
     Focus points: 153
     Image CPU: EXPEED 5
     Max FPS: 10.0
@@ -1626,6 +2103,40 @@ Nikon D5600:
     Viewfinder magnification: 0.82x
     Weight (kg): 0.415
 
+Sony α6300:
+    Code:
+    - ILCE-6300
+    Megapixels: 24.2
+    Model: Sony α6300
+    Release date: 2016-03
+    Sensor: CMOS Exmor
+    Sensor format: APS-C, 23.5x15.6mm (1.5x)
+
+Sony α68:
+    Code:
+    - ILCA-68
+    Model: Sony α68
+    Release date: 2016-04
+    Sensor: CMOS
+    Sensor format: APS-C
+
+Sony α99 II:
+    Code:
+    - ILCA-99M2
+    Model: Sony α99 II
+    Release date: 2016-09
+    Sensor: CMOS
+    Sensor format: Full frame
+
+Sony α6500:
+    Code:
+    - ILCE-6500
+    Megapixels: 24.2
+    Model: Sony α6500
+    Release date: 2016-12
+    Sensor: CMOS Exmor
+    Sensor format: APS-C, 23.5x15.6mm (1.5x)
+
 Canon 77D:
     Dimensions (mm): 131 x 99.9 x 76.2
     Display, Ratio: 3.0", 1040k 3:2
@@ -1675,7 +2186,7 @@ Canon M6:
 
 Nikon D7500:
     Dimensions (mm): 135.5 x 104 x 72.5
-    Display, Pixels: "3.2\u2033 922k"
+    Display, Pixels: 3.2" 922k
     Focus points: 51
     Image CPU: EXPEED 5
     Max FPS: 8.0
@@ -1753,6 +2264,24 @@ Nikon D850:
     Viewfinder coverage: 100%
     Viewfinder magnification: 0.78x
     Weight (kg): 1.005
+
+Sony α9:
+    Code:
+    - ILCE-9
+    Megapixels: 24.2
+    Model: Sony α9
+    Release date: 2017-05
+    Sensor: CMOS Exmor HD
+    Sensor format: Full-frame, 35.9x24.0mm, (1.0x)
+
+Sony α7R III:
+    Code:
+    - ILCE-7RM3
+    Megapixels: 42.4
+    Model: Sony α7R III
+    Release date: 2017-11
+    Sensor: BSI CMOS Exmor R HD
+    Sensor format: Full-frame, 35.8x23.9mm, (1.0x)
 
 Canon 2000D Rebel T7:
     Dimensions (mm): 129 x 101.3 x 77.6
@@ -1835,3 +2364,20 @@ Canon R:
     Viewfinder magnification: 3,69M pixels
     Weight (kg): 0.66
 
+Sony α7 III:
+    Code:
+    - ILCE-7M3
+    Megapixels: 24.2
+    Model: Sony α7 III
+    Release date: 2018-04
+    Sensor: BSI CMOS Exmor R HD
+    Sensor format: Full-frame, 35.8x23.9mm, (1.0x)
+
+Sony α6400:
+    Code:
+    - ILCE-6400
+    Megapixels: 24.2
+    Model: Sony α6400
+    Release date: 2019-04
+    Sensor: CMOS Exmor
+    Sensor format: APS-C, 23.5x15.6mm (1.5x)
