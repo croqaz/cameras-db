@@ -1,2401 +1,4130 @@
 
-Sony α3000:
-    Code:
-    - ILCE-3000
-    - CX77100
-    - CX77121
-    Megapixels: 20.1
-    Model: Sony α3000
-    Release date: ''
-    Sensor: CMOS Exmor HD
-    Sensor format: APS-C, 23.5x15.6mm (1.5x)
-
-Sony αQX1:
-    Code:
-    - ILCE-QX1
-    Megapixels: 20.1
-    Model: Sony αQX1
-    Release date: ''
-    Sensor: CMOS
-    Sensor format: APS-C, 23.2x15.4mm (1.5x)
-
-Nikon D1:
-    Dimensions (mm): 157 x 153 x 86
-    Display, Pixels: 2.0" 114k
-    Focus points: 5.0
-    Image CPU: '-'
-    Max FPS: 4.5
-    Megapixels: 2.66
-    Metering pixels: 1005
-    Model: Nikon D1
-    Release date: 1999 Q2
-    Sensor format: APS-C
-    Sensor type: CCD
-    Storage: CF
-    Viewfinder coverage: 96%
-    Viewfinder magnification: 0.8x
-    Weight (kg): 1.1
-
-Canon D30:
-    Dimensions (mm): 150 x 107 x 75
-    Display, Ratio: 1.8", 114k
-    Focus points: 3.0
-    Image CPU: ''
-    Max FPS: 3.0
-    Megapixels: 3.1
-    Model: Canon D30
-    Release date: 2000 Q2
-    Sensor: APS-C CMOS
-    Storage: CF
-    Touch screen: false
-    Viewfinder coverage: 0.88x
-    Viewfinder magnification: 95%
-    Weight (kg): 0.78
-
-Nikon D1H:
-    Dimensions (mm): 157 x 153 x 86
-    Display, Pixels: 2.0" 130k
-    Focus points: 5.0
-    Image CPU: '-'
-    Max FPS: 5.0
-    Megapixels: 2.7
-    Metering pixels: 1005
-    Model: Nikon D1H
-    Release date: 2001 Q1
-    Sensor format: APS-C
-    Sensor type: CCD
-    Storage: CF, MicroDrive
-    Viewfinder coverage: 96%
-    Viewfinder magnification: 0.8x
-    Weight (kg): 1.1
-
-Nikon D1X:
-    Dimensions (mm): 157 x 153 x 85
-    Display, Pixels: 2.0" 130k
-    Focus points: 5.0
-    Image CPU: '-'
-    Max FPS: 3.0
-    Megapixels: 5.3
-    Metering pixels: 1005
-    Model: Nikon D1X
-    Release date: 2001 Q1
-    Sensor format: APS-C
-    Sensor type: CCD
-    Storage: CF, MicroDrive
-    Viewfinder coverage: 96%
-    Viewfinder magnification: 0.8x
-    Weight (kg): 1.1
-
-Canon 1D:
-    Dimensions (mm): 156 x 158 x 80
-    Display, Ratio: 2.0", 120k
-    Focus points: 45.0
-    Image CPU: DIGIC
-    Max FPS: 8.0
-    Megapixels: 4.0
-    Model: Canon 1D
-    Release date: 2001 Q4
-    Sensor: APS-H CCD
-    Storage: CF
-    Touch screen: false
-    Viewfinder coverage: 0.72x
-    Viewfinder magnification: 100%
-    Weight (kg): 1.25
-
-Canon D60:
-    Dimensions (mm): 150 x 107 x 75
-    Display, Ratio: 1.8", 114k
-    Focus points: 3.0
-    Image CPU: ''
-    Max FPS: 3.0
-    Megapixels: 6.3
-    Model: Canon D60
-    Release date: 2002 Q1
-    Sensor: APS-C CMOS
-    Storage: CF
-    Touch screen: false
-    Viewfinder coverage: 0.88x
-    Viewfinder magnification: 95%
-    Weight (kg): 0.78
-
-Nikon D100:
-    Dimensions (mm): 115 x 117 x 81
-    Display, Pixels: 1.8" 118k
-    Focus points: 5.0
-    Image CPU: '-'
-    Max FPS: 3.0
-    Megapixels: 6.1
-    Metering pixels: 1005
-    Model: Nikon D100
-    Release date: 2002 Q1
-    Sensor format: APS-C
-    Sensor type: CCD
-    Storage: CF, MicroDrive
-    Viewfinder coverage: 95%
-    Viewfinder magnification: 0.8x
-    Weight (kg): 0.7
-
-Canon 1Ds:
-    Dimensions (mm): 156 x 158 x 80
-    Display, Ratio: 2.0", 120k
-    Focus points: 45.0
-    Image CPU: DIGIC
-    Max FPS: 3.0
-    Megapixels: 11.4
-    Model: Canon 1Ds
-    Release date: 2002 Q4
-    Sensor: Full-frame CMOS
-    Storage: CF
-    Touch screen: false
-    Viewfinder coverage: 0.70x
-    Viewfinder magnification: 100%
-    Weight (kg): 1.265
-
-Canon 10D:
-    Dimensions (mm): 150 x 108 x 75
-    Display, Ratio: 1.8", 118k
-    Focus points: 7.0
-    Image CPU: DIGIC
-    Max FPS: 3.0
-    Megapixels: 6.3
-    Model: Canon 10D
-    Release date: 2003 Q1
-    Sensor: APS-C CMOS
-    Storage: CF
-    Touch screen: false
-    Viewfinder coverage: 0.88x
-    Viewfinder magnification: 95%
-    Weight (kg): 0.79
-
-Canon 300D Digital Rebel:
-    Dimensions (mm): 142 x 99 x 72
-    Display, Ratio: 1.8", 118k
-    Focus points: 7.0
-    Image CPU: DIGIC
-    Max FPS: 2.5
-    Megapixels: 6.3
-    Model: Canon 300D Digital Rebel
-    Release date: 2003 Q3
-    Sensor: APS-C CMOS
-    Storage: CF
-    Touch screen: false
-    Viewfinder coverage: 0.80x
-    Viewfinder magnification: 95%
-    Weight (kg): 0.694
-
-Nikon D2H:
-    Dimensions (mm): 158 x 150 x 86
-    Display, Pixels: 2.5" 211k
-    Focus points: 11.0
-    Image CPU: '-'
-    Max FPS: 9.0
-    Megapixels: 4.1
-    Metering pixels: 1005
-    Model: Nikon D2H
-    Release date: 2003 Q3
-    Sensor format: APS-C
-    Sensor type: JFET-LBCAST
-    Storage: CF, MicroDrive
-    Viewfinder coverage: 100%
-    Viewfinder magnification: 0.86x
-    Weight (kg): 1.07
-
-Nikon D70:
-    Dimensions (mm): 140 x 112 x 79
-    Display, Pixels: 1.8" 130k
-    Focus points: 5.0
-    Image CPU: '-'
-    Max FPS: 3.0
-    Megapixels: 6.1
-    Metering pixels: 1005
-    Model: Nikon D70
-    Release date: 2004 Q1
-    Sensor format: APS-C
-    Sensor type: CCD
-    Storage: CF, MicroDrive
-    Viewfinder coverage: 95%
-    Viewfinder magnification: 0.75x
-    Weight (kg): 0.595
-
-Canon 1D Mark II:
-    Dimensions (mm): 156 x 158 x 80
-    Display, Ratio: 2.0", 230k
-    Focus points: 45.0
-    Image CPU: DIGIC II
-    Max FPS: 8.5
-    Megapixels: 8.2
-    Model: Canon 1D Mark II
-    Release date: 2004 Q2
-    Sensor: APS-H CMOS
-    Storage: CF, SD
-    Touch screen: false
-    Viewfinder coverage: 0.72x
-    Viewfinder magnification: 100%
-    Weight (kg): 1.22
-
-Canon 20D:
-    Dimensions (mm): 144 x 106 x 72
-    Display, Ratio: 1.8", 118k
-    Focus points: 9.0
-    Image CPU: DIGIC II
-    Max FPS: 5.0
-    Megapixels: 8.2
-    Model: Canon 20D
-    Release date: 2004 Q3
-    Sensor: APS-C CMOS
-    Storage: CF
-    Touch screen: false
-    Viewfinder coverage: 0.90x
-    Viewfinder magnification: 95%
-    Weight (kg): 0.685
-
-Nikon D2X:
-    Dimensions (mm): 158 x 150 x 86
-    Display, Pixels: 2.5" 235k
-    Focus points: 11.0
-    Image CPU: '-'
-    Max FPS: 5.0
-    Megapixels: 12.4
-    Metering pixels: 1005
-    Model: Nikon D2X
-    Release date: 2004 Q3
-    Sensor format: APS-C
-    Sensor type: CMOS
-    Storage: CF, MicroDrive
-    Viewfinder coverage: 100%
-    Viewfinder magnification: 0.86x
-    Weight (kg): 1.07
-
-Canon 1Ds Mark II:
-    Dimensions (mm): 156 x 158 x 80
-    Display, Ratio: 2.0", 230k
-    Focus points: 45.0
-    Image CPU: DIGIC II
-    Max FPS: 4.5
-    Megapixels: 16.7
-    Model: Canon 1Ds Mark II
-    Release date: 2004 Q4
-    Sensor: Full-frame CMOS
-    Storage: CF, SD
-    Touch screen: false
-    Viewfinder coverage: 0.70x
-    Viewfinder magnification: 100%
-    Weight (kg): 1.215
-
-Canon 20Da:
-    Dimensions (mm): 144 x 106 x 72
-    Display, Ratio: 1.8", 118k
-    Focus points: 9.0
-    Image CPU: DIGIC II
-    Max FPS: 5.0
-    Megapixels: 8.2
-    Model: Canon 20Da
-    Release date: 2005 Q1
-    Sensor: APS-C CMOS
-    Storage: CF
-    Touch screen: false
-    Viewfinder coverage: 0.90x
-    Viewfinder magnification: 95%
-    Weight (kg): 0.685
-
-Canon 350D Rebel XT:
-    Dimensions (mm): 127 x 94 x 64
-    Display, Ratio: 1.8", 115k
-    Focus points: 7.0
-    Image CPU: DIGIC II
-    Max FPS: 3.0
-    Megapixels: 8.0
-    Model: Canon 350D Rebel XT
-    Release date: 2005 Q1
-    Sensor: APS-C CMOS
-    Storage: CF
-    Touch screen: false
-    Viewfinder coverage: 0.80x
-    Viewfinder magnification: 95%
-    Weight (kg): 0.54
-
-Nikon D2Hs:
-    Dimensions (mm): 158 x 150 x 86
-    Display, Pixels: 2.5" 232k
-    Focus points: 11.0
-    Image CPU: '-'
-    Max FPS: 8.0
-    Megapixels: 4.1
-    Metering pixels: 1005
-    Model: Nikon D2Hs
-    Release date: 2005 Q1
-    Sensor format: APS-C
-    Sensor type: JFET-LBCAST
-    Storage: CF, MicroDrive
-    Viewfinder coverage: 100%
-    Viewfinder magnification: 0.86x
-    Weight (kg): 1.07
-
-Nikon D50:
-    Dimensions (mm): 133 x 102 x 76
-    Display, Pixels: 2.0" 130k
-    Focus points: 5.0
-    Image CPU: '-'
-    Max FPS: 2.5
-    Megapixels: 6.1
-    Metering pixels: 420
-    Model: Nikon D50
-    Release date: 2005 Q2
-    Sensor format: APS-C
-    Sensor type: CCD
-    Storage: SD
-    Viewfinder coverage: 95%
-    Viewfinder magnification: 0.75x
-    Weight (kg): 0.54
-
-Nikon D70s:
-    Dimensions (mm): 140 x 111 x 78
-    Display, Pixels: 2.0" 130k
-    Focus points: 5.0
-    Image CPU: '-'
-    Max FPS: 3.0
-    Megapixels: 6.1
-    Metering pixels: 1005
-    Model: Nikon D70s
-    Release date: 2005 Q2
-    Sensor format: APS-C
-    Sensor type: CCD
-    Storage: CF, MicroDrive
-    Viewfinder coverage: 95%
-    Viewfinder magnification: 0.75x
-    Weight (kg): 0.6
-
-Canon 1D Mark II N:
-    Dimensions (mm): 156 x 158 x 80
-    Display, Ratio: 2.5", 230k
-    Focus points: 45.0
-    Image CPU: DIGIC II
-    Max FPS: 8.5
-    Megapixels: 8.2
-    Model: Canon 1D Mark II N
-    Release date: 2005 Q3
-    Sensor: APS-H CMOS
-    Storage: CF, SD
-    Touch screen: false
-    Viewfinder coverage: 0.72x
-    Viewfinder magnification: 100%
-    Weight (kg): 1.225
-
-Canon 5D:
-    Dimensions (mm): 152 x 113 x 75
-    Display, Ratio: 2.5", 230k
-    Focus points: 9.0
-    Image CPU: DIGIC II
-    Max FPS: 3.0
-    Megapixels: 12.8
-    Model: Canon 5D
-    Release date: 2005 Q3
-    Sensor: Full-frame CMOS
-    Storage: CF
-    Touch screen: false
-    Viewfinder coverage: 0.71x
-    Viewfinder magnification: 96%
-    Weight (kg): 0.81
-
-Nikon D200:
-    Dimensions (mm): 147 x 113 x 74
-    Display, Pixels: 2.5" 230k
-    Focus points: 11.0
-    Image CPU: '-'
-    Max FPS: 5.0
-    Megapixels: 10.2
-    Metering pixels: 1005
-    Model: Nikon D200
-    Release date: 2005 Q4
-    Sensor format: APS-C
-    Sensor type: CCD
-    Storage: CF, MicroDrive
-    Viewfinder coverage: 95%
-    Viewfinder magnification: 0.94x
-    Weight (kg): 0.83
-
-Canon 30D:
-    Dimensions (mm): 144 x 106 x 74
-    Display, Ratio: 2.5", 230k
-    Focus points: 9.0
-    Image CPU: DIGIC II
-    Max FPS: 5.0
-    Megapixels: 8.2
-    Model: Canon 30D
-    Release date: 2006 Q1
-    Sensor: APS-C CMOS
-    Storage: CF
-    Touch screen: false
-    Viewfinder coverage: 0.90x
-    Viewfinder magnification: 95%
-    Weight (kg): 0.7
-
-Nikon D2Xs:
-    Dimensions (mm): 158 x 150 x 86
-    Display, Pixels: 2.5" 230k
-    Focus points: 11.0
-    Image CPU: '-'
-    Max FPS: 5.0
-    Megapixels: 12.4
-    Metering pixels: 1005
-    Model: Nikon D2Xs
-    Release date: 2006 Q2
-    Sensor format: APS-C
-    Sensor type: CMOS
-    Storage: CF, MicroDrive
-    Viewfinder coverage: 100%
-    Viewfinder magnification: 0.86x
-    Weight (kg): 1.07
-
-Nikon D80:
-    Dimensions (mm): 132 x 103 x 77
-    Display, Pixels: 2.5" 230k
-    Focus points: 11.0
-    Image CPU: '-'
-    Max FPS: 3.0
-    Megapixels: 10.2
-    Metering pixels: 420
-    Model: Nikon D80
-    Release date: 2006 Q3
-    Sensor format: APS-C
-    Sensor type: CCD
-    Storage: SD, SDHC
-    Viewfinder coverage: 95%
-    Viewfinder magnification: 0.94x
-    Weight (kg): 0.585
-
-Nikon D40:
-    Dimensions (mm): 126 x 94 x 64
-    Display, Pixels: 2.5" 230k
-    Focus points: 3.0
-    Image CPU: '-'
-    Max FPS: 2.5
-    Megapixels: 6.1
-    Metering pixels: 420
-    Model: Nikon D40
-    Release date: 2006 Q4
-    Sensor format: APS-C
-    Sensor type: CCD
-    Storage: SD, SDHC
-    Viewfinder coverage: 95%
-    Viewfinder magnification: 0.8x
-    Weight (kg): 0.475
-
-Sony α100:
-    Code:
-    - DSLR-A100, DSLR-A100/S (silver-colored body)
-    - CX62100
-    - CX62110
-    - CX62120
-    Model: Sony α100
-    Release date: 2006-07
-    Sensor: CCD
-    Sensor format: APS-C
-
-Canon 1D Mark III:
-    Dimensions (mm): 156 x 157 x 80
-    Display, Ratio: 3.0", 230k
-    Focus points: 45.0
-    Image CPU: Dual DIGIC III
-    Max FPS: 10.0
-    Megapixels: 10.1
-    Model: Canon 1D Mark III
-    Release date: 2007 Q1
-    Sensor: APS-H CMOS
-    Storage: CF, SD
-    Touch screen: false
-    Viewfinder coverage: 0.76x
-    Viewfinder magnification: 100%
-    Weight (kg): 1.155
-
-Canon 400D Rebel XTi:
-    Dimensions (mm): 127 x 94 x 65
-    Display, Ratio: 2.5", 230k
-    Focus points: 9.0
-    Image CPU: DIGIC II
-    Max FPS: 3.0
-    Megapixels: 10.1
-    Model: Canon 400D Rebel XTi
-    Release date: 2007 Q1
-    Sensor: APS-C CMOS
-    Storage: CF
-    Touch screen: false
-    Viewfinder coverage: 0.80x
-    Viewfinder magnification: 95%
-    Weight (kg): 0.51
-
-Nikon D40X:
-    Dimensions (mm): 126 x 94 x 64
-    Display, Pixels: 2.5" 230k
-    Focus points: 3.0
-    Image CPU: '-'
-    Max FPS: 3.0
-    Megapixels: 10.2
-    Metering pixels: 420
-    Model: Nikon D40X
-    Release date: 2007 Q2
-    Sensor format: APS-C
-    Sensor type: CCD
-    Storage: SD, SDHC
-    Viewfinder coverage: 95%
-    Viewfinder magnification: 0.8x
-    Weight (kg): 0.495
-
-Canon 40D:
-    Dimensions (mm): 146 x 108 x 74
-    Display, Ratio: 3.0", 230k
-    Focus points: 9.0
-    Image CPU: DIGIC III
-    Max FPS: 6.5
-    Megapixels: 10.1
-    Model: Canon 40D
-    Release date: 2007 Q3
-    Sensor: APS-C CMOS
-    Storage: CF
-    Touch screen: false
-    Viewfinder coverage: 0.95x
-    Viewfinder magnification: 95%
-    Weight (kg): 0.74
-
-Nikon D3:
-    Dimensions (mm): 160 x 157 x 88
-    Display, Pixels: 3.0" 921k
-    Focus points: 51.0
-    Image CPU: EXPEED
-    Max FPS: 9.0
-    Megapixels: 12.1
-    Metering pixels: 1005
-    Model: Nikon D3
-    Release date: 2007 Q3
-    Sensor format: Full-frame
-    Sensor type: CMOS
-    Storage: CF, MicroDrive (x2)
-    Viewfinder coverage: 100%
-    Viewfinder magnification: 0.7x
-    Weight (kg): 1.24
-
-Nikon D300:
-    Dimensions (mm): 147 x 114 x 74
-    Display, Pixels: 3.0" 921k
-    Focus points: 51.0
-    Image CPU: EXPEED
-    Max FPS: 6.0
-    Megapixels: 12.3
-    Metering pixels: 1005
-    Model: Nikon D300
-    Release date: 2007 Q3
-    Sensor format: APS-C
-    Sensor type: CMOS
-    Storage: CF, MicroDrive
-    Viewfinder coverage: 100%
-    Viewfinder magnification: 0.94x
-    Weight (kg): 0.825
-
-Canon 1Ds Mark III:
-    Dimensions (mm): 156 x 160 x 80
-    Display, Ratio: 3.0", 230k
-    Focus points: 45.0
-    Image CPU: Dual DIGIC III
-    Max FPS: 5.0
-    Megapixels: 21.1
-    Model: Canon 1Ds Mark III
-    Release date: 2007 Q4
-    Sensor: Full-frame CMOS
-    Storage: CF, SD
-    Touch screen: false
-    Viewfinder coverage: 0.76x
-    Viewfinder magnification: 100%
-    Weight (kg): 1.21
-
-Sony α700:
-    Code:
-    - DSLR-A700
-    - CX62300
-    - CX62320
-    Model: Sony α700
-    Release date: 2007-09
-    Sensor: CMOS
-    Sensor format: APS-C
-
-Nikon D60:
-    Dimensions (mm): 126 x 94 x 64
-    Display, Pixels: 2.5" 230k
-    Focus points: 3.0
-    Image CPU: EXPEED
-    Max FPS: 3.0
-    Megapixels: 10.2
-    Metering pixels: 420
-    Model: Nikon D60
-    Release date: 2008 Q1
-    Sensor format: APS-C
-    Sensor type: CCD
-    Storage: SD, SDHC
-    Viewfinder coverage: 95%
-    Viewfinder magnification: 0.8x
-    Weight (kg): 0.495
-
-Canon 450D Rebel XSi:
-    Dimensions (mm): 129 x 98 x 62
-    Display, Ratio: 3.0", 230k
-    Focus points: 9.0
-    Image CPU: DIGIC III
-    Max FPS: 3.5
-    Megapixels: 12.2
-    Model: Canon 450D Rebel XSi
-    Release date: 2008 Q2
-    Sensor: APS-C CMOS
-    Storage: SDHC
-    Touch screen: false
-    Viewfinder coverage: 0.87x
-    Viewfinder magnification: 95%
-    Weight (kg): 0.475
-
-Canon 1000D Rebel XS:
-    Dimensions (mm): 126 x 98 x 62
-    Display, Ratio: 2.5", 230k
-    Focus points: 7.0
-    Image CPU: DIGIC III
-    Max FPS: 3.0
-    Megapixels: 10.1
-    Model: Canon 1000D Rebel XS
-    Release date: 2008 Q3
-    Sensor: APS-C CMOS
-    Storage: SDHC
-    Touch screen: false
-    Viewfinder coverage: 0.81x
-    Viewfinder magnification: 95%
-    Weight (kg): 0.45
-
-Nikon D700:
-    Dimensions (mm): 147 x 123 x 77
-    Display, Pixels: 3.0" 921k
-    Focus points: 51.0
-    Image CPU: EXPEED
-    Max FPS: 5.0
-    Megapixels: 12.1
-    Metering pixels: 1005
-    Model: Nikon D700
-    Release date: 2008 Q3
-    Sensor format: Full-frame
-    Sensor type: CMOS
-    Storage: CF
-    Viewfinder coverage: 95%
-    Viewfinder magnification: 0.7x
-    Weight (kg): 0.995
-
-Nikon D90:
-    Dimensions (mm): 132 x 103 x 77
-    Display, Pixels: 3.0" 921k
-    Focus points: 11.0
-    Image CPU: EXPEED
-    Max FPS: 4.5
-    Megapixels: 12.3
-    Metering pixels: 420
-    Model: Nikon D90
-    Release date: 2008 Q3
-    Sensor format: APS-C
-    Sensor type: CMOS
-    Storage: SD, SDHC
-    Viewfinder coverage: 96%
-    Viewfinder magnification: 0.94x
-    Weight (kg): 0.62
-
-Canon 50D:
-    Dimensions (mm): 146 x 108 x 74
-    Display, Ratio: 3.0", 920k
-    Focus points: 9.0
-    Image CPU: DIGIC 4
-    Max FPS: 6.3
-    Megapixels: 15.1
-    Model: Canon 50D
-    Release date: 2008 Q4
-    Sensor: APS-C CMOS
-    Storage: CF
-    Touch screen: false
-    Viewfinder coverage: 0.95x
-    Viewfinder magnification: 95%
-    Weight (kg): 0.73
-
-Canon 5D Mark II:
-    Dimensions (mm): 152 x 113 x 75
-    Display, Ratio: 3.0", 920k
-    Focus points: 9.0
-    Image CPU: DIGIC 4
-    Max FPS: 3.9
-    Megapixels: 21.1
-    Model: Canon 5D Mark II
-    Release date: 2008 Q4
-    Sensor: Full-frame CMOS
-    Storage: CF
-    Touch screen: false
-    Viewfinder coverage: 0.71x
-    Viewfinder magnification: 98%
-    Weight (kg): 0.81
-
-Nikon D3X:
-    Dimensions (mm): 160 x 157 x 88
-    Display, Pixels: 3.0" 921k
-    Focus points: 51.0
-    Image CPU: EXPEED
-    Max FPS: 5.0
-    Megapixels: 24.5
-    Metering pixels: 1005
-    Model: Nikon D3X
-    Release date: 2008 Q4
-    Sensor format: Full-frame
-    Sensor type: CMOS
-    Storage: CF, MicroDrive (x2)
-    Viewfinder coverage: 100%
-    Viewfinder magnification: 0.7x
-    Weight (kg): 1.22
-
-Sony α200:
-    Code:
-    - DSLR-A200
-    - CX62700
-    Model: Sony α200
-    Release date: 2008-01
-    Sensor: CCD
-    Sensor format: APS-C
-
-Sony α300:
-    Code:
-    - DSLR-A300, DSLR-A300K/N
-    - CX62800
-    Model: Sony α300
-    Release date: 2008-01
-    Sensor: CCD
-    Sensor format: APS-C
-
-Sony α350:
-    Code:
-    - DSLR-A350, DSLR-A350K/N
-    - CX62900
-    Model: Sony α350
-    Release date: 2008-01
-    Sensor: CCD
-    Sensor format: APS-C
-
-Sony α900:
-    Code:
-    - DSLR-A900
-    - CX85100
-    - CX62500
-    Model: Sony α900
-    Release date: 2008-09
-    Sensor: CMOS
-    Sensor format: Full-frame
-
-Canon 500D Rebel T1i:
-    Dimensions (mm): 129 x 98 x 62
-    Display, Ratio: 3.0", 920k
-    Focus points: 9.0
-    Image CPU: DIGIC 4
-    Max FPS: 3.4
-    Megapixels: 15.1
-    Model: Canon 500D Rebel T1i
-    Release date: 2009 Q1
-    Sensor: APS-C CMOS
-    Storage: SDHC
-    Touch screen: false
-    Viewfinder coverage: 0.87x
-    Viewfinder magnification: 95%
-    Weight (kg): 0.48
-
-Nikon D5000:
-    Dimensions (mm): 127 x 104 x 80
-    Display, Pixels: 2.7" 230k
-    Focus points: 11.0
-    Image CPU: EXPEED
-    Max FPS: 4.0
-    Megapixels: 12.3
-    Metering pixels: 420
-    Model: Nikon D5000
-    Release date: 2009 Q2
-    Sensor format: APS-C
-    Sensor type: CMOS
-    Storage: SD, SDHC
-    Viewfinder coverage: 95%
-    Viewfinder magnification: 0.78x
-    Weight (kg): 0.56
-
-Canon 7D:
-    Dimensions (mm): 148 x 111 x 74
-    Display, Ratio: 3.0", 920k
-    Focus points: 19.0
-    Image CPU: Dual DIGIC 4
-    Max FPS: 8.0
-    Megapixels: 18.0
-    Model: Canon 7D
-    Release date: 2009 Q3
-    Sensor: APS-C CMOS
-    Storage: CF
-    Touch screen: false
-    Viewfinder coverage: 1.0x
-    Viewfinder magnification: 100%
-    Weight (kg): 0.82
-
-Nikon D3000:
-    Dimensions (mm): 126 x 94 x 64
-    Display, Pixels: 3.0" 230k
-    Focus points: 11.0
-    Image CPU: EXPEED
-    Max FPS: 3.0
-    Megapixels: 10.2
-    Metering pixels: 420
-    Model: Nikon D3000
-    Release date: 2009 Q3
-    Sensor format: APS-C
-    Sensor type: CCD
-    Storage: SD, SDHC
-    Viewfinder coverage: 95%
-    Viewfinder magnification: 0.8x
-    Weight (kg): 0.485
-
-Nikon D300S:
-    Dimensions (mm): 147 x 114 x 74
-    Display, Pixels: 3.0" 921k
-    Focus points: 51.0
-    Image CPU: EXPEED
-    Max FPS: 7.0
-    Megapixels: 12.3
-    Metering pixels: 1005
-    Model: Nikon D300S
-    Release date: 2009 Q3
-    Sensor format: APS-C
-    Sensor type: CMOS
-    Storage: CF, SD, SDHC
-    Viewfinder coverage: 100%
-    Viewfinder magnification: 0.94x
-    Weight (kg): 0.84
-
-Canon 1D Mark IV:
-    Dimensions (mm): 156 x 157 x 80
-    Display, Ratio: 3.0", 920k
-    Focus points: 45.0
-    Image CPU: Dual DIGIC 4
-    Max FPS: 10.0
-    Megapixels: 16.1
-    Model: Canon 1D Mark IV
-    Release date: 2009 Q4
-    Sensor: APS-H CMOS
-    Storage: CF, SD
-    Touch screen: false
-    Viewfinder coverage: 0.76x
-    Viewfinder magnification: 100%
-    Weight (kg): 1.18
-
-Nikon D3S:
-    Dimensions (mm): 160 x 157 x 88
-    Display, Pixels: 3.0" 921k
-    Focus points: 51.0
-    Image CPU: EXPEED
-    Max FPS: 9.0
-    Megapixels: 12.1
-    Metering pixels: 1005
-    Model: Nikon D3S
-    Release date: 2009 Q4
-    Sensor format: Full-frame
-    Sensor type: CMOS
-    Storage: CF (x2)
-    Viewfinder coverage: 100%
-    Viewfinder magnification: 0.7x
-    Weight (kg): 1.24
-
-Sony α230:
-    Code:
-    - DSLR-A230
-    - CX85500
-    Model: Sony α230
-    Release date: 2009-05
-    Sensor: CCD
-    Sensor format: APS-C
-
-Sony α330:
-    Code:
-    - DSLR-A330, DSLR-A330L/T
-    - CX85200
-    Model: Sony α330
-    Release date: 2009-05
-    Sensor: CCD
-    Sensor format: APS-C
-
-Sony α380:
-    Code:
-    - DSLR-A380
-    - CX85600
-    Model: Sony α380
-    Release date: 2009-05
-    Sensor: CCD
-    Sensor format: APS-C
-
-Sony α850:
-    Code:
-    - DSLR-A850
-    - CX86700
-    Model: Sony α850
-    Release date: 2009-09
-    Sensor: CMOS
-    Sensor format: Full-frame
-
-Sony α500:
-    Code:
-    - DSLR-A500
-    - CX85700
-    Model: Sony α500
-    Release date: 2009-10
-    Sensor: CMOS
-    Sensor format: APS-C
-
-Sony α550:
-    Code:
-    - DSLR-A550
-    - CX85800
-    Model: Sony α550
-    Release date: 2009-10
-    Sensor: CMOS
-    Sensor format: APS-C
-
-Canon 550D Rebel T2i:
-    Dimensions (mm): 129 x 98 x 62
-    Display, Ratio: 3.0", 1040k 3:2
-    Focus points: 9.0
-    Image CPU: DIGIC 4
-    Max FPS: 3.7
-    Megapixels: 18.0
-    Model: Canon 550D Rebel T2i
-    Release date: 2010 Q1
-    Sensor: APS-C CMOS
-    Storage: SDXC
-    Touch screen: false
-    Viewfinder coverage: 0.87x
-    Viewfinder magnification: 95%
-    Weight (kg): 0.53
-
-Canon 60D:
-    Dimensions (mm): 145 x 106 x 79
-    Display, Ratio: 3.0", 1040k 3:2
-    Focus points: 9.0
-    Image CPU: DIGIC 4
-    Max FPS: 5.3
-    Megapixels: 18.0
-    Model: Canon 60D
-    Release date: 2010 Q3
-    Sensor: APS-C CMOS
-    Storage: SDXC
-    Touch screen: Articulated
-    Viewfinder coverage: 0.95x
-    Viewfinder magnification: 96%
-    Weight (kg): 0.755
-
-Nikon D3100:
-    Dimensions (mm): 125 x 97 x 74
-    Display, Pixels: 3.0" 230k
-    Focus points: 11.0
-    Image CPU: EXPEED 2
-    Max FPS: 3.0
-    Megapixels: 14.2
-    Metering pixels: 420
-    Model: Nikon D3100
-    Release date: 2010 Q3
-    Sensor format: APS-C
-    Sensor type: CMOS
-    Storage: SD, SDHC, SDXC
-    Viewfinder coverage: 95%
-    Viewfinder magnification: 0.8x
-    Weight (kg): 0.455
-
-Nikon D7000:
-    Dimensions (mm): 132 x 103 x 77
-    Display, Pixels: 3.0" 921k
-    Focus points: 39.0
-    Image CPU: EXPEED 2
-    Max FPS: 6.0
-    Megapixels: 16.2
-    Metering pixels: 2016
-    Model: Nikon D7000
-    Release date: 2010 Q3
-    Sensor format: APS-C
-    Sensor type: CMOS
-    Storage: SD/SDHC/SDXC (x2)
-    Viewfinder coverage: 100%
-    Viewfinder magnification: 0.94x
-    Weight (kg): 0.69
-
-Sony α450:
-    Code:
-    - DSLR-A450
-    - CX85900
-    Model: Sony α450
-    Release date: 2010-02
-    Sensor: CMOS
-    Sensor format: APS-C
-
-Sony NEX-3:
-    Code:
-    - NEX-3 (with Eye-Fi), NEX-3C (without Eye-Fi)
-    - CX75210
-    Megapixels: 14.2
-    Model: Sony NEX-3
-    Release date: 2010-06
-    Sensor: CMOS Exmor
-    Sensor format: APS-C, 23.4x15.6mm (1.5x)
-
-Sony NEX-5:
-    Code:
-    - NEX-5 (with Eye-Fi), NEX-5C (without Eye-Fi)
-    - CX75110
-    - CX75121
-    - CX75141
-    Megapixels: 14.2
-    Model: Sony NEX-5
-    Release date: 2010-06
-    Sensor: CMOS Exmor
-    Sensor format: APS-C, 23.4x15.6mm (1.5x)
-
-Sony α290:
-    Code:
-    - DSLR-A290
-    - CX86100
-    Model: Sony α290
-    Release date: 2010-06
-    Sensor: CCD
-    Sensor format: APS-C
-
-Sony α390:
-    Code:
-    - DSLR-A390
-    - CX86200
-    Model: Sony α390
-    Release date: 2010-06
-    Sensor: CCD
-    Sensor format: APS-C
-
-Sony α560:
-    Code:
-    - DSLR-A560
-    - CX86500
-    Model: Sony α560
-    Release date: 2010-08
-    Sensor: CMOS
-    Sensor format: APS-C
-
-Sony α580:
-    Code:
-    - DSLR-A580
-    - CX86600
-    - CX86610
-    Model: Sony α580
-    Release date: 2010-08
-    Sensor: CMOS
-    Sensor format: APS-C
-
-Sony α33:
-    Code:
-    - SLT-A33
-    - CX86300
-    - CX86310
-    - CX86311
-    - CX86320
-    Model: Sony α33
-    Release date: 2010-08
-    Sensor: CMOS
-    Sensor format: APS-C
-
-Sony α55:
-    Code:
-    - SLT-A55V (with GPS), SLT-A55 (without GPS)
-    - CX86400
-    - CX86410
-    Model: Sony α55
-    Release date: 2010-08
-    Sensor: CMOS
-    Sensor format: APS-C
-
-Canon 1100D Rebel T3:
-    Dimensions (mm): 130 x 100 x 78
-    Display, Ratio: 2.7", 230k
-    Focus points: 9.0
-    Image CPU: DIGIC 4
-    Max FPS: 3.0
-    Megapixels: 12.1
-    Model: Canon 1100D Rebel T3
-    Release date: 2011 Q1
-    Sensor: APS-C CMOS
-    Storage: SDXC
-    Touch screen: false
-    Viewfinder coverage: 0.80x
-    Viewfinder magnification: 95%
-    Weight (kg): 0.495
-
-Canon 600D Rebel T3i:
-    Dimensions (mm): 133 x 100 x 80
-    Display, Ratio: 3.0", 1040k 3:2
-    Focus points: 9.0
-    Image CPU: DIGIC 4
-    Max FPS: 3.7
-    Megapixels: 18.0
-    Model: Canon 600D Rebel T3i
-    Release date: 2011 Q1
-    Sensor: APS-C CMOS
-    Storage: SDXC
-    Touch screen: Articulated
-    Viewfinder coverage: 0.85x
-    Viewfinder magnification: 95%
-    Weight (kg): 0.57
-
-Nikon D5100:
-    Dimensions (mm): 127 x 97 x 79
-    Display, Pixels: 3.0" 921k
-    Focus points: 11.0
-    Image CPU: EXPEED 2
-    Max FPS: 4.0
-    Megapixels: 16.2
-    Metering pixels: 420
-    Model: Nikon D5100
-    Release date: 2011 Q2
-    Sensor format: APS-C
-    Sensor type: CMOS
-    Storage: SD, SDHC, SDXC
-    Viewfinder coverage: 95%
-    Viewfinder magnification: 0.78x
-    Weight (kg): 0.51
-
-Sony NEX-C3:
-    Code:
-    - NEX-C3
-    - CX75400
-    - CX75420
-    Megapixels: 16.2
-    Model: Sony NEX-C3
-    Release date: 2011-08
-    Sensor: CMOS Exmor HD
-    Sensor format: APS-C (1.5x)
-
-Sony α35:
-    Code:
-    - SLT-A35
-    - CX86900
-    - CX86910
-    Model: Sony α35
-    Release date: 2011-08
-    Sensor: CMOS
-    Sensor format: APS-C
-
-Sony NEX-5N:
-    Code:
-    - NEX-5N
-    - CX75500
-    - CX75520
-    Megapixels: 16.1
-    Model: Sony NEX-5N
-    Release date: 2011-09
-    Sensor: CMOS Exmor HD
-    Sensor format: APS-C (1.5x)
-
-Sony α65:
-    Code:
-    - SLT-A65V (with GPS), SLT-A65 (without GPS)
-    - CX86800
-    - CX86810
-    Model: Sony α65
-    Release date: 2011-10
-    Sensor: CMOS
-    Sensor format: APS-C
-
-Sony α77:
-    Code:
-    - SLT-A77V (with GPS), SLT-A77 (without GPS)
-    - CX87000
-    - CX87010
-    Model: Sony α77
-    Release date: 2011-10
-    Sensor: CMOS
-    Sensor format: APS-C
-
-Sony NEX-7:
-    Code:
-    - NEX-7, (Hasselblad Lunar, Hasselblad Lunar Limited Edition)
-    - CX75600
-    - CX75620
-    Megapixels: 24.3
-    Model: Sony NEX-7
-    Release date: 2011-12
-    Sensor: CMOS Exmor HD
-    Sensor format: APS-C, 23.5x15.6mm (1.5x)
-
-Canon 5D Mark III:
-    Dimensions (mm): 152 x 116 x 76
-    Display, Ratio: 3.2", 1040k
-    Focus points: 61.0
-    Image CPU: DIGIC 5+
-    Max FPS: 6.0
-    Megapixels: 22.3
-    Model: Canon 5D Mark III
-    Release date: 2012 Q1
-    Sensor: Full-frame CMOS
-    Storage: CF, SD
-    Touch screen: false
-    Viewfinder coverage: 0.71x
-    Viewfinder magnification: 100%
-    Weight (kg): 0.95
-
-Nikon D4:
-    Dimensions (mm): 160 x 157 x 91
-    Display, Pixels: 3.2" 921k
-    Focus points: 51.0
-    Image CPU: EXPEED 3
-    Max FPS: 10.0
-    Megapixels: 16.2
-    Metering pixels: 91000
-    Model: Nikon D4
-    Release date: 2012 Q1
-    Sensor format: Full-frame
-    Sensor type: CMOS
-    Storage: CF, XQD
-    Viewfinder coverage: 100%
-    Viewfinder magnification: 0.7x
-    Weight (kg): 1.18
-
-Nikon D800:
-    Dimensions (mm): 145 x 122 x 81
-    Display, Pixels: 3.2" 921k
-    Focus points: 51.0
-    Image CPU: EXPEED 3
-    Max FPS: 4.0
-    Megapixels: 36.3
-    Metering pixels: 91000
-    Model: Nikon D800
-    Release date: 2012 Q1
-    Sensor format: Full-frame
-    Sensor type: CMOS
-    Storage: CF, SDHC, SDXC
-    Viewfinder coverage: 100%
-    Viewfinder magnification: 0.7x
-    Weight (kg): 0.9
-
-Canon 1D C:
-    Dimensions (mm): 158 x 164 x 83
-    Display, Ratio: 3.2", 1040k
-    Focus points: 61.0
-    Image CPU: Dual DIGIC 5+
-    Max FPS: 14.0
-    Megapixels: 18.1
-    Model: Canon 1D C
-    Release date: 2012 Q2
-    Sensor: Full-frame CMOS
-    Storage: CF (x2)
-    Touch screen: false
-    Viewfinder coverage: 0.76x
-    Viewfinder magnification: 100%
-    Weight (kg): 1.53
-
-Canon 1D X:
-    Dimensions (mm): 158 x 164 x 83
-    Display, Ratio: 3.2", 1040k
-    Focus points: 61.0
-    Image CPU: Dual DIGIC 5+
-    Max FPS: 14.0
-    Megapixels: 18.1
-    Model: Canon 1D X
-    Release date: 2012 Q2
-    Sensor: Full-frame CMOS
-    Storage: CF (x2)
-    Touch screen: false
-    Viewfinder coverage: 0.76x
-    Viewfinder magnification: 100%
-    Weight (kg): 1.53
-
-Canon 60Da:
-    Dimensions (mm): 145 x 106 x 79
-    Display, Ratio: 3.0", 1040k 3:2
-    Focus points: 9.0
-    Image CPU: DIGIC 4
-    Max FPS: 5.3
-    Megapixels: 18.0
-    Model: Canon 60Da
-    Release date: 2012 Q2
-    Sensor: APS-C CMOS
-    Storage: SDXC
-    Touch screen: Articulated
-    Viewfinder coverage: 0.95x
-    Viewfinder magnification: 96%
-    Weight (kg): 0.755
-
-Canon 650D Rebel T4i:
-    Dimensions (mm): 134 x 100 x 79
-    Display, Ratio: 3.0", 1040k 3:2
-    Focus points: 9.0
-    Image CPU: DIGIC 5
-    Max FPS: 5.0
-    Megapixels: 18.0
-    Model: Canon 650D Rebel T4i
-    Release date: 2012 Q2
-    Sensor: APS-C CMOS
-    Storage: SDXC (UHS-I)
-    Touch screen: Articulated
-    Viewfinder coverage: 0.85x
-    Viewfinder magnification: 95%
-    Weight (kg): 0.58
-
-Nikon D3200:
-    Dimensions (mm): 125 x 96 x 77
-    Display, Pixels: 3.0" 921k
-    Focus points: 11.0
-    Image CPU: EXPEED 3
-    Max FPS: 4.0
-    Megapixels: 24.2
-    Metering pixels: 420
-    Model: Nikon D3200
-    Release date: 2012 Q2
-    Sensor format: APS-C
-    Sensor type: CMOS
-    Storage: SD, SDHC, SDXC
-    Viewfinder coverage: 95%
-    Viewfinder magnification: 0.8x
-    Weight (kg): 0.455
-
-Canon M:
-    Dimensions (mm): 108.6 x 66.5 x 32.3
-    Display, Ratio: 3.0", 1040k 3:2
-    Focus points: 31.0
-    Image CPU: DIGIC 5
-    Max FPS: 4.3
-    Megapixels: 18.0
-    Model: Canon M
-    Release date: 2012 Q3
-    Sensor: APS-C CMOS
-    Storage: SDXC (UHS-I)
-    Touch screen: Fixed
-    Viewfinder coverage: '-'
-    Weight (kg): 0.262
-
-Nikon D600:
-    Dimensions (mm): 141 x 113 x 82
-    Display, Pixels: 3.2" 921k
-    Focus points: 39.0
-    Image CPU: EXPEED 3
-    Max FPS: 5.5
-    Megapixels: 24.3
-    Metering pixels: 2016
-    Model: Nikon D600
-    Release date: 2012 Q3
-    Sensor format: Full-frame
-    Sensor type: CMOS
-    Storage: SD/SDHC/SDXC (x2)
-    Viewfinder coverage: 100%
-    Viewfinder magnification: 0.7x
-    Weight (kg): 0.76
-
-Canon 6D:
-    Dimensions (mm): 145 x 111 x 71
-    Display, Ratio: 3.0", 1040k
-    Focus points: 11.0
-    Image CPU: DIGIC 5+
-    Max FPS: 4.5
-    Megapixels: 20.2
-    Model: Canon 6D
-    Release date: 2012 Q4
-    Sensor: Full-frame CMOS
-    Storage: SDXC (UHS-I)
-    Touch screen: false
-    Viewfinder coverage: 0.71x
-    Viewfinder magnification: 97%
-    Weight (kg): 0.77
-
-Nikon D5200:
-    Dimensions (mm): 129 x 98 x 78
-    Display, Pixels: 3.0" 921k
-    Focus points: 39.0
-    Image CPU: EXPEED 3
-    Max FPS: 5.0
-    Megapixels: 24.1
-    Metering pixels: 2016
-    Model: Nikon D5200
-    Release date: 2012 Q4
-    Sensor format: APS-C
-    Sensor type: CMOS
-    Storage: SD, SDHC, SDXC
-    Viewfinder coverage: 95%
-    Viewfinder magnification: 0.78x
-    Weight (kg): 0.55
-
-Sony α57:
-    Code:
-    - SLT-A57
-    - CX87400
-    Model: Sony α57
-    Release date: 2012-04
-    Sensor: CMOS
-    Sensor format: APS-C
-
-Sony NEX-F3:
-    Code:
-    - NEX-F3
-    - CX75700
-    Megapixels: 16.1
-    Model: Sony NEX-F3
-    Release date: 2012-06
-    Sensor: CMOS Exmor HD
-    Sensor format: APS-C, 23.5x15.6mm (1.5x)
-
-Sony α37:
-    Code:
-    - SLT-A37
-    - CX87100
-    Model: Sony α37
-    Release date: 2012-06
-    Sensor: CMOS
-    Sensor format: APS-C
-
-Sony NEX-5R:
-    Code:
-    - NEX-5R
-    - CX75820
-    Megapixels: 16.1
-    Model: Sony NEX-5R
-    Release date: 2012-10
-    Sensor: CMOS Exmor HD
-    Sensor format: APS-C (1.5x)
-
-Sony NEX-6:
-    Code:
-    - NEX-6
-    - CX76060
-    Megapixels: 16.1
-    Model: Sony NEX-6
-    Release date: 2012-11
-    Sensor: CMOS Exmor HD
-    Sensor format: APS-C, 23.5x15.6mm (1.5x)
-
-Sony α99:
-    Code:
-    - SLT-A99V (with GPS), SLT-A99 (without GPS), (Hasselblad HV)
-    - CX87500
-    Model: Sony α99
-    Release date: 2012-11
-    Sensor: CMOS
-    Sensor format: Full-frame
-
-Canon 100D Rebel SL1:
-    Dimensions (mm): 117 x 91 x 69
-    Display, Ratio: 3.0", 1040k 3:2
-    Focus points: 9.0
-    Image CPU: DIGIC 5
-    Max FPS: 4.0
-    Megapixels: 18.0
-    Model: Canon 100D Rebel SL1
-    Release date: 2013 Q1
-    Sensor: APS-C CMOS
-    Storage: SDXC (UHS-I)
-    Touch screen: Fixed
-    Viewfinder coverage: 0.87x
-    Viewfinder magnification: 95%
-    Weight (kg): 0.41
-
-Canon 700D Rebel T5i:
-    Dimensions (mm): 134 x 100 x 79
-    Display, Ratio: 3.0", 1040k 3:2
-    Focus points: 9.0
-    Image CPU: DIGIC 5
-    Max FPS: 5.0
-    Megapixels: 18.0
-    Model: Canon 700D Rebel T5i
-    Release date: 2013 Q1
-    Sensor: APS-C CMOS
-    Storage: SDXC (UHS-I)
-    Touch screen: Articulated
-    Viewfinder coverage: 0.85x
-    Viewfinder magnification: 95%
-    Weight (kg): 0.58
-
-Nikon D7100:
-    Dimensions (mm): 135.5 x 106.5 x 76
-    Display, Pixels: 3.2" 1229k
-    Focus points: 51.0
-    Image CPU: EXPEED 3
-    Max FPS: 6.0
-    Megapixels: 24.1
-    Metering pixels: 2016
-    Model: Nikon D7100
-    Release date: 2013 Q1
-    Sensor format: APS-C
-    Sensor type: CMOS
-    Storage: SD/SDHC/SDXC (x2)
-    Viewfinder coverage: 100%
-    Viewfinder magnification: 0.94x
-    Weight (kg): 0.675
-
-Canon 70D:
-    Dimensions (mm): 139 x 104.3 x 78.5
-    Display, Ratio: 3.0", 1040k 3:2
-    Focus points: 19.0
-    Image CPU: DIGIC 5+
-    Max FPS: 7.0
-    Megapixels: 20.2
-    Model: Canon 70D
-    Release date: 2013 Q3
-    Sensor: APS-C CMOS
-    Storage: SDXC (UHS-I)
-    Touch screen: Articulated
-    Viewfinder coverage: 0.95x
-    Viewfinder magnification: 98%
-    Weight (kg): 0.755
-
-Nikon D610:
-    Dimensions (mm): 141 x 113 x 82
-    Display, Pixels: 3.2" 921k
-    Focus points: 39.0
-    Image CPU: EXPEED 3
-    Max FPS: 6.0
-    Megapixels: 24.3
-    Metering pixels: 2016
-    Model: Nikon D610
-    Release date: 2013 Q3
-    Sensor format: Full-frame
-    Sensor type: CMOS
-    Storage: SD/SDHC/SDXC (x2)
-    Viewfinder coverage: 100%
-    Viewfinder magnification: 0.7x
-    Weight (kg): 0.76
-
-Canon M2:
-    Dimensions (mm): 108.6 x 66.5 x 32.3
-    Display, Ratio: 3.0", 1040k 3:2
-    Focus points: 31.0
-    Image CPU: DIGIC 5
-    Max FPS: 4.6
-    Megapixels: 18.0
-    Model: Canon M2
-    Release date: 2013 Q4
-    Sensor: APS-C CMOS
-    Storage: SDXC (UHS-I)
-    Touch screen: Fixed
-    Viewfinder coverage: '-'
-    Weight (kg): 0.274
-
-Nikon D5300:
-    Dimensions (mm): 125 x 98 x 76
-    Display, Pixels: 3.2" 1037k
-    Focus points: 39.0
-    Image CPU: EXPEED 4
-    Max FPS: 5.0
-    Megapixels: 24.1
-    Metering pixels: 2016
-    Model: Nikon D5300
-    Release date: 2013 Q4
-    Sensor format: APS-C
-    Sensor type: CMOS
-    Storage: SD, SDHC, SDXC
-    Viewfinder coverage: 95%
-    Viewfinder magnification: 0.82x
-    Weight (kg): 0.48
-
-Nikon Df:
-    Dimensions (mm): 144 x 110 x 67
-    Display, Pixels: 3.2" 921k
-    Focus points: 39.0
-    Image CPU: EXPEED 3
-    Max FPS: 5.5
-    Megapixels: 16.2
-    Metering pixels: 2016
-    Model: Nikon Df
-    Release date: 2013 Q4
-    Sensor format: Full-frame
-    Sensor type: CMOS
-    Storage: SD/SDHC/SDXC
-    Viewfinder coverage: 100%
-    Viewfinder magnification: 0.7x
-    Weight (kg): 0.71
-
-Sony NEX-3N:
-    Code:
-    - NEX-3N
-    - CX76200
-    Megapixels: 16.0
-    Model: Sony NEX-3N
-    Release date: 2013-03
-    Sensor: CMOS Exmor HD
-    Sensor format: APS-C, 23.5x15.6mm (1.5x)
-
-Sony α58:
-    Code:
-    - SLT-A58
-    - CX87600
-    Model: Sony α58
-    Release date: 2013-04
-    Sensor: CMOS
-    Sensor format: APS-C
-
-Sony NEX-5T:
-    Code:
-    - NEX-5T
-    - CX76500
-    Megapixels: 16.1
-    Model: Sony NEX-5T
-    Release date: 2013-09
-    Sensor: CMOS Exmor HD
-    Sensor format: APS-C (1.5x)
-
-Sony α7:
-    Code:
-    - ILCE-7
-    - CX77800
-    Megapixels: 24.3
-    Model: Sony α7
-    Release date: 2013-11
-    Sensor: CMOS Exmor HD
-    Sensor format: Full-frame, 35.8x23.9mm, (1.0x)
-
-Sony α7R:
-    Code:
-    - ILCE-7R, (Hasselblad Lusso)
-    - CX77900
-    Megapixels: 36.4
-    Model: Sony α7R
-    Release date: 2013-11
-    Sensor: CMOS Exmor HD
-    Sensor format: Full-frame, 35.9x24.0mm, (1.0x)
-
-Canon 1200D Rebel T5:
-    Dimensions (mm): 130 x 100 x 88
-    Display, Ratio: 3.0", 460k
-    Focus points: 9.0
-    Image CPU: DIGIC 4
-    Max FPS: 3.0
-    Megapixels: 18.0
-    Model: Canon 1200D Rebel T5
-    Release date: 2014 Q1
-    Sensor: APS-C CMOS
-    Storage: SDXC
-    Touch screen: false
-    Viewfinder coverage: 0.80x
-    Viewfinder magnification: 95%
-    Weight (kg): 0.48
-
-Nikon D3300:
-    Dimensions (mm): 124 x 98 x 76
-    Display, Pixels: 3.0" 921k
-    Focus points: 11.0
-    Image CPU: EXPEED 4
-    Max FPS: 5.0
-    Megapixels: 24.2
-    Metering pixels: 420
-    Model: Nikon D3300
-    Release date: 2014 Q1
-    Sensor format: APS-C
-    Sensor type: CMOS
-    Storage: SD, SDHC, SDXC
-    Viewfinder coverage: 95%
-    Viewfinder magnification: 0.85x
-    Weight (kg): 0.43
-
-Nikon D4S:
-    Dimensions (mm): 160 x 157 x 91
-    Display, Pixels: 3.2" 921k
-    Focus points: 51.0
-    Image CPU: EXPEED 4
-    Max FPS: 11.0
-    Megapixels: 16.2
-    Metering pixels: 91000
-    Model: Nikon D4S
-    Release date: 2014 Q1
-    Sensor format: Full-frame
-    Sensor type: CMOS
-    Storage: CF, XQD
-    Viewfinder coverage: 100%
-    Viewfinder magnification: 0.7x
-    Weight (kg): 1.18
-
-Nikon D810:
-    Dimensions (mm): 146 x 123 x 81.5
-    Display, Pixels: 3.2" 1229k
-    Focus points: 51.0
-    Image CPU: EXPEED 4
-    Max FPS: 5.0
-    Megapixels: 36.3
-    Metering pixels: 91000
-    Model: Nikon D810
-    Release date: 2014 Q2
-    Sensor format: Full-frame
-    Sensor type: CMOS
-    Storage: CF, SDHC, SDXC (x2)
-    Viewfinder coverage: 100%
-    Viewfinder magnification: 0.7x
-    Weight (kg): 0.88
-    Links:
-        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d810
-
-Canon 7D Mark II:
-    Dimensions (mm): 149 x 112 x 78
-    Display, Ratio: 3.0", 1040k
-    Focus points: 65.0
-    Image CPU: Dual DIGIC 6
-    Max FPS: 10.0
-    Megapixels: 20.2
-    Model: Canon 7D Mark II
-    Release date: 2014 Q3
-    Sensor: APS-C CMOS
-    Storage: CF, SDXC (UHS-I)
-    Touch screen: false
-    Viewfinder coverage: 1.0x
-    Viewfinder magnification: 100%
-    Weight (kg): 0.91
-
-Nikon D750:
-    Dimensions (mm): 150.5 x 113 x 78
-    Display, Pixels: 3.2" 1229k
-    Focus points: 51.0
-    Image CPU: EXPEED 4
-    Max FPS: 6.5
-    Megapixels: 24.3
-    Metering pixels: 91000
-    Model: Nikon D750
-    Release date: 2014 Q3
-    Sensor format: Full-frame
-    Sensor type: CMOS
-    Storage: SD SDHC SDXC (x2)
-    Viewfinder coverage: 100%
-    Viewfinder magnification: 0.7x
-    Weight (kg): 0.75
-    Links:
-        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d750
-
-Sony α5000:
-    Code:
-    - ILCE-5000
-    - CX77300
-    - CX77361
-    Megapixels: 20.1
-    Model: Sony α5000
-    Release date: 2014-03
-    Sensor: CMOS Exmor HD
-    Sensor format: APS-C, 23.2x15.4mm (1.5x)
-    Links:
-        dpreview: https://www.dpreview.com/products/sony/slrs/sony_a5000
-
-Sony α3500:
-    Code:
-    - ILCE-3500
-    - CX77100
-    Megapixels: 20.1
-    Model: Sony α3500
-    Release date: 2014-03
-    Sensor: CMOS Exmor HD
-    Sensor format: APS-C, 23.2x15.4mm (1.5x)
-    Links:
-        dpreview: https://www.dpreview.com/products/sony/slrs/sony_a3500
-
-Sony α6000:
-    Code:
-    - ILCE-6000
-    - CX77500
-    Megapixels: 24.3
-    Model: Sony α6000
-    Release date: 2014-04
-    Sensor: CMOS Exmor HD
-    Sensor format: APS-C, 23.5x15.6mm (1.5x)
-    Links:
-        dpreview: https://www.dpreview.com/products/sony/slrs/sony_a6000
-
-Sony α77 II:
-    Code:
-    - ILCA-77M2
-    Model: Sony α77 II
-    Release date: 2014-05
-    Sensor: CMOS
-    Sensor format: APS-C
-
-Sony α7S:
-    Code:
-    - ILCE-7S
-    - CX78500
-    Megapixels: 12.2
-    Model: Sony α7S
-    Release date: 2014-06
-    Sensor: CMOS Exmor HD
-    Sensor format: Full-frame, 35.6x23.8mm, (1.0x)
-
-Sony α5100:
-    Code:
-    - ILCE-5100
-    - CX78300?
-    Megapixels: 24.3
-    Model: Sony α5100
-    Release date: 2014-09
-    Sensor: CMOS Exmor HD
-    Sensor format: APS-C, 23.5x15.6mm (1.5x)
-
-Canon M3:
-    Dimensions (mm): 111 x 68 x 44
-    Display, Ratio: 3.0", 1040k 3:2
-    Focus points: 49.0
-    Image CPU: DIGIC 6
-    Max FPS: 4.2
-    Megapixels: 24.2
-    Model: Canon M3
-    Release date: 2015 Q1
-    Sensor: APS-C CMOS
-    Storage: SDXC (UHS-I)
-    Touch screen: Fixed
-    Viewfinder coverage: '-'
-    Weight (kg): 0.366
-
-Nikon D5500:
-    Dimensions (mm): 124 x 97 x 70
-    Display, Pixels: 3.2" 1037k
-    Focus points: 39.0
-    Image CPU: EXPEED 4
-    Max FPS: 5.0
-    Megapixels: 24.1
-    Metering pixels: 2016
-    Model: Nikon D5500
-    Release date: 2015 Q1
-    Sensor format: APS-C
-    Sensor type: CMOS
-    Storage: SD, SDHC, SDXC
-    Viewfinder coverage: 95%
-    Viewfinder magnification: 0.82x
-    Weight (kg): 0.42
-
-Canon 5Ds / 5Ds R:
-    Dimensions (mm): 152 x 116 x 76
-    Display, Ratio: 3.2", 1040k
-    Focus points: 61.0
-    Image CPU: Dual DIGIC 6
-    Max FPS: 5.0
-    Megapixels: 50.6
-    Model: Canon 5Ds / 5Ds R
-    Release date: 2015 Q2
-    Sensor: Full-frame CMOS
-    Storage: CF, SDXC (UHS-I)
-    Touch screen: false
-    Viewfinder coverage: 0.71x
-    Viewfinder magnification: 100%
-    Weight (kg): 0.93
-
-Canon 750D Rebel T6i:
-    Dimensions (mm): 132 x 101 x 78
-    Display, Ratio: 3.0", 1040k 3:2
-    Focus points: 19.0
-    Image CPU: DIGIC 6
-    Max FPS: 5.0
-    Megapixels: 24.2
-    Model: Canon 750D Rebel T6i
-    Release date: 2015 Q2
-    Sensor: APS-C CMOS
-    Storage: SDXC (UHS-I)
-    Touch screen: Articulated
-    Viewfinder coverage: 0.82x
-    Viewfinder magnification: 95%
-    Weight (kg): 0.555
-
-Canon 760D Rebel T6s:
-    Dimensions (mm): 132 x 101 x 78
-    Display, Ratio: 3.0", 1040k 3:2
-    Focus points: 19.0
-    Image CPU: DIGIC 6
-    Max FPS: 5.0
-    Megapixels: 24.2
-    Model: Canon 760D Rebel T6s
-    Release date: 2015 Q2
-    Sensor: APS-C CMOS
-    Storage: SDXC (UHS-I)
-    Touch screen: Articulated
-    Viewfinder coverage: 0.82x
-    Viewfinder magnification: 95%
-    Weight (kg): 0.565
-
-Nikon D7200:
-    Dimensions (mm): 135.5 x 106.5 x 76
-    Display, Pixels: 3.2" 1229k
-    Focus points: 51.0
-    Image CPU: EXPEED 4
-    Max FPS: 6.0
-    Megapixels: 24.2
-    Metering pixels: 2016
-    Model: Nikon D7200
-    Release date: 2015 Q2
-    Sensor format: APS-C
-    Sensor type: CMOS
-    Storage: SD/SDHC/SDXC (x2)
-    Viewfinder coverage: 100%
-    Viewfinder magnification: 0.94x
-    Weight (kg): 0.675
-
-Canon M10:
-    Dimensions (mm): 108 x 67 x 35
-    Display, Ratio: 3.0", 1040k 3:2
-    Focus points: 49.0
-    Image CPU: DIGIC 6
-    Max FPS: 4.6
-    Megapixels: 18.0
-    Model: Canon M10
-    Release date: 2015 Q4
-    Sensor: APS-C CMOS
-    Storage: SD, SDHC or SDXC
-    Touch screen: Tilting
-    Viewfinder coverage: '-'
-    Weight (kg): 0.301
-
-Sony α7 II:
-    Code:
-    - ILCE-7M2
-    Megapixels: 24.3
-    Model: Sony α7 II
-    Release date: 2015-01
-    Sensor: CMOS Exmor HD
-    Sensor format: Full-frame, 35.8x23.9mm, (1.0x)
-
-Sony α7R II:
-    Code:
-    - ILCE-7RM2
-    Megapixels: 42.4
-    Model: Sony α7R II
-    Release date: 2015-06
-    Sensor: BSI CMOS Exmor R HD
-    Sensor format: Full-frame, 35.8x23.9mm, (1.0x)
-
-Sony α7S II:
-    Code:
-    - ILCE-7SM2
-    Megapixels: 12.2
-    Model: Sony α7S II
-    Release date: 2015-11
-    Sensor: CMOS Exmor HD
-    Sensor format: Full-frame, 35.6x23.8mm, (1.0x)
-
-Canon 1D X Mark II:
-    Dimensions (mm): 158 x 164 x 83
-    Display, Ratio: 3.2", 1620k
-    Focus points: 61.0
-    Image CPU: Dual DIGIC 6+
-    Max FPS: 16.0
-    Megapixels: 20.2
-    Model: Canon 1D X Mark II
-    Release date: 2016 Q1
-    Sensor: Full-frame CMOS
-    Storage: CFast, CF
-    Touch screen: Fixed
-    Viewfinder coverage: 0.76x
-    Viewfinder magnification: 100%
-    Weight (kg): 1.53
-
-Nikon D5:
-    Dimensions (mm): 160 x 158.5 x 92
-    Display, Pixels: 3.2" 2539k
-    Focus points: 153
-    Image CPU: EXPEED 5
-    Max FPS: 12.0
-    Megapixels: 20.8
-    Metering pixels: 180000
-    Model: Nikon D5
-    Release date: 2016 Q1
-    Sensor format: Full-frame
-    Sensor type: CMOS
-    Storage: CF (x2) or XQD (x2)
-    Viewfinder coverage: 100%
-    Viewfinder magnification: 0.72x
-    Weight (kg): 1.235
-
-Nikon D500:
-    Dimensions (mm): 147 x 115 x 81
-    Display, Pixels: 3.2" 2359k
-    Focus points: 153
-    Image CPU: EXPEED 5
-    Max FPS: 10.0
-    Megapixels: 20.9
-    Metering pixels: 180000
-    Model: Nikon D500
-    Release date: 2016 Q1
-    Sensor format: APS-C
-    Sensor type: CMOS
-    Storage: SD/SDHC/SDXC, XQD
-    Viewfinder coverage: 100%
-    Viewfinder magnification: 1x
-    Weight (kg): 0.76
-
-Canon 1300D Rebel T6:
-    Dimensions (mm): 130 x 101 x 88
-    Display, Ratio: 3.0", 920k
-    Focus points: 9.0
-    Image CPU: DIGIC 4+
-    Max FPS: 3.0
-    Megapixels: 18.0
-    Model: Canon 1300D Rebel T6
-    Release date: 2016 Q2
-    Sensor: APS-C CMOS
-    Storage: SDXC
-    Touch screen: false
-    Viewfinder coverage: 0.80x
-    Viewfinder magnification: 95%
-    Weight (kg): 0.48
-
-Canon 80D:
-    Dimensions (mm): 139 x 105.2 x 78.5
-    Display, Ratio: 3.0", 1040k 3:2
-    Focus points: 45.0
-    Image CPU: DIGIC 6
-    Max FPS: 7.0
-    Megapixels: 24.2
-    Model: Canon 80D
-    Release date: 2016 Q2
-    Sensor: APS-C CMOS
-    Storage: SDXC (UHS-I)
-    Touch screen: Articulated
-    Viewfinder coverage: 0.95x
-    Viewfinder magnification: 100%
-    Weight (kg): 0.73
-
-Canon 5D Mark IV:
-    Dimensions (mm): 151 x 116 x 76
-    Display, Ratio: 3.2", 1620k
-    Focus points: 61.0
-    Image CPU: DIGIC 6+
-    Max FPS: 7.0
-    Megapixels: 30.1
-    Model: Canon 5D Mark IV
-    Release date: 2016 Q3
-    Sensor: Full-frame CMOS
-    Storage: CF, SDXC (UHS-I)
-    Touch screen: Fixed
-    Viewfinder coverage: 0.71x
-    Viewfinder magnification: 100%
-    Weight (kg): 0.889
-
-Nikon D3400:
-    Dimensions (mm): 124 x 98 x 76
-    Display, Pixels: 3.0" 921k
-    Focus points: 11.0
-    Image CPU: EXPEED 4
-    Max FPS: 5.0
-    Megapixels: 24.2
-    Metering pixels: 420
-    Model: Nikon D3400
-    Release date: 2016 Q3
-    Sensor format: APS-C
-    Sensor type: CMOS
-    Storage: SD, SDHC, SDXC
-    Viewfinder coverage: 95%
-    Viewfinder magnification: 0.85x
-    Weight (kg): 0.395
-
-Canon M5:
-    Dimensions (mm): 115.6 x 89.2 x 60.6
-    Display, Ratio: 3.2", 1.62M 3:2
-    Focus points: 49.0
-    Image CPU: DIGIC 7
-    Max FPS: 9; 7 with autofocus
-    Megapixels: 24.2
-    Model: Canon M5
-    Release date: 2016 Q4
-    Sensor: APS-C CMOS
-    Storage: SDXC (UHS-I)
-    Touch screen: Fixed
-    Viewfinder coverage: electronic
-    Viewfinder magnification: 2,360k pixels
-    Weight (kg): 0.427
-
-Nikon D5600:
-    Dimensions (mm): 124 x 97 x 70
-    Display, Pixels: 3.2" 1037k
-    Focus points: 39.0
-    Image CPU: EXPEED 4
-    Max FPS: 5.0
-    Megapixels: 24.2
-    Metering pixels: 2016
-    Model: Nikon D5600
-    Release date: 2016 Q4
-    Sensor format: APS-C
-    Sensor type: CMOS
-    Storage: SD, SDHC, SDXC
-    Viewfinder coverage: 95%
-    Viewfinder magnification: 0.82x
-    Weight (kg): 0.415
-
-Sony α6300:
-    Code:
-    - ILCE-6300
-    Megapixels: 24.2
-    Model: Sony α6300
-    Release date: 2016-03
-    Sensor: CMOS Exmor
-    Sensor format: APS-C, 23.5x15.6mm (1.5x)
-    Links:
-        dpreview: https://www.dpreview.com/products/sony/slrs/sony_a6300
-
-Sony α68:
-    Code:
-    - ILCA-68
-    Model: Sony α68
-    Release date: 2016-04
-    Sensor: CMOS
-    Sensor format: APS-C
-
-Sony α99 II:
-    Code:
-    - ILCA-99M2
-    Model: Sony α99 II
-    Release date: 2016-09
-    Sensor: CMOS
-    Sensor format: Full-frame
-
-Sony α6500:
-    Code:
-    - ILCE-6500
-    Megapixels: 24.2
-    Model: Sony α6500
-    Release date: 2016-12
-    Sensor: CMOS Exmor
-    Sensor format: APS-C, 23.5x15.6mm (1.5x)
-
-Canon 77D:
-    Dimensions (mm): 131 x 99.9 x 76.2
-    Display, Ratio: 3.0", 1040k 3:2
-    Focus points: 45.0
-    Image CPU: DIGIC 7
-    Max FPS: 6.0
-    Megapixels: 24.2
-    Model: Canon 77D
-    Release date: 2017 Q1
-    Sensor: APS-C CMOS
-    Storage: SDXC (UHS-I)
-    Touch screen: Articulated
-    Viewfinder coverage: 0.82x
-    Viewfinder magnification: 95%
-    Weight (kg): 0.54
-
-Canon 800D Rebel T7i:
-    Dimensions (mm): 131 x 100 x 76
-    Display, Ratio: 3.0", 1040k 3:2
-    Focus points: 45.0
-    Image CPU: DIGIC 7
-    Max FPS: 6.0
-    Megapixels: 24.2
-    Model: Canon 800D Rebel T7i
-    Release date: 2017 Q2
-    Sensor: APS-C CMOS
-    Storage: SDXC (UHS-I)
-    Touch screen: Articulated
-    Viewfinder coverage: 0.82x
-    Viewfinder magnification: 95%
-    Weight (kg): 0.532
-
-Canon M6:
-    Dimensions (mm): 112.0 x 68.0 x 44.5
-    Display, Ratio: 3.0", 1040k 3:2
-    Focus points: 49.0
-    Image CPU: DIGIC 7
-    Max FPS: 9; 7 with autofocus
-    Megapixels: 24.2
-    Model: Canon M6
-    Release date: 2017 Q2
-    Sensor: APS-C CMOS
-    Storage: SDXC (UHS-I)
-    Touch screen: Tilting
-    Viewfinder coverage: '-'
-    Weight (kg): 0.39
-
-Nikon D7500:
-    Dimensions (mm): 135.5 x 104 x 72.5
-    Display, Pixels: 3.2" 922k
-    Focus points: 51
-    Image CPU: EXPEED 5
-    Max FPS: 8.0
-    Megapixels: 20.9
-    Metering pixels: 180000
-    Model: Nikon D7500
-    Release date: 2017 Q2
-    Sensor format: APS-C
-    Sensor type: CMOS
-    Storage: SD/SDHC/SDXC
-    Viewfinder coverage: 100%
-    Viewfinder magnification: 0.94x
-    Weight (kg): 0.64
-    Links:
-        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d7500
-
-Canon 200D Rebel SL2:
-    Dimensions (mm): 122.4 x 92.6 x 69.8
-    Display, Ratio: 3.0", 1040k 3:2
-    Focus points: 9.0
-    Image CPU: DIGIC 7
-    Max FPS: 5.0
-    Megapixels: 24.2
-    Model: Canon 200D Rebel SL2
-    Release date: 2017 Q3
-    Sensor: APS-C CMOS
-    Storage: SDXC (UHS-I)
-    Touch screen: Articulated
-    Viewfinder coverage: 0.82x
-    Viewfinder magnification: 95%
-    Weight (kg): 0.453
-    Links:
-        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos200d
-
-Canon 6D Mark II:
-    Dimensions (mm): 144 x 110.5 x 74.8
-    Display, Ratio: 3.0", 1040k 3:2
-    Focus points: 45.0
-    Image CPU: DIGIC 7
-    Max FPS: 6.5
-    Megapixels: 26.2
-    Model: Canon 6D Mark II
-    Release date: 2017 Q3
-    Sensor: Full-frame CMOS
-    Storage: SDXC (UHS-I)
-    Touch screen: Articulated
-    Viewfinder coverage: 0.71x
-    Viewfinder magnification: 98%
-    Weight (kg): 0.765
-
-Canon M100:
-    Dimensions (mm): 108.2 x 67,1 x 35,1
-    Display, Ratio: 3.0", 1040k 3:2
-    Focus points: 49.0
-    Image CPU: DIGIC 7
-    Max FPS: 6.1
-    Megapixels: 24.0
-    Model: Canon M100
-    Release date: 2017 Q3
-    Sensor: APS-C CMOS
-    Storage: SD, SDHC or SDXC
-    Touch screen: Tilting
-    Viewfinder coverage: '-'
-    Weight (kg): 0.302
-
-Nikon D850:
-    Dimensions (mm): 146 x 124 x 78.5
-    Display, Pixels: 3.2" 2539k
-    Focus points: 153.0
-    Image CPU: EXPEED 5
-    Max FPS: 7(9)
-    Megapixels: 45.7
-    Metering pixels: 180000
-    Model: Nikon D850
-    Release date: 2017 Q3
-    Sensor format: Full-frame
-    Sensor type: CMOS
-    Storage: SD, XQD
-    Viewfinder coverage: 100%
-    Viewfinder magnification: 0.78x
-    Weight (kg): 1.005
-
-Sony α9:
-    Code:
-    - ILCE-9
-    Megapixels: 24.2
-    Model: Sony α9
-    Release date: 2017-05
-    Sensor: CMOS Exmor HD
-    Sensor format: Full-frame, 35.9x24.0mm, (1.0x)
-
-Sony α7R III:
-    Code:
-    - ILCE-7RM3
-    Megapixels: 42.4
-    Model: Sony α7R III
-    Release date: 2017-11
-    Sensor: BSI CMOS Exmor R HD
-    Sensor format: Full-frame, 35.8x23.9mm, (1.0x)
-
-Canon 2000D Rebel T7:
-    Dimensions (mm): 129 x 101.3 x 77.6
-    Display, Ratio: 3.0", 920k
-    Focus points: 9.0
-    Image CPU: DIGIC 4+
-    Max FPS: 3.0
-    Megapixels: 24.1
-    Model: Canon 2000D Rebel T7
-    Release date: 2018 Q2
-    Sensor: APS-C CMOS
-    Storage: SDXC
-    Touch screen: false
-    Viewfinder coverage: 0.80x
-    Viewfinder magnification: 95%
-    Weight (kg): 0.475
-
-Canon 4000D Rebel T100:
-    Dimensions (mm): 129 x 101.6 x 77.1
-    Display, Ratio: 2.7", 230k
-    Focus points: 9.0
-    Image CPU: DIGIC 4+
-    Max FPS: 3.0
-    Megapixels: 18.0
-    Model: Canon 4000D Rebel T100
-    Release date: 2018 Q2
-    Sensor: APS-C CMOS
-    Storage: SDXC
-    Touch screen: false
-    Viewfinder coverage: 0.80x
-    Viewfinder magnification: 95%
-    Weight (kg): 0.436
-
-Canon M50:
-    Dimensions (mm): 116.3 x 88.1 x 58.7
-    Display, Ratio: 3.0", 1040k 3:2
-    Focus points: 143
-    Image CPU: DIGIC 8
-    Max FPS: 10; 7.4 with autofocus
-    Megapixels: 24.1
-    Model: Canon M50
-    Release date: 2018 Q2
-    Sensor: APS-C CMOS
-    Storage: SDXC (UHS-I)
-    Touch screen: Articulated
-    Viewfinder coverage: electronic
-    Viewfinder magnification: 2,360k pixels
-    Weight (kg): 0.387
-
-Nikon D3500:
-    Dimensions (mm): 124 x 97 x 69.5
-    Display, Pixels: 3.0" 921k
-    Focus points: 11.0
-    Image CPU: EXPEED 4
-    Max FPS: 5.0
-    Megapixels: 24.2
-    Metering pixels: 420
-    Model: Nikon D3500
-    Release date: 2018 Q2
-    Sensor format: APS-C
-    Sensor type: CMOS
-    Storage: SD, SDHC, SDXC
-    Viewfinder coverage: 95%
-    Viewfinder magnification: 0.85x
-    Weight (kg): 0.365
-
-Canon R:
-    Dimensions (mm): 135.8 x 98.3 x 84.4
-    Display, Ratio: 3.15", 2100k 3:2
-    Focus points: ''
-    Image CPU: DIGIC 8
-    Max FPS: 8.0
-    Megapixels: 30.3
-    Model: Canon R
-    Release date: 2018 Q3
-    Sensor: Full-frame CMOS
-    Storage: SDXC (UHS-II)
-    Touch screen: Articulated
-    Viewfinder coverage: electronic
-    Viewfinder magnification: 3,69M pixels
-    Weight (kg): 0.66
-
-Sony α7 III:
-    Code:
-    - ILCE-7M3
-    Megapixels: 24.2
-    Model: Sony α7 III
-    Release date: 2018-04
-    Sensor: BSI CMOS Exmor R HD
-    Sensor format: Full-frame, 35.8x23.9mm, (1.0x)
-
-Sony α6400:
-    Code:
-    - ILCE-6400
-    Megapixels: 24.2
-    Model: Sony α6400
-    Release date: 2019-04
-    Sensor: CMOS Exmor
-    Sensor format: APS-C, 23.5x15.6mm (1.5x)
-    Links:
-        dpreview: https://www.dpreview.com/products/sony/slrs/sony_a6400
+canon_1000d:
+    body_type: Compact SLR
+    dimensions_mm: 126 x 98 x 65
+    focus_points: 7
+    lens_mount: Canon EF/EF-S
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos1000d/specifications
+    max_fps: 3.0
+    mega_pixels: 10.0
+    name: Canon EOS 1000D (Rebel XS / Kiss F Digital)
+    release_date: Jun 10, 2008
+    screen_size: 2.5
+    sensor_size: APS-C (22.2 x 14.8 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/MMC card
+    weight_gr: 502
+
+canon_100d:
+    battery_life: 380
+    body_type: Compact SLR
+    dimensions_mm: 117 x 91 x 69
+    gps: Optional
+    lens_mount: Canon EF/EF-S
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos100d/specifications
+    max_fps: 4.0
+    mega_pixels: 18.0
+    name: Canon EOS 100D (Rebel SL1)
+    processor: Digic 5
+    release_date: Mar 21, 2013
+    screen_size: 3.0
+    sensor_size: APS-C (22.3 x 14.9 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 407
+
+canon_1100d:
+    battery_life: 700
+    body_type: Compact SLR
+    dimensions_mm: 130 x 100 x 78
+    focus_points: 9
+    gps: null
+    lens_mount: Canon EF/EF-S
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos1100d/specifications
+    max_fps: 3.0
+    mega_pixels: 12.0
+    name: Canon EOS 1100D (Rebel T3 / EOS Kiss X50)
+    processor: Digic 4
+    release_date: Feb 7, 2011
+    screen_size: 2.7
+    sensor_size: APS-C (22.2 x 14.8 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC card
+    weight_gr: 495
+
+canon_1200d:
+    battery_life: 500
+    body_type: Compact SLR
+    dimensions_mm: 130 x 100 x 78
+    focus_points: 9
+    gps: null
+    lens_mount: Canon EF/EF-S
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos1200d/specifications
+    max_fps: 3.0
+    mega_pixels: 18.0
+    name: Canon EOS 1200D (Rebel T5 / EOS Kiss X70)
+    processor: Digic 4
+    release_date: Feb 12, 2014
+    screen_size: 3.0
+    sensor_size: APS-C (22.3 x 14.9 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC card
+    weight_gr: 480
+
+canon_1300d:
+    battery_life: 500
+    body_type: Compact SLR
+    dimensions_mm: 129 x 101 x 78
+    focus_points: 9
+    gps: null
+    lens_mount: Canon EF/EF-S
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos1300d/specifications
+    max_fps: 3.0
+    mega_pixels: 18.0
+    name: Canon EOS 1300D (Rebel T6)
+    processor: Digic 4+
+    release_date: Mar 10, 2016
+    screen_size: 3.0
+    sensor_size: APS-C (22.3 x 14.9 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC card
+    weight_gr: 485
+
+canon_1dc:
+    body_type: Large SLR
+    dimensions_mm: 158 x 164 x 83
+    focus_points: 61
+    gps: Optional
+    lens_mount: Canon EF
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos1dc/specifications
+    max_fps: 14.0
+    mega_pixels: 18.0
+    name: Canon EOS-1D C
+    processor: Dual Digic 5+
+    release_date: Apr 12, 2012
+    screen_size: 3.2
+    sensor_size: Full frame (36 x 24 mm)
+    sensor_type: CMOS
+    storage: Compact Flash (Type I or II), UDMA compatible
+    weight_gr: -1
+
+canon_1dmkiii:
+    body_type: Large SLR
+    dimensions_mm: 156 x 157 x 80
+    focus_points: 19
+    gps: null
+    lens_mount: Canon EF
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos1dmkiii/specifications
+    max_fps: 10.0
+    mega_pixels: 10.0
+    name: Canon EOS-1D Mark III
+    release_date: Feb 22, 2007
+    screen_size: 3.0
+    sensor_size: APS-H (28.7 x 18.7 mm)
+    sensor_type: CMOS
+    storage: Compact Flash (Type I or II), SD/SDHC card
+    weight_gr: 1335
+
+canon_1dmkiv:
+    battery_life: 1500
+    body_type: Large SLR
+    dimensions_mm: 156 x 157 x 80
+    focus_points: 45
+    gps: null
+    lens_mount: Canon EF
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos1dmkiv/specifications
+    max_fps: 10.0
+    mega_pixels: 16.0
+    name: Canon EOS-1D Mark IV
+    processor: Digic 4
+    release_date: Oct 20, 2009
+    screen_size: 3.0
+    sensor_size: APS-H (27.9 x 18.6 mm)
+    sensor_type: CMOS
+    storage: Compact Flash (Type I or II), UDMA, SD/SDHC card
+    weight_gr: 1230
+
+canon_1dsmkiii:
+    body_type: Large SLR
+    dimensions_mm: 150 x 160 x 80
+    focus_points: 45
+    lens_mount: Canon EF
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos1dsmkiii/specifications
+    max_fps: 5.0
+    mega_pixels: 21.0
+    name: Canon EOS-1Ds Mark III
+    release_date: Aug 20, 2007
+    screen_size: 3.0
+    sensor_size: Full frame (36 x 24 mm)
+    sensor_type: CMOS
+    storage: Compact Flash (Type I or II), SD card
+    weight_gr: 1385
+
+canon_1dx:
+    body_type: Large SLR
+    dimensions_mm: 158 x 164 x 83
+    focus_points: 61
+    gps: Optional
+    lens_mount: Canon EF
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos1dx/specifications
+    max_fps: 14.0
+    mega_pixels: 18.0
+    name: Canon EOS-1D X
+    processor: Dual Digic 5+
+    release_date: Oct 18, 2011
+    screen_size: 3.2
+    sensor_size: Full frame (36 x 24 mm)
+    sensor_type: CMOS
+    storage: Compact Flash (Type I or II), UDMA compatible
+    weight_gr: -1
+
+canon_1dxmkii:
+    battery_life: 1210
+    body_type: Large SLR
+    dimensions_mm: 158 x 168 x 83
+    focus_points: 61
+    gps: Built-in
+    lens_mount: Canon EF
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos1dxii/specifications
+    max_fps: 16.0
+    mega_pixels: 20.0
+    name: Canon EOS-1D X Mark II
+    processor: Dual DIGIC 6+
+    release_date: Feb 2, 2016
+    screen_size: 3.2
+    sensor_size: Full frame (36 x 24 mm)
+    sensor_type: CMOS
+    storage: CompactFlash + CFast 2.0
+    weight_gr: 1530
+
+canon_2000d:
+    battery_life: 500
+    body_type: Compact SLR
+    dimensions_mm: 129 x 101 x 78
+    focus_points: 9
+    gps: null
+    lens_mount: Canon EF/EF-S
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos2000d/specifications
+    max_fps: 3.0
+    mega_pixels: 24.0
+    name: Canon EOS 2000D (Rebel T7)
+    processor: Digic 4+
+    release_date: Feb 26, 2018
+    screen_size: 3.0
+    sensor_size: APS-C (22.3 x 14.9 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC card
+    weight_gr: 475
+
+canon_200d:
+    battery_life: 650
+    body_type: Compact SLR
+    dimensions_mm: 122 x 93 x 70
+    focus_points: 9
+    gps: null
+    lens_mount: Canon EF/EF-S
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos200d/specifications
+    max_fps: 5.0
+    mega_pixels: 24.0
+    name: Canon EOS 200D (Rebel SL2 / Kiss X9)
+    processor: DIGIC 7
+    release_date: Jun 29, 2017
+    screen_size: 3.0
+    sensor_size: APS-C (22.3 x 14.9 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC (UHS-I compatible)
+    weight_gr: 453
+
+canon_30d:
+    body_type: Mid-size SLR
+    dimensions_mm: 144 x 106 x 74
+    focus_points: 9
+    lens_mount: Canon EF/EF-S
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos30d/specifications
+    max_fps: 5.0
+    mega_pixels: 8.0
+    name: Canon EOS 30D
+    release_date: Feb 21, 2006
+    screen_size: 2.5
+    sensor_size: APS-C (22.5 x 15 mm)
+    sensor_type: CMOS
+    storage: Compact Flash (Type I or II)
+    weight_gr: 784
+
+canon_4000d:
+    battery_life: 500
+    body_type: Compact SLR
+    dimensions_mm: 129 x 102 x 77
+    focus_points: 9
+    gps: null
+    lens_mount: Canon EF/EF-S
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos4000d/specifications
+    max_fps: 3.0
+    mega_pixels: 18.0
+    name: Canon EOS 4000D
+    processor: Digic 4+
+    release_date: Feb 26, 2018
+    screen_size: 2.7
+    sensor_size: APS-C (22.3 x 14.9 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC card
+    weight_gr: 436
+
+canon_400d:
+    body_type: Compact SLR
+    dimensions_mm: 127 x 94 x 65
+    focus_points: 9
+    lens_mount: Canon EF/EF-S
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos400d/specifications
+    max_fps: 3.0
+    mega_pixels: 10.0
+    name: Canon EOS 400D (Rebel XTi / EOS Kiss Digital X)
+    release_date: Aug 24, 2006
+    screen_size: 2.5
+    sensor_size: APS-C (22.2 x 14.8 mm)
+    sensor_type: CMOS
+    storage: Compact Flash (Type I or II)
+    weight_gr: 556
+
+canon_40d:
+    body_type: Mid-size SLR
+    dimensions_mm: 146 x 108 x 74
+    focus_points: 9
+    lens_mount: Canon EF/EF-S
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos40d/specifications
+    max_fps: 6.5
+    mega_pixels: 10.0
+    name: Canon EOS 40D
+    release_date: Aug 20, 2007
+    screen_size: 3.0
+    sensor_size: APS-C (22.2 x 14.8 mm)
+    sensor_type: CMOS
+    storage: Compact Flash (Type I or II)
+    weight_gr: 822
+
+canon_450d:
+    body_type: Compact SLR
+    dimensions_mm: 129 x 98 x 62
+    focus_points: 9
+    gps: null
+    lens_mount: Canon EF/EF-S
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos450d/specifications
+    max_fps: 3.5
+    mega_pixels: 12.0
+    name: Canon EOS 450D (Rebel XSi / EOS Kiss X2)
+    release_date: Jan 24, 2008
+    screen_size: 3.0
+    sensor_size: APS-C (22.2 x 14.8 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/MMC card
+    weight_gr: 524
+
+canon_500d:
+    battery_life: 440
+    body_type: Compact SLR
+    dimensions_mm: 129 x 98 x 62
+    focus_points: 9
+    gps: null
+    lens_mount: Canon EF/EF-S
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos500d/specifications
+    max_fps: 3.4
+    mega_pixels: 15.0
+    name: Canon EOS 500D (Rebel T1i / EOS Kiss X3)
+    processor: Digic 4
+    release_date: Mar 25, 2009
+    screen_size: 3.0
+    sensor_size: APS-C (22.3 x 14.9 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC
+    weight_gr: 520
+
+canon_50d:
+    battery_life: 800
+    body_type: Mid-size SLR
+    dimensions_mm: 146 x 108 x 74
+    focus_points: 9
+    gps: null
+    lens_mount: Canon EF/EF-S
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos50d/specifications
+    max_fps: 6.3
+    mega_pixels: 15.0
+    name: Canon EOS 50D
+    processor: Digic 4
+    release_date: Aug 26, 2008
+    screen_size: 3.0
+    sensor_size: APS-C (22.3 x 14.9 mm)
+    sensor_type: CMOS
+    storage: Compact Flash (Type I or II), UDMA
+    weight_gr: 822
+
+canon_550d:
+    body_type: Compact SLR
+    dimensions_mm: 129 x 98 x 62
+    focus_points: 9
+    gps: null
+    lens_mount: Canon EF/EF-S
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos550d/specifications
+    max_fps: 3.7
+    mega_pixels: 18.0
+    name: Canon EOS 550D (Rebel T2i / EOS Kiss X4)
+    processor: Digic 4
+    release_date: Feb 8, 2010
+    screen_size: 3.0
+    sensor_size: APS-C (22.3 x 14.9 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 530
+
+canon_5d:
+    battery_life: 400
+    body_type: Mid-size SLR
+    dimensions_mm: 152 x 113 x 75
+    focus_points: 9
+    gps: null
+    lens_mount: Canon EF
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos5d/specifications
+    max_fps: 3.0
+    mega_pixels: 13.0
+    name: Canon EOS 5D
+    processor: Digic II
+    release_date: Aug 22, 2005
+    screen_size: 2.5
+    sensor_size: Full frame (36 x 24 mm)
+    sensor_type: CMOS
+    storage: Compact Flash (Type I or II)
+    weight_gr: 895
+
+canon_5dmkii:
+    battery_life: 850
+    body_type: Mid-size SLR
+    dimensions_mm: 152 x 114 x 75
+    focus_points: 9
+    gps: null
+    lens_mount: Canon EF
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos5dmkii/specifications
+    max_fps: 3.9
+    mega_pixels: 21.0
+    name: Canon EOS 5D Mark II
+    processor: Digic 4
+    release_date: Sep 17, 2008
+    screen_size: 3.0
+    sensor_size: Full frame (36 x 24 mm)
+    sensor_type: CMOS
+    storage: Compact Flash (Type I or II), UDMA, Microdrive
+    weight_gr: 850
+
+canon_5dmkiii:
+    battery_life: 950
+    body_type: Mid-size SLR
+    dimensions_mm: 152 x 116 x 76
+    focus_points: 61
+    gps: Optional
+    lens_mount: Canon EF
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos5dmkiii/specifications
+    max_fps: 6.0
+    mega_pixels: 22.0
+    name: Canon EOS 5D Mark III
+    processor: Digic 5+
+    release_date: Mar 2, 2012
+    screen_size: 3.2
+    sensor_size: Full frame (36 x 24 mm)
+    sensor_type: CMOS
+    storage: Compact Flash Type I (UDMA compatible), SD/SDHC/SDXC
+    weight_gr: 950
+
+canon_5dmkiv:
+    battery_life: 900
+    body_type: Mid-size SLR
+    dimensions_mm: 151 x 116 x 76
+    focus_points: 61
+    gps: Built-in
+    lens_mount: Canon EF
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos5dmkiv/specifications
+    max_fps: 7.0
+    mega_pixels: 30.0
+    name: Canon EOS 5D Mark IV
+    processor: Digic 6+
+    release_date: Aug 25, 2016
+    screen_size: 3.2
+    sensor_size: Full frame (36 x 24 mm)
+    sensor_type: CMOS
+    storage: CompactFlash + SD/SDHC/SDXC card (UHS-I enabled)
+    weight_gr: 890
+
+canon_5ds:
+    battery_life: 700
+    body_type: Mid-size SLR
+    dimensions_mm: 152 x 116 x 76
+    focus_points: 61
+    gps: null
+    lens_mount: Canon EF
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos5ds/specifications
+    max_fps: 5.0
+    mega_pixels: 51.0
+    name: Canon EOS 5DS
+    processor: Dual DIGIC 6
+    release_date: Feb 6, 2015
+    screen_size: 3.2
+    sensor_size: Full frame (36 x 24 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC (UHS-I compatible), CompactFlash
+    weight_gr: 930
+
+canon_5dsr:
+    battery_life: 700
+    body_type: Mid-size SLR
+    dimensions_mm: 152 x 116 x 76
+    focus_points: 61
+    gps: null
+    lens_mount: Canon EF
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos5dsr/specifications
+    max_fps: 5.0
+    mega_pixels: 51.0
+    name: Canon EOS 5DS R
+    processor: Dual DIGIC 6
+    release_date: Feb 6, 2015
+    screen_size: 3.2
+    sensor_size: Full frame (36 x 24 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC (UHS-I compatible), CompactFlash
+    weight_gr: 930
+
+canon_600d:
+    battery_life: 440
+    body_type: Compact SLR
+    dimensions_mm: 133 x 100 x 80
+    focus_points: 9
+    gps: null
+    lens_mount: Canon EF/EF-S
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos600d/specifications
+    max_fps: 3.7
+    mega_pixels: 18.0
+    name: Canon EOS 600D (Rebel T3i / EOS Kiss X5)
+    processor: Digic 4
+    release_date: Feb 7, 2011
+    screen_size: 3.0
+    sensor_size: APS-C (22.3 x 14.9 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 570
+
+canon_60d:
+    battery_life: 1100
+    body_type: Mid-size SLR
+    dimensions_mm: 145 x 106 x 79
+    focus_points: 9
+    gps: null
+    lens_mount: Canon EF/EF-S
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos60d/specifications
+    max_fps: 5.3
+    mega_pixels: 18.0
+    name: Canon EOS 60D
+    processor: Digic 4
+    release_date: Aug 26, 2010
+    screen_size: 3.0
+    sensor_size: APS-C (22.3 x 14.9 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 755
+
+canon_60da:
+    battery_life: 1100
+    body_type: Mid-size SLR
+    dimensions_mm: 145 x 106 x 79
+    focus_points: 9
+    gps: null
+    lens_mount: Canon EF/EF-S
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos60da/specifications
+    max_fps: 5.3
+    mega_pixels: 18.0
+    name: Canon EOS 60Da
+    processor: Digic 4
+    release_date: Apr 7, 2012
+    screen_size: 3.0
+    sensor_size: APS-C (22.3 x 14.9 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 755
+
+canon_650d:
+    battery_life: 440
+    body_type: Compact SLR
+    dimensions_mm: 133 x 100 x 79
+    focus_points: 9
+    gps: Optional
+    lens_mount: Canon EF/EF-S
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos650d/specifications
+    max_fps: 5.0
+    mega_pixels: 18.0
+    name: Canon EOS 650D (Rebel T4i / EOS Kiss X6i)
+    processor: Digic 5
+    release_date: Jun 8, 2012
+    screen_size: 3.0
+    sensor_size: APS-C (22.3 x 14.9 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 575
+
+canon_6d:
+    battery_life: 1090
+    body_type: Mid-size SLR
+    dimensions_mm: 145 x 111 x 71
+    focus_points: 11
+    gps: Built-in
+    lens_mount: Canon EF
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos6d/specifications
+    max_fps: 4.5
+    mega_pixels: 20.0
+    name: Canon EOS 6D
+    processor: Digic 5+
+    release_date: Sep 17, 2012
+    screen_size: 3.0
+    sensor_size: Full frame (36 x 24 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 770
+
+canon_6dmkii:
+    battery_life: 1200
+    body_type: Mid-size SLR
+    dimensions_mm: 144 x 111 x 75
+    focus_points: 45
+    gps: Built-in
+    lens_mount: Canon EF
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos6dmkii/specifications
+    max_fps: 6.5
+    mega_pixels: 26.0
+    name: Canon EOS 6D Mark II
+    processor: DIGIC 7
+    release_date: Jun 29, 2017
+    screen_size: 3.0
+    sensor_size: Full frame (35.9 x 24 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC (UHS-I compatible)
+    weight_gr: 765
+
+canon_700d:
+    battery_life: 440
+    body_type: Compact SLR
+    dimensions_mm: 133 x 100 x 79
+    focus_points: 9
+    gps: Optional
+    lens_mount: Canon EF/EF-S
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos700d/specifications
+    max_fps: 5.0
+    mega_pixels: 18.0
+    name: Canon EOS 700D (Rebel T5i / EOS Kiss X7i)
+    processor: Digic 5
+    release_date: Mar 21, 2013
+    screen_size: 3.0
+    sensor_size: APS-C (22.3 x 14.9 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 580
+
+canon_70d:
+    battery_life: 920
+    body_type: Mid-size SLR
+    dimensions_mm: 139 x 104 x 79
+    focus_points: 19
+    gps: Optional
+    lens_mount: Canon EF/EF-S
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos70d/specifications
+    max_fps: 7.0
+    mega_pixels: 20.0
+    name: Canon EOS 70D
+    processor: Digic 5+
+    release_date: Jul 2, 2013
+    screen_size: 3.0
+    sensor_size: APS-C (22.5 x 15 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 755
+
+canon_750d:
+    battery_life: 440
+    body_type: Compact SLR
+    dimensions_mm: 132 x 101 x 78
+    focus_points: 19
+    gps: null
+    lens_mount: Canon EF/EF-S
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos750d/specifications
+    max_fps: 5.0
+    mega_pixels: 24.0
+    name: Canon EOS 750D (Rebel T6i / Kiss X8i)
+    processor: DIGIC 6
+    release_date: Feb 6, 2015
+    screen_size: 3.0
+    sensor_size: APS-C (22.3 x 14.9 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC (UHS-I compatible)
+    weight_gr: 555
+
+canon_760d:
+    battery_life: 440
+    body_type: Compact SLR
+    dimensions_mm: 132 x 111 x 78
+    focus_points: 19
+    gps: null
+    lens_mount: Canon EF/EF-S
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos760d/specifications
+    max_fps: 5.0
+    mega_pixels: 24.0
+    name: Canon EOS 760D (Rebel T6s / EOS 8000D)
+    processor: DIGIC 6
+    release_date: Feb 6, 2015
+    screen_size: 3.0
+    sensor_size: APS-C (22.3 x 14.9 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC (UHS-I compatible)
+    weight_gr: 565
+
+canon_77d:
+    battery_life: 600
+    body_type: Mid-size SLR
+    dimensions_mm: 131 x 100 x 76
+    focus_points: 45
+    gps: Optional
+    lens_mount: Canon EF/EF-S
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos77d/specifications
+    max_fps: 6.0
+    mega_pixels: 24.0
+    name: Canon EOS 77D (EOS 9000D)
+    processor: DIGIC 7
+    release_date: Feb 15, 2017
+    screen_size: 3.0
+    sensor_size: APS-C (22.3 x 14.9 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC (UHS-I compatible)
+    weight_gr: 540
+
+canon_7d:
+    battery_life: 800
+    body_type: Mid-size SLR
+    dimensions_mm: 148 x 111 x 74
+    focus_points: 19
+    gps: Optional
+    lens_mount: Canon EF/EF-S
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos7d/specifications
+    max_fps: 8.0
+    mega_pixels: 18.0
+    name: Canon EOS 7D
+    processor: Dual Digic 4
+    release_date: Sep 1, 2009
+    screen_size: 3.0
+    sensor_size: APS-C (22.3 x 14.9 mm)
+    sensor_type: CMOS
+    storage: Compact Flash (Type I or II), UDMA, Microdrive cards
+    weight_gr: 860
+
+canon_7dmkii:
+    battery_life: 670
+    body_type: Mid-size SLR
+    dimensions_mm: 149 x 112 x 78
+    focus_points: 65
+    gps: Built-in
+    lens_mount: Canon EF/EF-S
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos7dii/specifications
+    max_fps: 10.0
+    mega_pixels: 20.0
+    name: Canon EOS 7D Mark II
+    processor: DIGIC 6 (dual)
+    release_date: Sep 15, 2014
+    screen_size: 3.0
+    sensor_size: APS-C (22.4 x 15 mm)
+    sensor_type: CMOS
+    storage: CompactFlash + SD/SDHC/SDXC
+    weight_gr: 910
+
+canon_800d:
+    battery_life: 600
+    body_type: Mid-size SLR
+    dimensions_mm: 131 x 100 x 76
+    focus_points: 45
+    gps: Optional
+    lens_mount: Canon EF/EF-S
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos800d/specifications
+    max_fps: 6.0
+    mega_pixels: 24.0
+    name: Canon EOS 800D (Rebel T7i / Kiss X9i)
+    processor: DIGIC 7
+    release_date: Feb 15, 2017
+    screen_size: 3.0
+    sensor_size: APS-C (22.3 x 14.9 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC (UHS-I compatible)
+    weight_gr: 532
+
+canon_80d:
+    battery_life: 960
+    body_type: Mid-size SLR
+    dimensions_mm: 139 x 105 x 79
+    focus_points: 45
+    gps: null
+    lens_mount: Canon EF/EF-S
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos80d/specifications
+    max_fps: 7.0
+    mega_pixels: 24.0
+    name: Canon EOS 80D
+    processor: DIGIC 6
+    release_date: Feb 18, 2016
+    screen_size: 3.0
+    sensor_size: APS-C (22.5 x 15 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC (UHS-I support)
+    weight_gr: 730
+
+canon_m:
+    battery_life: 230
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 109 x 66 x 32
+    focus_points: 31
+    gps: Optional
+    lens_mount: Canon EF-M
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eosm/specifications
+    max_fps: 4.3
+    mega_pixels: 18.0
+    name: Canon EOS M
+    processor: Digic 5
+    release_date: Jul 23, 2012
+    screen_size: 3.0
+    sensor_size: APS-C (22.3 x 14.9 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 298
+
+canon_m10:
+    battery_life: 255
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 108 x 67 x 35
+    focus_points: 49
+    gps: null
+    lens_mount: Canon EF-M
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eosm10/specifications
+    max_fps: 4.6
+    mega_pixels: 18.0
+    name: Canon EOS M10
+    processor: DIGIC 6
+    release_date: Oct 13, 2015
+    screen_size: 3.0
+    sensor_size: APS-C (22.3 x 14.9 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 301
+
+canon_m100:
+    battery_life: 295
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 108 x 67 x 35
+    focus_points: 49
+    gps: null
+    lens_mount: Canon EF-M
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eosm100/specifications
+    max_fps: 6.1
+    mega_pixels: 24.0
+    name: Canon EOS M100
+    processor: DIGIC 7
+    release_date: Aug 29, 2017
+    screen_size: 3.0
+    sensor_size: APS-C (22.3 x 14.9 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC card (UHS-I compatible)
+    weight_gr: 302
+
+canon_m3:
+    battery_life: 250
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 111 x 68 x 44
+    focus_points: 49
+    gps: null
+    lens_mount: Canon EF-M
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eosm3/specifications
+    max_fps: 4.2
+    mega_pixels: 24.0
+    name: Canon EOS M3
+    processor: DIGIC 6
+    release_date: Feb 6, 2015
+    screen_size: 3.0
+    sensor_size: APS-C (22.3 x 14.9 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 366
+
+canon_m5:
+    battery_life: 295
+    body_type: SLR-style mirrorless
+    dimensions_mm: 116 x 89 x 61
+    focus_points: 49
+    gps: null
+    lens_mount: Canon EF-M
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eosm5/specifications
+    max_fps: 9.0
+    mega_pixels: 24.0
+    name: Canon EOS M5
+    processor: Digic 7
+    release_date: Sep 15, 2016
+    screen_size: 3.2
+    sensor_size: APS-C (22.3 x 14.9 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC card
+    weight_gr: 427
+
+canon_m50:
+    battery_life: 235
+    body_type: SLR-style mirrorless
+    dimensions_mm: 116 x 88 x 59
+    focus_points: 143
+    gps: null
+    lens_mount: Canon EF-M
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eosm50/specifications
+    max_fps: 10.0
+    mega_pixels: 24.0
+    name: Canon EOS M50 (EOS Kiss M)
+    processor: Digic 8
+    release_date: Feb 26, 2018
+    screen_size: 3.0
+    sensor_size: APS-C (22.3 x 14.9 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC slot (UHS-I compatible)
+    weight_gr: 390
+
+canon_m6:
+    battery_life: 295
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 112 x 68 x 45
+    focus_points: 49
+    gps: null
+    lens_mount: Canon EF-M
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eosm6/specifications
+    max_fps: 9.0
+    mega_pixels: 24.0
+    name: Canon EOS M6
+    processor: Digic 7
+    release_date: Feb 15, 2017
+    screen_size: 3.0
+    sensor_size: APS-C (22.3 x 14.9 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC card
+    weight_gr: 390
+
+canon_r:
+    battery_life: 370
+    body_type: SLR-style mirrorless
+    dimensions_mm: 136 x 98 x 84
+    focus_points: 5655
+    gps: null
+    lens_mount: Canon RF
+    links:
+        dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos_r/specifications
+    max_fps: 8.0
+    mega_pixels: 30.0
+    name: Canon EOS R
+    release_date: Sep 5, 2018
+    screen_size: 3.2
+    sensor_size: Full frame (36 x 24 mm)
+    sensor_type: CMOS
+    storage: SD card (UHS-II supported)
+    weight_gr: 660
+
+fujifilm_gfx50r:
+    battery_life: 400
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 161 x 97 x 66
+    focus_points: 117
+    gps: null
+    links:
+        dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_gfx50r/specifications
+    max_fps: 3.0
+    mega_pixels: 51.0
+    name: Fujifilm GFX 50R
+    processor: X Processor Pro
+    release_date: Sep 25, 2018
+    screen_size: 3.2
+    sensor_size: Medium format (44 x 33 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC (dual slots, UHS-II supported)
+    weight_gr: 775
+
+fujifilm_gfx50s:
+    battery_life: 400
+    body_type: SLR-style mirrorless
+    dimensions_mm: 148 x 94 x 91
+    focus_points: 117
+    gps: null
+    links:
+        dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_gfx50s/specifications
+    max_fps: 3.0
+    mega_pixels: 51.0
+    name: Fujifilm GFX 50S
+    processor: X Processor Pro
+    release_date: Sep 19, 2016
+    screen_size: 3.2
+    sensor_size: Medium format (44 x 33 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC (dual slots, UHS-II supported)
+    weight_gr: 920
+
+fujifilm_ispro:
+    body_type: Large SLR
+    dimensions_mm: 147 x 113 x 74
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/fujifilm/slrs/fuji_ispro/specifications
+    mega_pixels: 6.0
+    name: Fujifilm FinePix IS Pro
+    release_date: Jul 13, 2007
+    screen_size: 2.5
+    sensor_size: APS-C (23 x 15.5 mm)
+    sensor_type: CCD
+    storage: Compact Flash (Type I or II)
+    weight_gr: 920
+
+fujifilm_s1pro:
+    body_type: Large SLR
+    dimensions_mm: 148 x 125 x 80
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/fujifilm/slrs/fuji_s1/specifications
+    max_fps: 1.5
+    mega_pixels: 3.0
+    name: Fujifilm FinePix S1 Pro
+    release_date: Jan 31, 2000
+    screen_size: 2.0
+    sensor_size: APS-C (23 x 15.5 mm)
+    sensor_type: CCD
+    storage: SmartMedia, Compact Flash Type I or II
+    weight_gr: 820
+
+fujifilm_s2pro:
+    body_type: Large SLR
+    dimensions_mm: 142 x 131 x 80
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/fujifilm/slrs/fuji_s2/specifications
+    max_fps: 2.0
+    mega_pixels: 6.0
+    name: Fujifilm FinePix S2 Pro
+    release_date: Jan 30, 2002
+    screen_size: 1.8
+    sensor_size: APS-C (23 x 15.5 mm)
+    sensor_type: CCD
+    storage: SmartMedia, Compact Flash Type I or II
+    weight_gr: 850
+
+fujifilm_s3pro:
+    body_type: Large SLR
+    dimensions_mm: 148 x 135 x 80
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/fujifilm/slrs/fuji_s3/specifications
+    mega_pixels: 6.0
+    name: Fujifilm FinePix S3 Pro
+    release_date: Feb 5, 2004
+    screen_size: 2.0
+    sensor_size: APS-C (23 x 15.5 mm)
+    sensor_type: CCD
+    storage: xD Picture Card, Compact Flash Type I or II
+    weight_gr: 930
+
+fujifilm_s5pro:
+    body_type: Large SLR
+    dimensions_mm: 147 x 113 x 74
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/fujifilm/slrs/fuji_s5/specifications
+    mega_pixels: 6.0
+    name: Fujifilm FinePix S5 Pro
+    release_date: Sep 25, 2006
+    screen_size: 2.5
+    sensor_size: APS-C (23 x 15.5 mm)
+    sensor_type: CCD
+    storage: Compact Flash (Type I or II)
+    weight_gr: 920
+
+fujifilm_xa1:
+    battery_life: 350
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 117 x 67 x 39
+    focus_points: 49
+    gps: null
+    lens_mount: Fujifilm X
+    links:
+        dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xa1/specifications
+    max_fps: 5.6
+    mega_pixels: 16.0
+    name: Fujifilm X-A1
+    processor: EXR Processor II
+    release_date: Sep 17, 2013
+    screen_size: 3.0
+    sensor_size: APS-C (23.6 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD memory card / SDHC memory card / SDXC (UHS-I) memory card
+    weight_gr: 330
+
+fujifilm_xa10:
+    battery_life: 410
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 117 x 67 x 40
+    focus_points: 49
+    gps: null
+    lens_mount: Fujifilm X
+    links:
+        dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xa10/specifications
+    max_fps: 6.0
+    mega_pixels: 16.0
+    name: Fujifilm X-A10
+    release_date: Dec 1, 2016
+    screen_size: 3.0
+    sensor_size: APS-C (23.6 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC card
+    weight_gr: 331
+
+fujifilm_xa2:
+    battery_life: 410
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 117 x 67 x 40
+    focus_points: 49
+    gps: null
+    lens_mount: Fujifilm X
+    links:
+        dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xa2/specifications
+    max_fps: 5.6
+    mega_pixels: 16.0
+    name: Fujifilm X-A2
+    processor: EXR Processor II
+    release_date: Jan 15, 2015
+    screen_size: 3.0
+    sensor_size: APS-C (23.6 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC card
+    weight_gr: 350
+
+fujifilm_xa3:
+    battery_life: 410
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 117 x 67 x 40
+    focus_points: 77
+    gps: null
+    lens_mount: Fujifilm X
+    links:
+        dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xa3/specifications
+    max_fps: 6.0
+    mega_pixels: 24.0
+    name: Fujifilm X-A3
+    release_date: Aug 25, 2016
+    screen_size: 3.0
+    sensor_size: APS-C (23.5 x 15.7 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC card
+    weight_gr: 339
+
+fujifilm_xa5:
+    battery_life: 450
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 117 x 68 x 40
+    focus_points: 91
+    gps: null
+    lens_mount: Fujifilm X
+    links:
+        dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xa5/specifications
+    max_fps: 6.0
+    mega_pixels: 24.0
+    name: Fujifilm X-A5
+    release_date: Jan 31, 2018
+    screen_size: 3.0
+    sensor_size: APS-C (23.5 x 15.7 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC card (UHS-I supported)
+    weight_gr: 361
+
+fujifilm_xe1:
+    battery_life: 350
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 129 x 75 x 38
+    gps: null
+    lens_mount: Fujifilm X
+    links:
+        dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xe1/specifications
+    max_fps: 6.0
+    mega_pixels: 16.0
+    name: Fujifilm X-E1
+    processor: EXR Pro
+    release_date: Sep 6, 2012
+    screen_size: 2.8
+    sensor_size: APS-C (23.6 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 350
+
+fujifilm_xe2:
+    battery_life: 350
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 129 x 75 x 37
+    gps: null
+    lens_mount: Fujifilm X
+    links:
+        dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xe2/specifications
+    max_fps: 7.0
+    mega_pixels: 16.0
+    name: Fujifilm X-E2
+    processor: EXR Processor II
+    release_date: Oct 18, 2013
+    screen_size: 3.0
+    sensor_size: APS-C (23.6 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 350
+
+fujifilm_xe2s:
+    battery_life: 350
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 129 x 75 x 37
+    focus_points: 77
+    gps: null
+    lens_mount: Fujifilm X
+    links:
+        dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xe2s/specifications
+    max_fps: 7.0
+    mega_pixels: 16.0
+    name: Fujifilm X-E2S
+    processor: EXR Processor II
+    release_date: Jan 15, 2016
+    screen_size: 3.0
+    sensor_size: APS-C (23.6 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 350
+
+fujifilm_xe3:
+    battery_life: 350
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 121 x 74 x 43
+    focus_points: 325
+    gps: null
+    lens_mount: Fujifilm X
+    links:
+        dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xe3/specifications
+    max_fps: 8.0
+    mega_pixels: 24.0
+    name: Fujifilm X-E3
+    processor: X-Processor Pro
+    release_date: Sep 7, 2017
+    screen_size: 3.0
+    sensor_size: APS-C (23.6 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD / SDHC / SDXC (UHS-I compatible)
+    weight_gr: 337
+
+fujifilm_xh1:
+    battery_life: 310
+    body_type: SLR-style mirrorless
+    dimensions_mm: 140 x 97 x 86
+    focus_points: 325
+    gps: null
+    lens_mount: Fujifilm X
+    links:
+        dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xh1/specifications
+    max_fps: 14.0
+    mega_pixels: 24.0
+    name: Fujifilm X-H1
+    processor: X-Processor Pro
+    release_date: Feb 15, 2018
+    screen_size: 3.0
+    sensor_size: APS-C (23.5 x 15.6 mm)
+    sensor_type: CMOS
+    storage: Dual SD/SDHC/SDXC (UHS-II compatible)
+    weight_gr: 673
+
+fujifilm_xm1:
+    battery_life: 350
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 117 x 67 x 39
+    focus_points: 49
+    gps: null
+    lens_mount: Fujifilm X
+    links:
+        dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xm1/specifications
+    max_fps: 5.6
+    mega_pixels: 16.0
+    name: Fujifilm X-M1
+    processor: EXR Processor II
+    release_date: Jun 25, 2013
+    screen_size: 3.0
+    sensor_size: APS-C (23.6 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD memory card / SDHC memory card / SDXC (UHS-I) memory card
+    weight_gr: 330
+
+fujifilm_xpro1:
+    battery_life: 300
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 140 x 82 x 43
+    gps: null
+    lens_mount: Fujifilm X
+    links:
+        dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xpro1/specifications
+    max_fps: 6.0
+    mega_pixels: 16.0
+    name: Fujifilm X-Pro1
+    processor: EXR Pro
+    release_date: Jan 9, 2012
+    screen_size: 3.0
+    sensor_size: APS-C (23.6 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 450
+
+fujifilm_xpro2:
+    battery_life: 350
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 141 x 83 x 56
+    focus_points: 273
+    gps: null
+    lens_mount: Fujifilm X
+    links:
+        dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xpro2/specifications
+    max_fps: 8.0
+    mega_pixels: 24.0
+    name: Fujifilm X-Pro2
+    processor: X Processor Pro
+    release_date: Jan 15, 2016
+    screen_size: 3.0
+    sensor_size: APS-C (23.6 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC (Dual slots, UHS-II support in slot 1)
+    weight_gr: 495
+
+fujifilm_xt1:
+    battery_life: 350
+    body_type: SLR-style mirrorless
+    dimensions_mm: 129 x 90 x 47
+    gps: Optional
+    lens_mount: Fujifilm X
+    links:
+        dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt1/specifications
+    max_fps: 8.0
+    mega_pixels: 16.0
+    name: Fujifilm X-T1
+    processor: EXR Processor II
+    release_date: Jan 28, 2014
+    screen_size: 3.0
+    sensor_size: APS-C (23.6 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD / SDHC / SDXC (UHS-II)
+    weight_gr: 440
+
+fujifilm_xt10:
+    battery_life: 350
+    body_type: SLR-style mirrorless
+    dimensions_mm: 118 x 83 x 41
+    focus_points: 77
+    gps: Optional
+    lens_mount: Fujifilm X
+    links:
+        dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt10/specifications
+    max_fps: 8.0
+    mega_pixels: 16.0
+    name: Fujifilm X-T10
+    processor: EXR Processor II
+    release_date: May 18, 2015
+    screen_size: 3.0
+    sensor_size: APS-C (23.6 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD / SDHC / SDXC (UHS-I)
+    weight_gr: 381
+
+fujifilm_xt100:
+    battery_life: 430
+    body_type: SLR-style mirrorless
+    dimensions_mm: 121 x 83 x 47
+    focus_points: 91
+    gps: null
+    lens_mount: Fujifilm X
+    links:
+        dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt100/specifications
+    max_fps: 6.0
+    mega_pixels: 24.0
+    name: Fujifilm X-T100
+    release_date: May 24, 2018
+    screen_size: 3.0
+    sensor_size: APS-C (23.5 x 15.7 mm)
+    sensor_type: CMOS
+    storage: SD/ SDHC/SDXC (UHS-I compatible)
+    weight_gr: 448
+
+fujifilm_xt1ir:
+    battery_life: 350
+    body_type: SLR-style mirrorless
+    dimensions_mm: 129 x 90 x 47
+    gps: Optional
+    lens_mount: Fujifilm X
+    links:
+        dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt1_ir/specifications
+    max_fps: 8.0
+    mega_pixels: 16.0
+    name: Fujifilm X-T1 IR
+    processor: EXR Processor II
+    release_date: Aug 3, 2015
+    screen_size: 3.0
+    sensor_size: APS-C (23.6 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD / SDHC / SDXC (UHS-II)
+    weight_gr: 440
+
+fujifilm_xt2:
+    battery_life: 340
+    body_type: SLR-style mirrorless
+    dimensions_mm: 133 x 92 x 49
+    focus_points: 325
+    gps: null
+    lens_mount: Fujifilm X
+    links:
+        dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt2/specifications
+    max_fps: 14.0
+    mega_pixels: 24.0
+    name: Fujifilm X-T2
+    processor: X-Processor Pro2
+    release_date: Jul 7, 2016
+    screen_size: 3.0
+    sensor_size: APS-C (23.6 x 15.6 mm)
+    sensor_type: CMOS
+    storage: Dual SD/SDHC/SDXC (UHS II compatible)
+    weight_gr: 507
+
+fujifilm_xt20:
+    battery_life: 350
+    body_type: SLR-style mirrorless
+    dimensions_mm: 118 x 83 x 41
+    focus_points: 325
+    gps: Optional
+    lens_mount: Fujifilm X
+    links:
+        dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt20/specifications
+    max_fps: 8.0
+    mega_pixels: 24.0
+    name: Fujifilm X-T20
+    processor: X-Processor Pro2
+    release_date: Jan 19, 2017
+    screen_size: 3.0
+    sensor_size: APS-C (23.6 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD / SDHC / SDXC (UHS-I compatible)
+    weight_gr: 383
+
+fujifilm_xt3:
+    battery_life: 390
+    body_type: SLR-style mirrorless
+    dimensions_mm: 133 x 93 x 59
+    focus_points: 425
+    gps: null
+    lens_mount: Fujifilm X
+    links:
+        dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt3/specifications
+    max_fps: 20.0
+    mega_pixels: 26.0
+    name: Fujifilm X-T3
+    processor: X-Processor 4
+    release_date: Sep 6, 2018
+    screen_size: 3.0
+    sensor_size: APS-C (23.5 x 15.6 mm)
+    sensor_type: BSI-CMOS
+    weight_gr: 539
+
+fujifilm_xt30:
+    battery_life: 380
+    body_type: SLR-style mirrorless
+    dimensions_mm: 118 x 83 x 47
+    focus_points: 425
+    gps: null
+    lens_mount: Fujifilm X
+    links:
+        dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt30/specifications
+    max_fps: 30.0
+    mega_pixels: 26.0
+    name: Fujifilm X-T30
+    processor: X-Processor 4
+    release_date: Feb 14, 2019
+    screen_size: 3.0
+    sensor_size: APS-C (23.5 x 15.6 mm)
+    sensor_type: BSI-CMOS
+    storage: SD/SDHC/SDXC card (UHS-I supported)
+    weight_gr: 383
+
+nikon_1aw1:
+    battery_life: 220
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 114 x 72 x 37
+    focus_points: 135
+    gps: Built-in
+    lens_mount: Nikon 1
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_aw1/specifications
+    max_fps: 60.0
+    mega_pixels: 14.0
+    name: Nikon 1 AW1
+    processor: EXPEED 3A
+    release_date: Sep 19, 2013
+    screen_size: 3.0
+    sensor_size: 1″ (13.2 x 8.8 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC card
+    weight_gr: 201
+
+nikon_1j1:
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 106 x 61 x 30
+    focus_points: 135
+    gps: null
+    lens_mount: Nikon 1
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_j1/specifications
+    max_fps: 10.0
+    mega_pixels: 10.0
+    name: Nikon 1 J1
+    release_date: Sep 21, 2011
+    screen_size: 3.0
+    sensor_size: 1″ (13.2 x 8.8 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC card
+    weight_gr: 234
+
+nikon_1j2:
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 106 x 61 x 30
+    focus_points: 135
+    gps: null
+    lens_mount: Nikon 1
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_j2/specifications
+    max_fps: 10.0
+    mega_pixels: 10.0
+    name: Nikon 1 J2
+    processor: Expeed 3
+    release_date: Aug 9, 2012
+    screen_size: 3.0
+    sensor_size: 1″ (13.2 x 8.8 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC card
+    weight_gr: 238
+
+nikon_1j3:
+    battery_life: 220
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 101 x 61 x 29
+    focus_points: 135
+    gps: null
+    lens_mount: Nikon 1
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_j3/specifications
+    max_fps: 15.0
+    mega_pixels: 14.0
+    name: Nikon 1 J3
+    release_date: Jan 8, 2013
+    screen_size: 3.0
+    sensor_size: 1″ (13.2 x 8.8 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC card
+    weight_gr: 201
+
+nikon_1j4:
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 100 x 60 x 29
+    focus_points: 171
+    gps: null
+    lens_mount: Nikon 1
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_j4/specifications
+    max_fps: 60.0
+    mega_pixels: 18.0
+    name: Nikon 1 J4
+    processor: Expeed 4
+    release_date: Apr 10, 2014
+    screen_size: 3.0
+    sensor_size: 1″ (13.2 x 8.8 mm)
+    sensor_type: CMOS
+    storage: microSD/SDHC/SDXC
+    weight_gr: 232
+
+nikon_1j5:
+    battery_life: 250
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 98 x 60 x 32
+    focus_points: 171
+    gps: null
+    lens_mount: Nikon 1
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_j5/specifications
+    max_fps: 60.0
+    mega_pixels: 21.0
+    name: Nikon 1 J5
+    processor: Expeed 5A
+    release_date: Apr 2, 2015
+    screen_size: 3.0
+    sensor_size: 1″ (13.2 x 8.8 mm)
+    sensor_type: BSI-CMOS
+    storage: microSD/SDHC/SDXC
+    weight_gr: 231
+
+nikon_1s1:
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 102 x 61 x 30
+    focus_points: 135
+    gps: null
+    lens_mount: Nikon 1
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_s1/specifications
+    max_fps: 15.0
+    mega_pixels: 10.0
+    name: Nikon 1 S1
+    release_date: Jan 8, 2013
+    screen_size: 3.0
+    sensor_size: 1″ (13.2 x 8.8 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC card
+    weight_gr: 197
+
+nikon_1s2:
+    battery_life: 270
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 101 x 61 x 29
+    focus_points: 171
+    gps: null
+    lens_mount: Nikon 1
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_s2/specifications
+    max_fps: 60.0
+    name: Nikon 1 S2
+    processor: Expeed 4A
+    release_date: May 14, 2014
+    screen_size: 3.0
+    sensor_size: 1″ (13.1 x 8.8 mm)
+    sensor_type: CMOS
+    storage: microSD/microSDHC/microSDXC
+    weight_gr: -1
+
+nikon_1v1:
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 113 x 76 x 44
+    focus_points: 135
+    gps: Optional
+    lens_mount: Nikon 1
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_v1/specifications
+    max_fps: 10.0
+    mega_pixels: 10.0
+    name: Nikon 1 V1
+    release_date: Sep 21, 2011
+    screen_size: 3.0
+    sensor_size: 1″ (13.2 x 8.8 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC card
+    weight_gr: 383
+
+nikon_1v2:
+    body_type: SLR-style mirrorless
+    dimensions_mm: 109 x 82 x 46
+    focus_points: 73
+    gps: Optional
+    lens_mount: Nikon 1
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_v2/specifications
+    max_fps: 15.0
+    mega_pixels: 14.0
+    name: Nikon 1 V2
+    processor: Expeed 3A
+    release_date: Oct 24, 2012
+    screen_size: 3.0
+    sensor_size: 1″ (13.2 x 8.8 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC card
+    weight_gr: 278
+
+nikon_1v3:
+    battery_life: 310
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 111 x 65 x 33
+    focus_points: 171
+    gps: null
+    lens_mount: Nikon 1
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_v3/specifications
+    max_fps: 60.0
+    mega_pixels: 18.0
+    name: Nikon 1 V3
+    processor: Expeed 4A
+    release_date: Mar 13, 2014
+    screen_size: 3.0
+    sensor_size: 1″ (13.2 x 8.8 mm)
+    sensor_type: CMOS
+    storage: microSD/SDHC/SDXC
+    weight_gr: 381
+
+nikon_d3:
+    body_type: Large SLR
+    dimensions_mm: 160 x 157 x 88
+    gps: Optional
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d3/specifications
+    max_fps: 11.0
+    mega_pixels: 12.0
+    name: Nikon D3
+    processor: Expeed
+    release_date: Aug 23, 2007
+    screen_size: 3.0
+    sensor_size: Full frame (36 x 23.9 mm)
+    sensor_type: CMOS
+    storage: Compact Flash (Type I or II) x2
+    weight_gr: 1300
+
+nikon_d300:
+    battery_life: 1000
+    body_type: Mid-size SLR
+    dimensions_mm: 147 x 114 x 74
+    focus_points: 51
+    gps: Optional
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d300/specifications
+    max_fps: 6.0
+    mega_pixels: 12.0
+    name: Nikon D300
+    processor: Expeed
+    release_date: Aug 23, 2007
+    screen_size: 3.0
+    sensor_size: APS-C (23.6 x 15.8 mm)
+    sensor_type: CMOS
+    storage: Compact Flash (Type I or II)
+    weight_gr: 925
+
+nikon_d3000:
+    battery_life: 500
+    body_type: Compact SLR
+    dimensions_mm: 126 x 97 x 64
+    focus_points: 11
+    gps: null
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d3000/specifications
+    max_fps: 3.0
+    mega_pixels: 10.0
+    name: Nikon D3000
+    processor: Expeed
+    release_date: Jul 30, 2009
+    screen_size: 3.0
+    sensor_size: APS-C (23.6 x 15.8 mm)
+    sensor_type: CCD
+    storage: SD/SDHC card
+    weight_gr: 536
+
+nikon_d300s:
+    battery_life: 950
+    body_type: Mid-size SLR
+    dimensions_mm: 147 x 114 x 74
+    focus_points: 51
+    gps: Optional
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d300s/specifications
+    max_fps: 7.0
+    mega_pixels: 12.0
+    name: Nikon D300S
+    processor: Expeed
+    release_date: Jul 30, 2009
+    screen_size: 3.0
+    sensor_size: APS-C (23.6 x 15.8 mm)
+    sensor_type: CMOS
+    storage: Compact Flash Type I/SD/SDHC
+    weight_gr: 938
+
+nikon_d3100:
+    body_type: Compact SLR
+    dimensions_mm: 124 x 96 x 75
+    focus_points: 11
+    gps: Optional
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d3100/specifications
+    max_fps: 3.0
+    mega_pixels: 14.0
+    name: Nikon D3100
+    processor: Expeed 2
+    release_date: Aug 19, 2010
+    screen_size: 3.0
+    sensor_size: APS-C (23.1 x 15.4 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 505
+
+nikon_d3200:
+    battery_life: 540
+    body_type: Compact SLR
+    dimensions_mm: 125 x 96 x 77
+    focus_points: 11
+    gps: Optional
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d3200/specifications
+    max_fps: 4.0
+    mega_pixels: 24.0
+    name: Nikon D3200
+    processor: Expeed 3
+    release_date: Apr 19, 2012
+    screen_size: 3.0
+    sensor_size: APS-C (23.2 x 15.4 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC UHS-I compliant
+    weight_gr: 505
+
+nikon_d3300:
+    battery_life: 700
+    body_type: Compact SLR
+    dimensions_mm: 124 x 98 x 76
+    focus_points: 11
+    gps: Optional
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d3300/specifications
+    max_fps: 5.0
+    mega_pixels: 24.0
+    name: Nikon D3300
+    processor: Expeed 4
+    release_date: Jan 7, 2014
+    screen_size: 3.0
+    sensor_size: APS-C (23.5 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 430
+
+nikon_d3400:
+    battery_life: 1200
+    body_type: Compact SLR
+    dimensions_mm: 124 x 98 x 76
+    focus_points: 11
+    gps: null
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d3400/specifications
+    max_fps: 5.0
+    mega_pixels: 24.0
+    name: Nikon D3400
+    processor: Expeed 4
+    release_date: Aug 17, 2016
+    screen_size: 3.0
+    sensor_size: APS-C (23.5 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 445
+
+nikon_d3500:
+    battery_life: 1550
+    body_type: Compact SLR
+    dimensions_mm: 124 x 97 x 70
+    focus_points: 11
+    gps: null
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d3500/specifications
+    max_fps: 5.0
+    mega_pixels: 24.0
+    name: Nikon D3500
+    processor: Expeed 4
+    release_date: Aug 30, 2018
+    screen_size: 3.0
+    sensor_size: APS-C (23.5 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 365
+
+nikon_d3s:
+    battery_life: 4200
+    body_type: Large SLR
+    dimensions_mm: 160 x 157 x 88
+    focus_points: 51
+    gps: Optional
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d3s/specifications
+    max_fps: 11.0
+    mega_pixels: 12.0
+    name: Nikon D3S
+    processor: Expeed
+    release_date: Oct 14, 2009
+    screen_size: 3.0
+    sensor_size: Full frame (36 x 23.9 mm)
+    sensor_type: CMOS
+    storage: Compact Flash (Type I or II) x 2, UDMA
+    weight_gr: 1240
+
+nikon_d3x:
+    battery_life: 4400
+    body_type: Large SLR
+    dimensions_mm: 160 x 157 x 88
+    focus_points: 51
+    gps: Optional
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d3x/specifications
+    max_fps: 5.0
+    mega_pixels: 25.0
+    name: Nikon D3X
+    processor: Expeed
+    release_date: Dec 1, 2008
+    screen_size: 3.0
+    sensor_size: Full frame (35.9 x 24 mm)
+    sensor_type: CMOS
+    storage: Compact Flash (Type I or II) x 2, UDMA
+    weight_gr: 1260
+
+nikon_d4:
+    body_type: Large SLR
+    dimensions_mm: 160 x 157 x 91
+    focus_points: 51
+    gps: Optional
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d4/specifications
+    max_fps: 11.0
+    mega_pixels: 16.0
+    name: Nikon D4
+    processor: Expeed 3
+    release_date: Jan 6, 2012
+    screen_size: 3.2
+    sensor_size: Full frame (36 x 23.9 mm)
+    sensor_type: CMOS
+    storage: CompactFlash, XQD
+    weight_gr: 1340
+
+nikon_d4s:
+    battery_life: 3020
+    body_type: Large SLR
+    dimensions_mm: 160 x 157 x 91
+    focus_points: 51
+    gps: Optional
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d4s/specifications
+    max_fps: 11.0
+    mega_pixels: 16.0
+    name: Nikon D4S
+    processor: Expeed 4
+    release_date: Feb 25, 2014
+    screen_size: 3.2
+    sensor_size: Full frame (36 x 23.9 mm)
+    sensor_type: CMOS
+    storage: CompactFlash, XQD
+    weight_gr: 1350
+
+nikon_d5:
+    battery_life: 3780
+    body_type: Large SLR
+    dimensions_mm: 160 x 159 x 92
+    focus_points: 153
+    gps: Optional
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d5/specifications
+    max_fps: 14.0
+    mega_pixels: 21.0
+    name: Nikon D5
+    processor: EXPEED 5
+    release_date: Jan 5, 2016
+    screen_size: 3.2
+    sensor_size: Full frame (35.9 x 23.9 mm)
+    sensor_type: CMOS
+    storage: Dual CompactFlash or dual XQD
+    weight_gr: 1415
+
+nikon_d500:
+    battery_life: 1240
+    body_type: Mid-size SLR
+    dimensions_mm: 147 x 115 x 81
+    focus_points: 153
+    gps: Optional
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d500/specifications
+    max_fps: 10.0
+    mega_pixels: 21.0
+    name: Nikon D500
+    processor: Expeed 5
+    release_date: Jan 5, 2016
+    screen_size: 3.2
+    sensor_size: APS-C (23.5 x 15.7 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC (UHS-II compliant) + XQD
+    weight_gr: 860
+
+nikon_d5000:
+    body_type: Compact SLR
+    dimensions_mm: 127 x 104 x 80
+    focus_points: 11
+    gps: Optional
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d5000/specifications
+    max_fps: 4.0
+    mega_pixels: 12.0
+    name: Nikon D5000
+    processor: Expeed
+    release_date: Apr 14, 2009
+    screen_size: 2.7
+    sensor_size: APS-C (23.6 x 15.8 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC card
+    weight_gr: 590
+
+nikon_d5100:
+    body_type: Compact SLR
+    dimensions_mm: 128 x 97 x 79
+    focus_points: 11
+    gps: Optional
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d5100/specifications
+    max_fps: 4.0
+    mega_pixels: 16.0
+    name: Nikon D5100
+    processor: Expeed 2
+    release_date: Apr 5, 2011
+    screen_size: 3.0
+    sensor_size: APS-C (23.6 x 15.7 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 560
+
+nikon_d5200:
+    body_type: Compact SLR
+    dimensions_mm: 129 x 98 x 78
+    focus_points: 39
+    gps: Optional
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d5200/specifications
+    max_fps: 5.0
+    mega_pixels: 24.0
+    name: Nikon D5200
+    processor: Expeed 3
+    release_date: Nov 6, 2012
+    screen_size: 3.0
+    sensor_size: APS-C (23.5 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 555
+
+nikon_d5300:
+    battery_life: 600
+    body_type: Compact SLR
+    dimensions_mm: 125 x 98 x 76
+    focus_points: 39
+    gps: Built-in
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d5300/specifications
+    max_fps: 5.0
+    mega_pixels: 24.0
+    name: Nikon D5300
+    processor: Expeed 4
+    release_date: Oct 17, 2013
+    screen_size: 3.2
+    sensor_size: APS-C (23.5 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 480
+
+nikon_d5500:
+    battery_life: 820
+    body_type: Compact SLR
+    dimensions_mm: 124 x 97 x 70
+    focus_points: 39
+    gps: null
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d5500/specifications
+    max_fps: 5.0
+    mega_pixels: 24.0
+    name: Nikon D5500
+    processor: Expeed 4
+    release_date: Jan 6, 2015
+    screen_size: 3.2
+    sensor_size: APS-C (23.5 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 420
+
+nikon_d5600:
+    battery_life: 970
+    body_type: Compact SLR
+    dimensions_mm: 124 x 97 x 70
+    focus_points: 39
+    gps: Optional
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d5600/specifications
+    max_fps: 5.0
+    mega_pixels: 24.0
+    name: Nikon D5600
+    processor: Expeed 4
+    release_date: Nov 10, 2016
+    screen_size: 3.2
+    sensor_size: APS-C (23.5 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 465
+
+nikon_d60:
+    body_type: Compact SLR
+    dimensions_mm: 126 x 94 x 64
+    focus_points: 3
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d60/specifications
+    max_fps: 3.0
+    mega_pixels: 10.0
+    name: Nikon D60
+    release_date: Jan 29, 2008
+    screen_size: 2.5
+    sensor_size: APS-C (23.6 x 15.8 mm)
+    sensor_type: CCD
+    storage: SD/MMC/SDHC card
+    weight_gr: 522
+
+nikon_d600:
+    battery_life: 900
+    body_type: Mid-size SLR
+    dimensions_mm: 141 x 113 x 82
+    focus_points: 39
+    gps: Optional
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d600/specifications
+    max_fps: 5.5
+    mega_pixels: 24.0
+    name: Nikon D600
+    processor: Expeed 3
+    release_date: Sep 13, 2012
+    screen_size: 3.2
+    sensor_size: Full frame (35.9 x 24 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC x 2 slots
+    weight_gr: 850
+
+nikon_d610:
+    battery_life: 900
+    body_type: Mid-size SLR
+    dimensions_mm: 141 x 113 x 82
+    focus_points: 39
+    gps: Optional
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d610/specifications
+    max_fps: 6.0
+    mega_pixels: 24.0
+    name: Nikon D610
+    processor: Expeed 3
+    release_date: Oct 8, 2013
+    screen_size: 3.2
+    sensor_size: Full frame (35.9 x 24 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC x 2 slots
+    weight_gr: 850
+
+nikon_d700:
+    battery_life: 1000
+    body_type: Mid-size SLR
+    dimensions_mm: 147 x 123 x 77
+    focus_points: 51
+    gps: Optional
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d700/specifications
+    max_fps: 8.0
+    mega_pixels: 12.0
+    name: Nikon D700
+    processor: Expeed
+    release_date: Jul 1, 2008
+    screen_size: 3.0
+    sensor_size: Full frame (36 x 24 mm)
+    sensor_type: CMOS
+    storage: Compact Flash (Type I)
+    weight_gr: 1074
+
+nikon_d7000:
+    battery_life: 1050
+    body_type: Mid-size SLR
+    dimensions_mm: 132 x 105 x 77
+    focus_points: 39
+    gps: Optional
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d7000/specifications
+    max_fps: 6.0
+    mega_pixels: 16.0
+    name: Nikon D7000
+    processor: Expeed 2
+    release_date: Sep 15, 2010
+    screen_size: 3.0
+    sensor_size: APS-C (23.6 x 15.7 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 780
+
+nikon_d7100:
+    battery_life: 950
+    body_type: Mid-size SLR
+    dimensions_mm: 136 x 107 x 76
+    focus_points: 51
+    gps: Optional
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d7100/specifications
+    max_fps: 6.0
+    mega_pixels: 24.0
+    name: Nikon D7100
+    release_date: Feb 21, 2013
+    screen_size: 3.2
+    sensor_size: APS-C (23.5 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC x 2 slots
+    weight_gr: 765
+
+nikon_d7200:
+    battery_life: 1110
+    body_type: Mid-size SLR
+    dimensions_mm: 136 x 107 x 76
+    focus_points: 51
+    gps: Optional
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d7200/specifications
+    max_fps: 6.0
+    mega_pixels: 24.0
+    name: Nikon D7200
+    processor: Expeed 4
+    release_date: Mar 2, 2015
+    screen_size: 3.2
+    sensor_size: APS-C (23.5 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC (two slots)
+    weight_gr: 765
+
+nikon_d750:
+    battery_life: 1230
+    body_type: Mid-size SLR
+    dimensions_mm: 141 x 113 x 78
+    focus_points: 51
+    gps: Optional
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d750/specifications
+    max_fps: 6.5
+    mega_pixels: 24.0
+    name: Nikon D750
+    processor: Expeed 4
+    release_date: Sep 12, 2014
+    screen_size: 3.2
+    sensor_size: Full frame (35.9 x 24 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC (dual slots)
+    weight_gr: 750
+
+nikon_d7500:
+    battery_life: 950
+    body_type: Mid-size SLR
+    dimensions_mm: 136 x 104 x 73
+    focus_points: 51
+    gps: Optional
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d7500/specifications
+    max_fps: 8.0
+    mega_pixels: 21.0
+    name: Nikon D7500
+    processor: Expeed 5
+    release_date: Apr 12, 2017
+    screen_size: 3.2
+    sensor_size: APS-C (23.5 x 15.7 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 720
+
+nikon_d800:
+    body_type: Mid-size SLR
+    dimensions_mm: 146 x 123 x 82
+    focus_points: 51
+    gps: Optional
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d800/specifications
+    max_fps: 4.0
+    mega_pixels: 36.0
+    name: Nikon D800
+    processor: Expeed 3
+    release_date: Feb 7, 2012
+    screen_size: 3.2
+    sensor_size: Full frame (35.9 x 24 mm)
+    sensor_type: CMOS
+    storage: Compact Flash (Type I), SD/SDHC/SDXC UHS-I compliant
+    weight_gr: 1000
+
+nikon_d800e:
+    body_type: Mid-size SLR
+    dimensions_mm: 146 x 123 x 82
+    focus_points: 51
+    gps: Optional
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d800e/specifications
+    max_fps: 4.0
+    mega_pixels: 36.0
+    name: Nikon D800E
+    processor: Expeed 3
+    release_date: Feb 7, 2012
+    screen_size: 3.2
+    sensor_size: Full frame (35.9 x 24 mm)
+    sensor_type: CMOS
+    storage: Compact Flash (Type I), SD/SDHC/SDXC UHS-I compliant
+    weight_gr: 1000
+
+nikon_d810:
+    battery_life: 1200
+    body_type: Mid-size SLR
+    dimensions_mm: 146 x 123 x 82
+    focus_points: 51
+    gps: Optional
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d810/specifications
+    max_fps: 5.0
+    mega_pixels: 36.0
+    name: Nikon D810
+    processor: EXPEED 4
+    release_date: Jun 26, 2014
+    screen_size: 3.2
+    sensor_size: Full frame (35.9 x 24 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC, CompactFlash (UDMA compliant)
+    weight_gr: 980
+
+nikon_d810a:
+    battery_life: 1200
+    body_type: Mid-size SLR
+    dimensions_mm: 146 x 123 x 82
+    focus_points: 51
+    gps: Optional
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d810a/specifications
+    max_fps: 5.0
+    mega_pixels: 36.0
+    name: Nikon D810A
+    processor: EXPEED 4
+    release_date: Feb 10, 2015
+    screen_size: 3.2
+    sensor_size: Full frame (35.9 x 24 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC, CompactFlash (UDMA compliant)
+    weight_gr: 880
+
+nikon_d850:
+    battery_life: 1840
+    body_type: Mid-size SLR
+    dimensions_mm: 146 x 124 x 79
+    focus_points: 151
+    gps: null
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d850/specifications
+    max_fps: 7.0
+    mega_pixels: 45.0
+    name: Nikon D850
+    processor: Expeed 5
+    release_date: Jul 25, 2017
+    screen_size: 3.2
+    sensor_size: Full frame (35.9 x 23.9 mm)
+    sensor_type: BSI-CMOS
+    storage: SD/SDHC/SDXC (UHS-II supported) + XQD
+    weight_gr: 1005
+
+nikon_d90:
+    battery_life: 850
+    body_type: Mid-size SLR
+    dimensions_mm: 132 x 103 x 77
+    focus_points: 11
+    gps: Optional
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d90/specifications
+    max_fps: 4.5
+    mega_pixels: 12.0
+    name: Nikon D90
+    release_date: Aug 27, 2008
+    screen_size: 3.0
+    sensor_size: APS-C (23.6 x 15.8 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC
+    weight_gr: 703
+
+nikon_df:
+    battery_life: 1400
+    body_type: Mid-size SLR
+    dimensions_mm: 144 x 110 x 67
+    focus_points: 39
+    gps: null
+    lens_mount: Nikon F
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_df/specifications
+    max_fps: 5.5
+    mega_pixels: 16.0
+    name: Nikon Df
+    processor: Expeed 3
+    release_date: Nov 5, 2013
+    screen_size: 3.2
+    sensor_size: Full frame (36 x 23.9 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC card
+    weight_gr: 760
+
+nikon_z6:
+    battery_life: 310
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 134 x 101 x 68
+    focus_points: 273
+    gps: null
+    lens_mount: Nikon Z
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_z6/specifications
+    max_fps: 12.0
+    mega_pixels: 25.0
+    name: Nikon Z6
+    processor: Expeed 6
+    release_date: Aug 23, 2018
+    screen_size: 3.2
+    sensor_size: Full frame (35.9 x 23.9 mm)
+    sensor_type: CMOS
+    storage: XQD card
+    weight_gr: 675
+
+nikon_z7:
+    battery_life: 330
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 134 x 101 x 68
+    focus_points: 493
+    gps: null
+    lens_mount: Nikon Z
+    links:
+        dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_z7/specifications
+    max_fps: 9.0
+    mega_pixels: 46.0
+    name: Nikon Z7
+    processor: Expeed 6
+    release_date: Aug 23, 2018
+    screen_size: 3.2
+    sensor_size: Full frame (35.9 x 23.9 mm)
+    sensor_type: CMOS
+    storage: XQD card
+    weight_gr: 675
+
+panasonic_dcg9:
+    battery_life: 400
+    body_type: SLR-style mirrorless
+    dimensions_mm: 137 x 97 x 92
+    focus_points: 225
+    gps: null
+    lens_mount: Micro Four Thirds
+    links:
+        dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dcg9/specifications
+    max_fps: 20.0
+    mega_pixels: 20.0
+    name: Panasonic Lumix DC-G9
+    release_date: Nov 8, 2017
+    screen_size: 3.0
+    sensor_size: Four Thirds (17.3 x 13 mm)
+    sensor_type: CMOS
+    storage: Dual SD/SDHC/SDXC slots (UHS-II supported)
+    weight_gr: 658
+
+panasonic_dcgf10:
+    battery_life: 210
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 107 x 65 x 33
+    focus_points: 49
+    gps: null
+    lens_mount: Micro Four Thirds
+    links:
+        dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dcgf10/specifications
+    max_fps: 10.0
+    mega_pixels: 16.0
+    name: Panasonic Lumix DC-GF10 (GF90)
+    processor: Venus Engine
+    release_date: Feb 1, 2018
+    screen_size: 3.0
+    sensor_size: Four Thirds (17.3 x 13 mm)
+    sensor_type: CMOS
+    storage: microSD/SDHC/SDXC
+    weight_gr: 270
+
+panasonic_dcgh5:
+    battery_life: 410
+    body_type: SLR-style mirrorless
+    dimensions_mm: 139 x 98 x 87
+    focus_points: 225
+    gps: null
+    lens_mount: Micro Four Thirds
+    links:
+        dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dcgh5/specifications
+    max_fps: 12.0
+    mega_pixels: 20.0
+    name: Panasonic Lumix DC-GH5
+    processor: Venus Engine 10
+    release_date: Jan 4, 2017
+    screen_size: 3.2
+    sensor_size: Four Thirds (17.3 x 13 mm)
+    sensor_type: CMOS
+    storage: Dual SD/SDHC/SDXC (UHS-II compatible)
+    weight_gr: 725
+
+panasonic_dcgh5s:
+    battery_life: 440
+    body_type: SLR-style mirrorless
+    dimensions_mm: 139 x 98 x 87
+    focus_points: 225
+    gps: null
+    lens_mount: Micro Four Thirds
+    links:
+        dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dcgh5s/specifications
+    max_fps: 12.0
+    mega_pixels: 10.0
+    name: Panasonic Lumix DC-GH5S
+    processor: Venus Engine 10
+    release_date: Jan 8, 2018
+    screen_size: 3.2
+    sensor_size: Four Thirds (19.2 x 13 mm)
+    sensor_type: CMOS
+    storage: Dual SD/SDHC/SDXC cards (UHS-II V60 cards supported)
+    weight_gr: 660
+
+panasonic_dcgx850:
+    battery_life: 210
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 107 x 65 x 33
+    focus_points: 49
+    gps: null
+    lens_mount: Micro Four Thirds
+    links:
+        dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dcgx850/specifications
+    max_fps: 10.0
+    mega_pixels: 16.0
+    name: Panasonic Lumix DC-GX850 (Lumix DC-GX800 / Lumix DC-GF9)
+    processor: Venus Engine
+    release_date: Jan 4, 2017
+    screen_size: 3.0
+    sensor_size: Four Thirds (17.3 x 13 mm)
+    sensor_type: CMOS
+    storage: microSD/SDHC/SDXC
+    weight_gr: 269
+
+panasonic_dcgx9:
+    battery_life: 260
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 124 x 72 x 47
+    focus_points: 49
+    gps: null
+    lens_mount: Micro Four Thirds
+    links:
+        dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dcgx9/specifications
+    max_fps: 9.0
+    mega_pixels: 20.0
+    name: Panasonic Lumix DC-GX9
+    processor: Venus Engine
+    release_date: Feb 13, 2018
+    screen_size: 3.0
+    sensor_size: Four Thirds (17.3 x 13 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC card (UHS-I supported)
+    weight_gr: 407
+
+panasonic_dcs1:
+    battery_life: 380
+    body_type: SLR-style mirrorless
+    dimensions_mm: 149 x 110 x 97
+    focus_points: 225
+    gps: null
+    lens_mount: Leica L
+    links:
+        dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dcs1/specifications
+    max_fps: 9.0
+    mega_pixels: 24.0
+    name: Panasonic Lumix DC-S1
+    processor: Venus Engine
+    release_date: Feb 1, 2019
+    screen_size: 3.2
+    sensor_size: Full frame (35.6 x 23.8 mm)
+    sensor_type: CMOS
+    weight_gr: 899
+
+panasonic_dcs1r:
+    battery_life: 360
+    body_type: SLR-style mirrorless
+    dimensions_mm: 149 x 110 x 97
+    focus_points: 225
+    gps: null
+    lens_mount: Leica L
+    links:
+        dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dcs1r/specifications
+    max_fps: 9.0
+    mega_pixels: 47.0
+    name: Panasonic Lumix DC-S1R
+    processor: Venus Engine
+    release_date: Feb 1, 2019
+    screen_size: 3.2
+    sensor_size: Full frame (36 x 24 mm)
+    sensor_type: CMOS
+    weight_gr: 898
+
+panasonic_dmcg1:
+    body_type: SLR-style mirrorless
+    dimensions_mm: 124 x 84 x 45
+    gps: null
+    lens_mount: Micro Four Thirds
+    links:
+        dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcg1/specifications
+    max_fps: 3.0
+    mega_pixels: 12.0
+    name: Panasonic Lumix DMC-G1
+    release_date: Sep 12, 2008
+    screen_size: 3.0
+    sensor_size: Four Thirds (17.3 x 13 mm)
+    sensor_type: CMOS
+    storage: SD/MMC/SDHC card
+    weight_gr: 360
+
+panasonic_dmcg10:
+    body_type: SLR-style mirrorless
+    dimensions_mm: 124 x 90 x 74
+    gps: null
+    lens_mount: Micro Four Thirds
+    links:
+        dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcg10/specifications
+    max_fps: 2.6
+    mega_pixels: 12.0
+    name: Panasonic Lumix DMC-G10
+    processor: Venus Engine HD II
+    release_date: Mar 7, 2010
+    screen_size: 3.0
+    sensor_size: Four Thirds (17.3 x 13 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC card
+    weight_gr: 388
+
+panasonic_dmcg2:
+    body_type: SLR-style mirrorless
+    dimensions_mm: 124 x 84 x 74
+    gps: null
+    lens_mount: Micro Four Thirds
+    links:
+        dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcg2/specifications
+    max_fps: 2.6
+    mega_pixels: 12.0
+    name: Panasonic Lumix DMC-G2
+    processor: Venus Engine HD II
+    release_date: Mar 7, 2010
+    screen_size: 3.0
+    sensor_size: Four Thirds (17.3 x 13 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 428
+
+panasonic_dmcg3:
+    body_type: SLR-style mirrorless
+    dimensions_mm: 115 x 84 x 47
+    gps: null
+    lens_mount: Micro Four Thirds
+    links:
+        dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcg3/specifications
+    max_fps: 4.0
+    mega_pixels: 16.0
+    name: Panasonic Lumix DMC-G3
+    processor: Venus Engine FHD
+    release_date: May 12, 2011
+    screen_size: 3.0
+    sensor_size: Four Thirds (17.3 x 13 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 336
+
+panasonic_dmcg5:
+    battery_life: 320
+    body_type: SLR-style mirrorless
+    dimensions_mm: 120 x 83 x 71
+    focus_points: 23
+    gps: null
+    lens_mount: Micro Four Thirds
+    links:
+        dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcg5/specifications
+    max_fps: 6.0
+    mega_pixels: 16.0
+    name: Panasonic Lumix DMC-G5
+    processor: Venus Engine VII FHD
+    release_date: Jul 18, 2012
+    screen_size: 3.0
+    sensor_size: Four Thirds (17.3 x 13 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 396
+
+panasonic_dmcg6:
+    battery_life: 340
+    body_type: SLR-style mirrorless
+    dimensions_mm: 122 x 85 x 71
+    focus_points: 23
+    gps: null
+    lens_mount: Micro Four Thirds
+    links:
+        dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcg6/specifications
+    max_fps: 7.0
+    mega_pixels: 16.0
+    name: Panasonic Lumix DMC-G6
+    release_date: Apr 24, 2013
+    screen_size: 3.0
+    sensor_size: Four Thirds (17.3 x 13 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 390
+
+panasonic_dmcg7:
+    battery_life: 350
+    body_type: SLR-style mirrorless
+    dimensions_mm: 125 x 86 x 77
+    focus_points: 49
+    gps: null
+    lens_mount: Micro Four Thirds
+    links:
+        dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcg7/specifications
+    max_fps: 7.0
+    mega_pixels: 16.0
+    name: Panasonic Lumix DMC-G7
+    release_date: May 18, 2015
+    screen_size: 3.0
+    sensor_size: Four Thirds (17.3 x 13 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 410
+
+panasonic_dmcg85:
+    battery_life: 330
+    body_type: SLR-style mirrorless
+    dimensions_mm: 128 x 89 x 74
+    focus_points: 49
+    gps: null
+    lens_mount: Micro Four Thirds
+    links:
+        dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcg85/specifications
+    max_fps: 9.0
+    mega_pixels: 16.0
+    name: Panasonic Lumix DMC-G85 (Lumix DMC-G80)
+    release_date: Sep 19, 2016
+    screen_size: 3.0
+    sensor_size: Four Thirds (17.3 x 13 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC card
+    weight_gr: 505
+
+panasonic_dmcgf1:
+    battery_life: 380
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 119 x 71 x 36
+    focus_points: 23
+    gps: null
+    lens_mount: Micro Four Thirds
+    links:
+        dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgf1/specifications
+    max_fps: 3.0
+    mega_pixels: 12.0
+    name: Panasonic Lumix DMC-GF1
+    processor: Venus Engine HD
+    release_date: Sep 2, 2009
+    screen_size: 3.0
+    sensor_size: Four Thirds (17.3 x 13 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/MMC
+    weight_gr: 385
+
+panasonic_dmcgf2:
+    battery_life: 300
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 113 x 68 x 33
+    focus_points: 23
+    gps: null
+    lens_mount: Micro Four Thirds
+    links:
+        dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgf2/specifications
+    max_fps: 2.6
+    mega_pixels: 12.0
+    name: Panasonic Lumix DMC-GF2
+    processor: Venus Engine FHD
+    release_date: Nov 4, 2010
+    screen_size: 3.0
+    sensor_size: Four Thirds (17.3 x 13 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 310
+
+panasonic_dmcgf3:
+    battery_life: 300
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 108 x 67 x 32
+    focus_points: 23
+    gps: null
+    lens_mount: Micro Four Thirds
+    links:
+        dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgf3/specifications
+    max_fps: 3.2
+    mega_pixels: 12.0
+    name: Panasonic Lumix DMC-GF3
+    processor: Venus Engine FHD
+    release_date: Jun 13, 2011
+    screen_size: 3.0
+    sensor_size: Four Thirds (17.3 x 13 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 264
+
+panasonic_dmcgf5:
+    battery_life: 360
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 108 x 67 x 37
+    focus_points: 23
+    gps: null
+    lens_mount: Micro Four Thirds
+    links:
+        dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgf5/specifications
+    max_fps: 4.0
+    mega_pixels: 12.0
+    name: Panasonic Lumix DMC-GF5
+    processor: Venus Engine FHD
+    release_date: Apr 5, 2012
+    screen_size: 3.0
+    sensor_size: Four Thirds (17.3 x 13 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 267
+
+panasonic_dmcgf6:
+    battery_life: 340
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 111 x 65 x 38
+    gps: null
+    lens_mount: Micro Four Thirds
+    links:
+        dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgf6/specifications
+    max_fps: 4.2
+    mega_pixels: 16.0
+    name: Panasonic Lumix DMC-GF6
+    processor: Venus Engine FHD
+    release_date: Apr 9, 2013
+    screen_size: 3.0
+    sensor_size: Four Thirds (17.3 x 13 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 323
+
+panasonic_dmcgf7:
+    battery_life: 230
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 107 x 65 x 33
+    focus_points: 23
+    gps: null
+    lens_mount: Micro Four Thirds
+    links:
+        dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgf7/specifications
+    max_fps: 5.8
+    mega_pixels: 16.0
+    name: Panasonic Lumix DMC-GF7
+    processor: Venus Engine
+    release_date: Jan 20, 2015
+    screen_size: 3.0
+    sensor_size: Four Thirds (17.3 x 13 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC card
+    weight_gr: 266
+
+panasonic_dmcgf8:
+    battery_life: 230
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 107 x 65 x 33
+    focus_points: 23
+    gps: null
+    lens_mount: Micro Four Thirds
+    links:
+        dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgf8/specifications
+    max_fps: 5.8
+    mega_pixels: 16.0
+    name: Panasonic Lumix DMC-GF8
+    processor: Venus Engine
+    release_date: Feb 15, 2016
+    screen_size: 3.0
+    sensor_size: Four Thirds (17.3 x 13 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC card
+    weight_gr: 266
+
+panasonic_dmcgh1:
+    body_type: SLR-style mirrorless
+    dimensions_mm: 124 x 90 x 45
+    gps: null
+    lens_mount: Micro Four Thirds
+    links:
+        dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgh1/specifications
+    max_fps: 3.0
+    mega_pixels: 12.0
+    name: Panasonic Lumix DMC-GH1
+    processor: Venus Engine HD
+    release_date: Mar 3, 2009
+    screen_size: 3.0
+    sensor_size: Four Thirds (18.89 x 14.48 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC
+    weight_gr: 385
+
+panasonic_dmcgh2:
+    battery_life: 330
+    body_type: SLR-style mirrorless
+    dimensions_mm: 124 x 90 x 76
+    focus_points: 23
+    gps: null
+    lens_mount: Micro Four Thirds
+    links:
+        dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgh2/specifications
+    max_fps: 3.0
+    mega_pixels: 16.0
+    name: Panasonic Lumix DMC-GH2
+    processor: Venus Engine FHD
+    release_date: Sep 21, 2010
+    screen_size: 3.0
+    sensor_size: Four Thirds (17.3 x 13 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 442
+
+panasonic_dmcgh3:
+    battery_life: 540
+    body_type: SLR-style mirrorless
+    dimensions_mm: 133 x 93 x 82
+    focus_points: 23
+    gps: null
+    lens_mount: Micro Four Thirds
+    links:
+        dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgh3/specifications
+    max_fps: 20.0
+    mega_pixels: 16.0
+    name: Panasonic Lumix DMC-GH3
+    processor: Venus Engine VII FHD
+    release_date: Sep 17, 2012
+    screen_size: 3.0
+    sensor_size: Four Thirds (17.3 x 13 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 550
+
+panasonic_dmcgh4:
+    battery_life: 500
+    body_type: SLR-style mirrorless
+    dimensions_mm: 133 x 93 x 84
+    focus_points: 49
+    gps: null
+    lens_mount: Micro Four Thirds
+    links:
+        dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgh4/specifications
+    max_fps: 12.0
+    mega_pixels: 16.0
+    name: Panasonic Lumix DMC-GH4
+    processor: Venus Engine IX
+    release_date: Feb 7, 2014
+    screen_size: 3.0
+    sensor_size: Four Thirds (17.3 x 13 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 560
+
+panasonic_dmcgm1:
+    battery_life: 230
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 99 x 55 x 30
+    focus_points: 23
+    gps: null
+    lens_mount: Micro Four Thirds
+    links:
+        dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgm1/specifications
+    max_fps: 5.0
+    mega_pixels: 16.0
+    name: Panasonic Lumix DMC-GM1
+    release_date: Oct 17, 2013
+    screen_size: 3.0
+    sensor_size: Four Thirds (17.3 x 13 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 204
+
+panasonic_dmcgm5:
+    battery_life: 220
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 99 x 60 x 36
+    focus_points: 23
+    gps: null
+    lens_mount: Micro Four Thirds
+    links:
+        dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgm5/specifications
+    max_fps: 5.8
+    mega_pixels: 16.0
+    name: Panasonic Lumix DMC-GM5
+    processor: Venus Engine
+    release_date: Sep 15, 2014
+    screen_size: 3.0
+    sensor_size: Four Thirds (17.3 x 13 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 211
+
+panasonic_dmcgx1:
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 116 x 68 x 39
+    gps: null
+    lens_mount: Micro Four Thirds
+    links:
+        dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgx1/specifications
+    max_fps: 4.2
+    mega_pixels: 16.0
+    name: Panasonic Lumix DMC-GX1
+    processor: Venus Engine FHD
+    release_date: Nov 7, 2011
+    screen_size: 3.0
+    sensor_size: Four Thirds (17.3 x 13 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 318
+
+panasonic_dmcgx7:
+    battery_life: 350
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 123 x 71 x 55
+    focus_points: 23
+    gps: null
+    lens_mount: Micro Four Thirds
+    links:
+        dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgx7/specifications
+    max_fps: 5.0
+    mega_pixels: 16.0
+    name: Panasonic Lumix DMC-GX7
+    processor: Venus Engine
+    release_date: Aug 1, 2013
+    screen_size: 3.0
+    sensor_size: Four Thirds (17.3 x 13 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC card
+    weight_gr: 402
+
+panasonic_dmcgx8:
+    battery_life: 330
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 133 x 78 x 63
+    focus_points: 49
+    gps: null
+    lens_mount: Micro Four Thirds
+    links:
+        dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgx8/specifications
+    max_fps: 10.0
+    mega_pixels: 20.0
+    name: Panasonic Lumix DMC-GX8
+    processor: Venus Engine
+    release_date: Jul 16, 2015
+    screen_size: 3.0
+    sensor_size: Four Thirds (17.3 x 13 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC card
+    weight_gr: 487
+
+panasonic_dmcgx85:
+    battery_life: 290
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 122 x 71 x 44
+    focus_points: 49
+    gps: null
+    lens_mount: Micro Four Thirds
+    links:
+        dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgx85/specifications
+    max_fps: 8.0
+    mega_pixels: 16.0
+    name: Panasonic Lumix DMC-GX85 (Lumix DMC-GX80 / Lumix DMC-GX7 Mark II)
+    processor: Venus Engine
+    release_date: Apr 5, 2016
+    screen_size: 3.0
+    sensor_size: Four Thirds (17.3 x 13 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC card
+    weight_gr: 426
+
+panasonic_dmcl1:
+    body_type: Mid-size SLR
+    dimensions_mm: 146 x 87 x 77
+    focus_points: 3
+    lens_mount: Four Thirds
+    links:
+        dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcl1/specifications
+    max_fps: 3.0
+    mega_pixels: 7.0
+    name: Panasonic Lumix DMC-L1
+    release_date: Feb 26, 2006
+    screen_size: 2.5
+    sensor_size: Four Thirds (17.3 x 13 mm)
+    sensor_type: CMOS
+    storage: SD/MMC card
+    weight_gr: 606
+
+panasonic_dmcl10:
+    body_type: Mid-size SLR
+    dimensions_mm: 135 x 96 x 78
+    focus_points: 3
+    lens_mount: Four Thirds
+    links:
+        dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcl10/specifications
+    max_fps: 3.0
+    mega_pixels: 10.0
+    name: Panasonic Lumix DMC-L10
+    release_date: Aug 30, 2007
+    screen_size: 2.5
+    sensor_size: Four Thirds (17.3 x 13 mm)
+    sensor_type: CMOS
+    storage: SD/MMC/SDHC card
+    weight_gr: 556
+
+sony_a3000:
+    battery_life: 470
+    body_type: SLR-style mirrorless
+    dimensions_mm: 128 x 91 x 85
+    focus_points: 25
+    gps: null
+    lens_mount: Sony E
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_a3000/specifications
+    max_fps: 2.5
+    mega_pixels: 20.0
+    name: Sony Alpha a3000
+    processor: BIONZ image processor
+    release_date: Aug 27, 2013
+    screen_size: 3.0
+    sensor_size: APS-C (23.5 x 15.6 mm)
+    sensor_type: CMOS
+    weight_gr: 411
+
+sony_a5000:
+    battery_life: 420
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 110 x 63 x 36
+    focus_points: 25
+    gps: null
+    lens_mount: Sony E
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_a5000/specifications
+    max_fps: 3.5
+    mega_pixels: 20.0
+    name: Sony Alpha a5000 (ILCE 5000)
+    processor: Bionz X
+    release_date: Jan 7, 2014
+    screen_size: 3.0
+    sensor_size: APS-C (23.2 x 15.4 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC/Memory Stick Pro Duo
+    weight_gr: 269
+
+sony_a5100:
+    battery_life: 400
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 110 x 63 x 36
+    focus_points: 179
+    gps: null
+    lens_mount: Sony E
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_a5100/specifications
+    max_fps: 6.0
+    mega_pixels: 24.0
+    name: Sony Alpha a5100
+    processor: Bionz X
+    release_date: Aug 18, 2014
+    screen_size: 3.0
+    sensor_size: APS-C (23.5 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/ SDHC/SDXC, Memory Stick Pro Duo/ Pro-HG Duo
+    weight_gr: 283
+
+sony_a6000:
+    battery_life: 360
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 120 x 67 x 45
+    focus_points: 179
+    gps: null
+    lens_mount: Sony E
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_a6000/specifications
+    max_fps: 11.0
+    mega_pixels: 24.0
+    name: Sony a6000
+    processor: Bionz X
+    release_date: Feb 12, 2014
+    screen_size: 3.0
+    sensor_size: APS-C (23.5 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/ SDHC/SDXC, Memory Stick Pro Duo/ Pro-HG Duo
+    weight_gr: 344
+
+sony_a6300:
+    battery_life: 400
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 120 x 67 x 49
+    focus_points: 425
+    gps: null
+    lens_mount: Sony E
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_a6300/specifications
+    max_fps: 11.0
+    mega_pixels: 24.0
+    name: Sony a6300
+    processor: BIONZ X
+    release_date: Feb 3, 2016
+    screen_size: 3.0
+    sensor_size: APS-C (23.5 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC
+    weight_gr: 404
+
+sony_a6400:
+    battery_life: 410
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 120 x 67 x 60
+    focus_points: 425
+    gps: null
+    lens_mount: Sony E
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_a6400/specifications
+    max_fps: 11.0
+    mega_pixels: 24.0
+    name: Sony a6400
+    processor: Bionz X
+    release_date: Jan 15, 2019
+    screen_size: 3.0
+    sensor_size: APS-C (23.5 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC/Memory Stick DUO (UHS-I compliant)
+    weight_gr: 403
+
+sony_a6500:
+    battery_life: 350
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 120 x 67 x 53
+    focus_points: 425
+    gps: null
+    lens_mount: Sony E
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_a6500/specifications
+    max_fps: 11.0
+    mega_pixels: 24.0
+    name: Sony a6500
+    processor: Bionz X
+    release_date: Oct 6, 2016
+    screen_size: 3.0
+    sensor_size: APS-C (23.5 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC + Memory Stick Pro Duo
+    weight_gr: 453
+
+sony_a7:
+    battery_life: 340
+    body_type: SLR-style mirrorless
+    dimensions_mm: 127 x 94 x 48
+    focus_points: 117
+    gps: null
+    lens_mount: Sony E
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_a7/specifications
+    max_fps: 5.0
+    mega_pixels: 24.0
+    name: Sony a7
+    processor: Bionz X
+    release_date: Oct 16, 2013
+    screen_size: 3.0
+    sensor_size: Full frame (35.8 x 23.9 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo
+    weight_gr: 474
+
+sony_a7ii:
+    battery_life: 350
+    body_type: SLR-style mirrorless
+    dimensions_mm: 127 x 96 x 60
+    focus_points: 117
+    gps: null
+    lens_mount: Sony E
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_a7ii/specifications
+    max_fps: 5.0
+    mega_pixels: 24.0
+    name: Sony a7 II
+    processor: Bionz X
+    release_date: Nov 20, 2014
+    screen_size: 3.0
+    sensor_size: Full frame (35.8 x 23.9 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo
+    weight_gr: 599
+
+sony_a7iii:
+    battery_life: 710
+    body_type: SLR-style mirrorless
+    dimensions_mm: 127 x 96 x 74
+    focus_points: 693
+    gps: null
+    lens_mount: Sony E
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_a7iii/specifications
+    max_fps: 10.0
+    mega_pixels: 24.0
+    name: Sony a7 III
+    processor: Bionz X
+    release_date: Feb 27, 2018
+    screen_size: 3.0
+    sensor_size: Full frame (35.8 x 23.8 mm)
+    sensor_type: BSI-CMOS
+    storage: SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo
+    weight_gr: 650
+
+sony_a7r:
+    battery_life: 340
+    body_type: SLR-style mirrorless
+    dimensions_mm: 127 x 94 x 48
+    focus_points: 25
+    gps: null
+    lens_mount: Sony E
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_a7r/specifications
+    max_fps: 4.0
+    mega_pixels: 36.0
+    name: Sony a7R
+    processor: Bionz X
+    release_date: Oct 16, 2013
+    screen_size: 3.0
+    sensor_size: Full frame (35.9 x 24 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo
+    weight_gr: 465
+
+sony_a7rii:
+    battery_life: 290
+    body_type: SLR-style mirrorless
+    dimensions_mm: 127 x 96 x 60
+    focus_points: 399
+    gps: null
+    lens_mount: Sony E
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_a7rii/specifications
+    max_fps: 5.0
+    mega_pixels: 42.0
+    name: Sony a7R II
+    processor: Bionz X
+    release_date: Jun 10, 2015
+    screen_size: 3.0
+    sensor_size: Full frame (35.9 x 24 mm)
+    sensor_type: BSI-CMOS
+    storage: SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo
+    weight_gr: 625
+
+sony_a7riii:
+    battery_life: 650
+    body_type: SLR-style mirrorless
+    dimensions_mm: 127 x 96 x 74
+    focus_points: 399
+    gps: null
+    lens_mount: Sony E
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_a7riii/specifications
+    max_fps: 10.0
+    mega_pixels: 42.0
+    name: Sony a7R III
+    processor: Bionz X
+    release_date: Oct 25, 2017
+    screen_size: 3.0
+    sensor_size: Full frame (35.9 x 24 mm)
+    sensor_type: BSI-CMOS
+    storage: Two SD/SDHC/SDXC slots (UHS-II support on one)
+    weight_gr: 657
+
+sony_a7s:
+    battery_life: 380
+    body_type: SLR-style mirrorless
+    dimensions_mm: 127 x 94 x 48
+    focus_points: 25
+    gps: null
+    lens_mount: Sony E
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_a7s/specifications
+    max_fps: 5.0
+    mega_pixels: 12.0
+    name: Sony a7S
+    processor: Bionz X
+    release_date: Apr 6, 2014
+    screen_size: 3.0
+    sensor_size: Full frame (35.8 x 23.9 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo
+    weight_gr: 489
+
+sony_a7sii:
+    battery_life: 370
+    body_type: SLR-style mirrorless
+    dimensions_mm: 127 x 96 x 60
+    focus_points: 169
+    gps: null
+    lens_mount: Sony E
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_a7sii/specifications
+    max_fps: 5.0
+    mega_pixels: 12.0
+    name: Sony a7S II
+    processor: Bionz X
+    release_date: Sep 11, 2015
+    screen_size: 3.0
+    sensor_size: Full frame (35.6 x 23.8 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo
+    weight_gr: 627
+
+sony_a9:
+    battery_life: 650
+    body_type: SLR-style mirrorless
+    dimensions_mm: 127 x 96 x 63
+    focus_points: 693
+    gps: null
+    lens_mount: Sony E
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_a9/specifications
+    max_fps: 20.0
+    mega_pixels: 24.0
+    name: Sony Alpha a9
+    processor: BIONZ X
+    release_date: Apr 19, 2017
+    screen_size: 3.0
+    sensor_size: Full frame (35.6 x 23.8 mm)
+    sensor_type: BSI-CMOS
+    storage: Dual SD/SDHC/SDXC slots (One of which UHS-II compatible)
+    weight_gr: 673
+
+sony_a99:
+    battery_life: 500
+    body_type: Mid-size SLR
+    dimensions_mm: 147 x 111 x 78
+    focus_points: 19
+    gps: Built-in
+    lens_mount: Sony/Minolta Alpha
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_slta99/specifications
+    max_fps: 6.0
+    mega_pixels: 24.0
+    name: Sony Alpha a99
+    processor: Bionz
+    release_date: Sep 12, 2012
+    screen_size: 3.0
+    sensor_size: Full frame (35.8 x 23.8 mm)
+    sensor_type: CMOS
+    storage: Memory Stick PRO Duo/Pro-HG Duo; SD, SDHC and SDXC
+    weight_gr: 812
+
+sony_a99ii:
+    battery_life: 490
+    body_type: Mid-size SLR
+    dimensions_mm: 143 x 104 x 76
+    focus_points: 399
+    gps: null
+    lens_mount: Sony/Minolta Alpha
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_slta99_ii/specifications
+    max_fps: 12.0
+    mega_pixels: 42.0
+    name: Sony Alpha a99 II
+    processor: Bionz X
+    release_date: Sep 19, 2016
+    screen_size: 3.0
+    sensor_size: Full frame (35.9 x 24 mm)
+    sensor_type: BSI-CMOS
+    storage: Dual SD/SDHC/SDXC[UHS I]/MS Duo slots
+    weight_gr: 849
+
+sony_dslra230:
+    battery_life: 230
+    body_type: Compact SLR
+    dimensions_mm: 128 x 97 x 68
+    focus_points: 9
+    gps: null
+    lens_mount: Sony/Minolta Alpha
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_dslra230/specifications
+    max_fps: 2.5
+    mega_pixels: 10.0
+    name: Sony Alpha DSLR-A230
+    processor: Bionz
+    release_date: May 18, 2009
+    screen_size: 2.7
+    sensor_size: APS-C (23.5 x 15.7 mm)
+    sensor_type: CCD
+    storage: SD/ SDHC, Memory Stick Pro Duo
+    weight_gr: 490
+
+sony_dslra290:
+    battery_life: 290
+    body_type: Compact SLR
+    dimensions_mm: 128 x 97 x 86
+    focus_points: 9
+    gps: null
+    lens_mount: Sony/Minolta Alpha
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_dslra290/specifications
+    max_fps: 2.5
+    mega_pixels: 14.0
+    name: Sony Alpha DSLR-A290
+    processor: Bionz
+    release_date: Jun 9, 2010
+    screen_size: 2.7
+    sensor_size: APS-C (23.5 x 15.7 mm)
+    sensor_type: CCD
+    storage: Memory Stick Pro Duo/ Pro-HG Duo, SD/SDHC
+    weight_gr: 549
+
+sony_dslra330:
+    battery_life: 230
+    body_type: Compact SLR
+    dimensions_mm: 128 x 97 x 71
+    focus_points: 9
+    gps: null
+    lens_mount: Sony/Minolta Alpha
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_dslra330/specifications
+    max_fps: 2.5
+    mega_pixels: 10.0
+    name: Sony Alpha DSLR-A330
+    processor: Bionz
+    release_date: May 18, 2009
+    screen_size: 2.7
+    sensor_size: APS-C (23.5 x 15.7 mm)
+    sensor_type: CCD
+    storage: SD/ SDHC, Memory Stick Pro Duo
+    weight_gr: 529
+
+sony_dslra380:
+    body_type: Compact SLR
+    dimensions_mm: 128 x 97 x 71
+    focus_points: 9
+    gps: null
+    lens_mount: Sony/Minolta Alpha
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_dslra380/specifications
+    max_fps: 2.5
+    mega_pixels: 14.0
+    name: Sony Alpha DSLR-A380
+    processor: Bionz
+    release_date: May 18, 2009
+    screen_size: 2.7
+    sensor_size: APS-C (23.6 x 15.8 mm)
+    sensor_type: CCD
+    storage: SD/ SDHC, Memory Stick Pro Duo
+    weight_gr: 519
+
+sony_dslra390:
+    battery_life: 230
+    body_type: Compact SLR
+    dimensions_mm: 128 x 97 x 86
+    focus_points: 9
+    gps: null
+    lens_mount: Sony/Minolta Alpha
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_dslra390/specifications
+    max_fps: 2.5
+    mega_pixels: 14.0
+    name: Sony Alpha DSLR-A390
+    processor: Bionz
+    release_date: Jun 9, 2010
+    screen_size: 2.7
+    sensor_size: APS-C (23.5 x 15.7 mm)
+    sensor_type: CCD
+    storage: SD/ SDHC, Memory Stick Pro Duo
+    weight_gr: 549
+
+sony_dslra450:
+    battery_life: 1050
+    body_type: Compact SLR
+    dimensions_mm: 137 x 104 x 81
+    focus_points: 9
+    gps: null
+    lens_mount: Sony/Minolta Alpha
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_dslra450/specifications
+    max_fps: 7.0
+    mega_pixels: 14.0
+    name: Sony Alpha DSLR-A450
+    processor: Bionz
+    release_date: Jan 5, 2010
+    screen_size: 2.7
+    sensor_size: APS-C (23.4 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/ SDHC, Memory Stick Pro Duo/ Pro-HG Duo
+    weight_gr: 560
+
+sony_dslra500:
+    battery_life: 520
+    body_type: Compact SLR
+    dimensions_mm: 137 x 104 x 84
+    focus_points: 9
+    lens_mount: Sony/Minolta Alpha
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_dslra500/specifications
+    max_fps: 5.0
+    mega_pixels: 12.0
+    name: Sony Alpha DSLR-A500
+    processor: Bionz
+    release_date: Aug 27, 2009
+    screen_size: 3.0
+    sensor_size: APS-C (23.5 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/ SDHC, Memory Stick Pro Duo/ Pro-HG Duo
+    weight_gr: 630
+
+sony_dslra550:
+    battery_life: 480
+    body_type: Compact SLR
+    dimensions_mm: 137 x 104 x 84
+    focus_points: 9
+    lens_mount: Sony/Minolta Alpha
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_dslra550/specifications
+    max_fps: 7.0
+    mega_pixels: 14.0
+    name: Sony Alpha DSLR-A550
+    processor: Bionz
+    release_date: Aug 27, 2009
+    screen_size: 3.0
+    sensor_size: APS-C (23.4 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/ SDHC, Memory Stick Pro Duo/ Pro-HG Duo
+    weight_gr: 632
+
+sony_dslra560:
+    body_type: Compact SLR
+    dimensions_mm: 137 x 104 x 84
+    focus_points: 15
+    gps: null
+    lens_mount: Sony/Minolta Alpha
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_dslra560/specifications
+    max_fps: 5.0
+    mega_pixels: 14.0
+    name: Sony Alpha DSLR-A560
+    processor: Bionz
+    release_date: Aug 24, 2010
+    screen_size: 3.0
+    sensor_size: APS-C (23.5 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC/Memory Stick Pro Duo/ Pro-HG Duo
+    weight_gr: 599
+
+sony_dslra580:
+    battery_life: 1050
+    body_type: Compact SLR
+    dimensions_mm: 137 x 104 x 84
+    focus_points: 15
+    gps: null
+    lens_mount: Sony/Minolta Alpha
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_dslra580/specifications
+    max_fps: 5.0
+    mega_pixels: 16.0
+    name: Sony Alpha DSLR-A580
+    processor: Bionz
+    release_date: Aug 24, 2010
+    screen_size: 3.0
+    sensor_size: APS-C (23.5 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC/Memory Stick Pro Duo/ Pro-HG Duo
+    weight_gr: 599
+
+sony_dslra850:
+    battery_life: 880
+    body_type: Mid-size SLR
+    dimensions_mm: 156 x 117 x 82
+    focus_points: 9
+    gps: null
+    lens_mount: Sony/Minolta Alpha
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_dslra850/specifications
+    max_fps: 3.0
+    mega_pixels: 25.0
+    name: Sony Alpha DSLR-A850
+    processor: Bionz
+    release_date: Aug 27, 2009
+    screen_size: 3.0
+    sensor_size: Full frame (35.9 x 24 mm)
+    sensor_type: CMOS
+    storage: Compact Flash (Type I or II), UDMA, Memory Stick Duo / Pro Duo
+    weight_gr: 895
+
+sony_nex3:
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 117 x 62 x 33
+    focus_points: 25
+    gps: null
+    lens_mount: Sony E
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_nex3/specifications
+    max_fps: 7.0
+    mega_pixels: 14.0
+    name: Sony Alpha NEX-3
+    processor: Bionz
+    release_date: May 11, 2010
+    screen_size: 3.0
+    sensor_size: APS-C (23.4 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/ SDHC/SDXC, Memory Stick Pro Duo/ Pro-HG Duo
+    weight_gr: 297
+
+sony_nex3n:
+    battery_life: 480
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 110 x 62 x 35
+    focus_points: 25
+    gps: null
+    lens_mount: Sony E
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_nex3n/specifications
+    max_fps: 4.0
+    mega_pixels: 16.0
+    name: Sony Alpha NEX-3N
+    processor: Bionz
+    release_date: Feb 20, 2013
+    screen_size: 3.0
+    sensor_size: APS-C (23.5 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/ SDHC/SDXC, Memory Stick Pro Duo/ Pro-HG Duo
+    weight_gr: 269
+
+sony_nex5:
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 111 x 59 x 38
+    focus_points: 25
+    gps: null
+    lens_mount: Sony E
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_nex5/specifications
+    max_fps: 7.0
+    mega_pixels: 14.0
+    name: Sony Alpha NEX-5
+    processor: Bionz
+    release_date: May 11, 2010
+    screen_size: 3.0
+    sensor_size: APS-C (23.4 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/ SDHC/SDXC, Memory Stick Pro Duo/ Pro-HG Duo
+    weight_gr: 287
+
+sony_nex5n:
+    battery_life: 460
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 111 x 59 x 38
+    focus_points: 25
+    gps: null
+    lens_mount: Sony E
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_nex5n/specifications
+    max_fps: 10.0
+    mega_pixels: 16.0
+    name: Sony Alpha NEX-5N
+    processor: Bionz
+    release_date: Aug 24, 2011
+    screen_size: 3.0
+    sensor_size: APS-C (23.4 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/ SDHC/SDXC, Memory Stick Pro Duo/ Pro-HG Duo
+    weight_gr: 269
+
+sony_nex5r:
+    battery_life: 330
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 111 x 59 x 39
+    focus_points: 25
+    gps: null
+    lens_mount: Sony E
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_nex5r/specifications
+    max_fps: 10.0
+    mega_pixels: 16.0
+    name: Sony Alpha NEX-5R
+    processor: Bionz
+    release_date: Aug 29, 2012
+    screen_size: 3.0
+    sensor_size: APS-C (23.4 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/ SDHC/SDXC, Memory Stick Pro Duo/ Pro-HG Duo
+    weight_gr: 276
+
+sony_nex5t:
+    battery_life: 330
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 111 x 59 x 39
+    focus_points: 25
+    gps: null
+    lens_mount: Sony E
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_nex5t/specifications
+    max_fps: 10.0
+    mega_pixels: 16.0
+    name: Sony Alpha NEX-5T
+    processor: Bionz
+    release_date: Aug 27, 2013
+    screen_size: 3.0
+    sensor_size: APS-C (23.4 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/ SDHC/SDXC, Memory Stick Pro Duo/ Pro-HG Duo
+    weight_gr: 276
+
+sony_nex6:
+    battery_life: 360
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 120 x 67 x 43
+    gps: null
+    lens_mount: Sony E
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_nex6/specifications
+    max_fps: 10.0
+    mega_pixels: 16.0
+    name: Sony Alpha NEX-6
+    processor: Bionz
+    release_date: Sep 12, 2012
+    screen_size: 3.0
+    sensor_size: APS-C (23.5 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC/Memory Stick Pro Duo/ Pro-HG Duo
+    weight_gr: 345
+
+sony_nex7:
+    battery_life: 430
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 120 x 67 x 43
+    gps: null
+    lens_mount: Sony E
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_nex7/specifications
+    max_fps: 10.0
+    mega_pixels: 24.0
+    name: Sony Alpha NEX-7
+    processor: Bionz
+    release_date: Aug 24, 2011
+    screen_size: 3.0
+    sensor_size: APS-C (23.5 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC/Memory Stick Pro Duo/ Pro-HG Duo
+    weight_gr: 400
+
+sony_nexc3:
+    battery_life: 400
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 110 x 60 x 33
+    focus_points: 25
+    gps: null
+    lens_mount: Sony E
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_nexc3/specifications
+    max_fps: 5.5
+    mega_pixels: 16.0
+    name: Sony Alpha NEX-C3
+    processor: Bionz
+    release_date: Jun 8, 2011
+    screen_size: 3.0
+    sensor_size: APS-C (23.4 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/ SDHC/SDXC, Memory Stick Pro Duo/ Pro-HG Duo
+    weight_gr: 225
+
+sony_nexf3:
+    battery_life: 470
+    body_type: Rangefinder-style mirrorless
+    dimensions_mm: 117 x 67 x 42
+    focus_points: 25
+    gps: null
+    lens_mount: Sony E
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_nexf3/specifications
+    max_fps: 5.5
+    mega_pixels: 16.0
+    name: Sony Alpha NEX-F3
+    processor: Bionz
+    release_date: May 17, 2012
+    screen_size: 3.0
+    sensor_size: APS-C (23.4 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/ SDHC/SDXC, Memory Stick Pro Duo/ Pro-HG Duo
+    weight_gr: 314
+
+sony_qx1:
+    battery_life: 440
+    body_type: Compact
+    dimensions_mm: 74 x 70 x 53
+    focus_points: 25
+    gps: null
+    lens_mount: Sony E
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_ilceqx1/specifications
+    max_fps: 3.5
+    mega_pixels: 20.0
+    name: Sony Alpha QX1
+    processor: Bionz X
+    release_date: Sep 3, 2014
+    sensor_size: APS-C (23.2 x 15.4 mm)
+    sensor_type: CMOS
+    storage: microSD, microSDHC, microSDXC, Memory Stick Micro
+    weight_gr: 216
+
+sony_slta33:
+    body_type: Compact SLR
+    dimensions_mm: 124 x 92 x 85
+    focus_points: 15
+    gps: null
+    lens_mount: Sony/Minolta Alpha
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_slta33/specifications
+    max_fps: 7.0
+    mega_pixels: 14.0
+    name: Sony SLT-A33
+    processor: Bionz
+    release_date: Aug 24, 2010
+    screen_size: 3.0
+    sensor_size: APS-C (23.5 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC/Memory Stick Pro Duo/ Pro-HG Duo
+    weight_gr: 500
+
+sony_slta35:
+    body_type: Compact SLR
+    dimensions_mm: 124 x 92 x 85
+    focus_points: 15
+    gps: null
+    lens_mount: Sony/Minolta Alpha
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_slta35/specifications
+    max_fps: 5.5
+    mega_pixels: 16.0
+    name: Sony SLT-A35
+    processor: Bionz
+    release_date: Jun 8, 2011
+    screen_size: 3.0
+    sensor_size: APS-C (23.5 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC/Memory Stick Pro Duo/ Pro-HG Duo
+    weight_gr: 415
+
+sony_slta37:
+    battery_life: 500
+    body_type: Compact SLR
+    dimensions_mm: 124 x 92 x 85
+    focus_points: 15
+    gps: null
+    lens_mount: Sony/Minolta Alpha
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_slta37/specifications
+    max_fps: 5.5
+    mega_pixels: 16.0
+    name: Sony SLT-A37
+    release_date: May 17, 2012
+    screen_size: 2.6
+    sensor_size: APS-C (23.5 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC/Memory Stick Pro Duo/ Pro-HG Duo
+    weight_gr: 506
+
+sony_slta55:
+    body_type: Compact SLR
+    dimensions_mm: 124 x 92 x 85
+    focus_points: 15
+    gps: Built-in
+    lens_mount: Sony/Minolta Alpha
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_slta55/specifications
+    max_fps: 10.0
+    mega_pixels: 16.0
+    name: Sony SLT-A55
+    processor: Bionz
+    release_date: Aug 24, 2010
+    screen_size: 3.0
+    sensor_size: APS-C (23.5 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC/Memory Stick Pro Duo/ Pro-HG Duo
+    weight_gr: 500
+
+sony_slta57:
+    battery_life: 550
+    body_type: Compact SLR
+    dimensions_mm: 132 x 98 x 81
+    focus_points: 15
+    gps: null
+    lens_mount: Sony/Minolta Alpha
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_slta57/specifications
+    max_fps: 12.0
+    mega_pixels: 16.0
+    name: Sony SLT-A57
+    release_date: Mar 13, 2012
+    screen_size: 3.0
+    sensor_size: APS-C (23.5 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC/Memory Stick Pro Duo/ Pro-HG Duo
+    weight_gr: 618
+
+sony_slta58:
+    battery_life: 690
+    body_type: Compact SLR
+    dimensions_mm: 129 x 95 x 78
+    focus_points: 15
+    gps: null
+    lens_mount: Sony/Minolta Alpha
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_slta58/specifications
+    max_fps: 5.0
+    mega_pixels: 20.0
+    name: Sony SLT-A58
+    release_date: Feb 20, 2013
+    screen_size: 2.7
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC/Memory Stick Pro Duo/ Pro-HG Duo
+    weight_gr: 492
+
+sony_slta65:
+    body_type: Compact SLR
+    dimensions_mm: 132 x 97 x 81
+    focus_points: 15
+    gps: Built-in
+    lens_mount: Sony/Minolta Alpha
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_slta65/specifications
+    max_fps: 10.0
+    mega_pixels: 24.0
+    name: Sony SLT-A65
+    processor: Bionz
+    release_date: Aug 24, 2011
+    screen_size: 3.0
+    sensor_size: APS-C (23.5 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC/Memory Stick Pro Duo/ Pro-HG Duo
+    weight_gr: 622
+
+sony_slta68:
+    body_type: Mid-size SLR
+    dimensions_mm: 143 x 104 x 81
+    focus_points: 79
+    gps: null
+    lens_mount: Sony/Minolta Alpha
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_slta68/specifications
+    max_fps: 8.0
+    mega_pixels: 24.0
+    name: Sony SLT-A68
+    processor: Bionz X
+    release_date: Nov 5, 2015
+    screen_size: 2.7
+    sensor_size: APS-C (23.5 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/ SDHC/SDXC, Memory Stick Pro Duo
+    weight_gr: 610
+
+sony_slta77:
+    battery_life: 470
+    body_type: Mid-size SLR
+    dimensions_mm: 143 x 104 x 81
+    focus_points: 19
+    gps: Built-in
+    lens_mount: Sony/Minolta Alpha
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_slta77/specifications
+    max_fps: 12.0
+    mega_pixels: 24.0
+    name: Sony SLT-A77
+    processor: Bionz
+    release_date: Aug 24, 2011
+    screen_size: 3.0
+    sensor_size: APS-C (23.5 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/SDHC/SDXC/Memory Stick Pro Duo/ Pro-HG Duo
+    weight_gr: 732
+
+sony_slta77ii:
+    battery_life: 480
+    body_type: Mid-size SLR
+    dimensions_mm: 143 x 104 x 81
+    focus_points: 79
+    gps: null
+    lens_mount: Sony/Minolta Alpha
+    links:
+        dpreview: https://www.dpreview.com/products/sony/slrs/sony_slta77ii/specifications
+    max_fps: 12.0
+    mega_pixels: 24.0
+    name: Sony SLT-A77 II
+    processor: Bionz X
+    release_date: May 1, 2014
+    screen_size: 3.0
+    sensor_size: APS-C (23.5 x 15.6 mm)
+    sensor_type: CMOS
+    storage: SD/ SDHC/SDXC, Memory Stick Pro Duo/ Pro-HG Duo
+    weight_gr: 647

@@ -1,2 +1,3 @@
-# cameras-db
-A list of DSLR and Mirrorless cameras
+# Cameras-db
+
+A list of DSLR and Mirrorless 📷 📸
