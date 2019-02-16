@@ -21,6 +21,7 @@ canon_100d:
     body_type: Compact SLR
     dimensions_mm: 117 x 91 x 69
     gps: Optional
+    iso_max: 25600
     lens_mount: Canon EF/EF-S
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos100d/specifications
@@ -81,6 +82,7 @@ canon_1300d:
     dimensions_mm: 129 x 101 x 78
     focus_points: 9
     gps: null
+    iso_max: 12800
     lens_mount: Canon EF/EF-S
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos1300d/specifications
@@ -100,6 +102,8 @@ canon_1dc:
     dimensions_mm: 158 x 164 x 83
     focus_points: 61
     gps: Optional
+    iso_max: 204800
+    iso_min: 50
     lens_mount: Canon EF
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos1dc/specifications
@@ -119,6 +123,8 @@ canon_1dmkiii:
     dimensions_mm: 156 x 157 x 80
     focus_points: 19
     gps: null
+    iso_max: 6400
+    iso_min: 50
     lens_mount: Canon EF
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos1dmkiii/specifications
@@ -138,6 +144,8 @@ canon_1dmkiv:
     dimensions_mm: 156 x 157 x 80
     focus_points: 45
     gps: null
+    iso_max: 102400
+    iso_min: 50
     lens_mount: Canon EF
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos1dmkiv/specifications
@@ -156,6 +164,8 @@ canon_1dsmkiii:
     body_type: Large SLR
     dimensions_mm: 150 x 160 x 80
     focus_points: 45
+    iso_max: 3200
+    iso_min: 50
     lens_mount: Canon EF
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos1dsmkiii/specifications
@@ -174,6 +184,8 @@ canon_1dx:
     dimensions_mm: 158 x 164 x 83
     focus_points: 61
     gps: Optional
+    iso_max: 204800
+    iso_min: 50
     lens_mount: Canon EF
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos1dx/specifications
@@ -194,6 +206,8 @@ canon_1dxmkii:
     dimensions_mm: 158 x 168 x 83
     focus_points: 61
     gps: Built-in
+    iso_max: 409600
+    iso_min: 50
     lens_mount: Canon EF
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos1dxii/specifications
@@ -214,6 +228,7 @@ canon_2000d:
     dimensions_mm: 129 x 101 x 78
     focus_points: 9
     gps: null
+    iso_max: 12800
     lens_mount: Canon EF/EF-S
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos2000d/specifications
@@ -234,6 +249,7 @@ canon_200d:
     dimensions_mm: 122 x 93 x 70
     focus_points: 9
     gps: null
+    iso_max: 51200
     lens_mount: Canon EF/EF-S
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos200d/specifications
@@ -252,6 +268,7 @@ canon_30d:
     body_type: Mid-size SLR
     dimensions_mm: 144 x 106 x 74
     focus_points: 9
+    iso_max: 3200
     lens_mount: Canon EF/EF-S
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos30d/specifications
@@ -271,6 +288,7 @@ canon_4000d:
     dimensions_mm: 129 x 102 x 77
     focus_points: 9
     gps: null
+    iso_max: 12800
     lens_mount: Canon EF/EF-S
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos4000d/specifications
@@ -306,6 +324,7 @@ canon_40d:
     body_type: Mid-size SLR
     dimensions_mm: 146 x 108 x 74
     focus_points: 9
+    iso_max: 3200
     lens_mount: Canon EF/EF-S
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos40d/specifications
@@ -343,6 +362,7 @@ canon_500d:
     dimensions_mm: 129 x 98 x 62
     focus_points: 9
     gps: null
+    iso_max: 12800
     lens_mount: Canon EF/EF-S
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos500d/specifications
@@ -363,6 +383,7 @@ canon_50d:
     dimensions_mm: 146 x 108 x 74
     focus_points: 9
     gps: null
+    iso_max: 12800
     lens_mount: Canon EF/EF-S
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos50d/specifications
@@ -382,6 +403,7 @@ canon_550d:
     dimensions_mm: 129 x 98 x 62
     focus_points: 9
     gps: null
+    iso_max: 12800
     lens_mount: Canon EF/EF-S
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos550d/specifications
@@ -402,6 +424,8 @@ canon_5d:
     dimensions_mm: 152 x 113 x 75
     focus_points: 9
     gps: null
+    iso_max: 3200
+    iso_min: 50
     lens_mount: Canon EF
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos5d/specifications
@@ -422,6 +446,8 @@ canon_5dmkii:
     dimensions_mm: 152 x 114 x 75
     focus_points: 9
     gps: null
+    iso_max: 25600
+    iso_min: 50
     lens_mount: Canon EF
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos5dmkii/specifications
@@ -442,6 +468,8 @@ canon_5dmkiii:
     dimensions_mm: 152 x 116 x 76
     focus_points: 61
     gps: Optional
+    iso_max: 102400
+    iso_min: 50
     lens_mount: Canon EF
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos5dmkiii/specifications
@@ -462,6 +490,8 @@ canon_5dmkiv:
     dimensions_mm: 151 x 116 x 76
     focus_points: 61
     gps: Built-in
+    iso_max: 102400
+    iso_min: 50
     lens_mount: Canon EF
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos5dmkiv/specifications
@@ -482,6 +512,8 @@ canon_5ds:
     dimensions_mm: 152 x 116 x 76
     focus_points: 61
     gps: null
+    iso_max: 12800
+    iso_min: 50
     lens_mount: Canon EF
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos5ds/specifications
@@ -502,6 +534,8 @@ canon_5dsr:
     dimensions_mm: 152 x 116 x 76
     focus_points: 61
     gps: null
+    iso_max: 12800
+    iso_min: 50
     lens_mount: Canon EF
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos5dsr/specifications
@@ -522,6 +556,7 @@ canon_600d:
     dimensions_mm: 133 x 100 x 80
     focus_points: 9
     gps: null
+    iso_max: 12800
     lens_mount: Canon EF/EF-S
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos600d/specifications
@@ -542,6 +577,7 @@ canon_60d:
     dimensions_mm: 145 x 106 x 79
     focus_points: 9
     gps: null
+    iso_max: 12800
     lens_mount: Canon EF/EF-S
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos60d/specifications
@@ -562,6 +598,7 @@ canon_60da:
     dimensions_mm: 145 x 106 x 79
     focus_points: 9
     gps: null
+    iso_max: 12800
     lens_mount: Canon EF/EF-S
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos60da/specifications
@@ -582,6 +619,7 @@ canon_650d:
     dimensions_mm: 133 x 100 x 79
     focus_points: 9
     gps: Optional
+    iso_max: 25600
     lens_mount: Canon EF/EF-S
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos650d/specifications
@@ -602,6 +640,8 @@ canon_6d:
     dimensions_mm: 145 x 111 x 71
     focus_points: 11
     gps: Built-in
+    iso_max: 102400
+    iso_min: 50
     lens_mount: Canon EF
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos6d/specifications
@@ -622,6 +662,8 @@ canon_6dmkii:
     dimensions_mm: 144 x 111 x 75
     focus_points: 45
     gps: Built-in
+    iso_max: 102400
+    iso_min: 50
     lens_mount: Canon EF
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos6dmkii/specifications
@@ -642,6 +684,7 @@ canon_700d:
     dimensions_mm: 133 x 100 x 79
     focus_points: 9
     gps: Optional
+    iso_max: 25600
     lens_mount: Canon EF/EF-S
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos700d/specifications
@@ -662,6 +705,7 @@ canon_70d:
     dimensions_mm: 139 x 104 x 79
     focus_points: 19
     gps: Optional
+    iso_max: 25600
     lens_mount: Canon EF/EF-S
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos70d/specifications
@@ -682,6 +726,7 @@ canon_750d:
     dimensions_mm: 132 x 101 x 78
     focus_points: 19
     gps: null
+    iso_max: 25600
     lens_mount: Canon EF/EF-S
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos750d/specifications
@@ -702,6 +747,7 @@ canon_760d:
     dimensions_mm: 132 x 111 x 78
     focus_points: 19
     gps: null
+    iso_max: 25600
     lens_mount: Canon EF/EF-S
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos760d/specifications
@@ -722,6 +768,7 @@ canon_77d:
     dimensions_mm: 131 x 100 x 76
     focus_points: 45
     gps: Optional
+    iso_max: 51200
     lens_mount: Canon EF/EF-S
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos77d/specifications
@@ -742,6 +789,7 @@ canon_7d:
     dimensions_mm: 148 x 111 x 74
     focus_points: 19
     gps: Optional
+    iso_max: 12800
     lens_mount: Canon EF/EF-S
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos7d/specifications
@@ -762,6 +810,7 @@ canon_7dmkii:
     dimensions_mm: 149 x 112 x 78
     focus_points: 65
     gps: Built-in
+    iso_max: 51200
     lens_mount: Canon EF/EF-S
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos7dii/specifications
@@ -782,6 +831,7 @@ canon_800d:
     dimensions_mm: 131 x 100 x 76
     focus_points: 45
     gps: Optional
+    iso_max: 51200
     lens_mount: Canon EF/EF-S
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos800d/specifications
@@ -802,6 +852,7 @@ canon_80d:
     dimensions_mm: 139 x 105 x 79
     focus_points: 45
     gps: null
+    iso_max: 25600
     lens_mount: Canon EF/EF-S
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos80d/specifications
@@ -822,6 +873,7 @@ canon_m:
     dimensions_mm: 109 x 66 x 32
     focus_points: 31
     gps: Optional
+    iso_max: 25600
     lens_mount: Canon EF-M
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eosm/specifications
@@ -842,6 +894,7 @@ canon_m10:
     dimensions_mm: 108 x 67 x 35
     focus_points: 49
     gps: null
+    iso_max: 25600
     lens_mount: Canon EF-M
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eosm10/specifications
@@ -882,6 +935,7 @@ canon_m3:
     dimensions_mm: 111 x 68 x 44
     focus_points: 49
     gps: null
+    iso_max: 25600
     lens_mount: Canon EF-M
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eosm3/specifications
@@ -922,6 +976,7 @@ canon_m50:
     dimensions_mm: 116 x 88 x 59
     focus_points: 143
     gps: null
+    iso_max: 51200
     lens_mount: Canon EF-M
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eosm50/specifications
@@ -962,6 +1017,8 @@ canon_r:
     dimensions_mm: 136 x 98 x 84
     focus_points: 5655
     gps: null
+    iso_max: 102400
+    iso_min: 50
     lens_mount: Canon RF
     links:
         dpreview: https://www.dpreview.com/products/canon/slrs/canon_eos_r/specifications
@@ -981,6 +1038,7 @@ fujifilm_gfx50r:
     dimensions_mm: 161 x 97 x 66
     focus_points: 117
     gps: null
+    iso_max: 102400
     links:
         dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_gfx50r/specifications
     max_fps: 3.0
@@ -1000,6 +1058,7 @@ fujifilm_gfx50s:
     dimensions_mm: 148 x 94 x 91
     focus_points: 117
     gps: null
+    iso_max: 102400
     links:
         dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_gfx50s/specifications
     max_fps: 3.0
@@ -1096,6 +1155,8 @@ fujifilm_xa1:
     dimensions_mm: 117 x 67 x 39
     focus_points: 49
     gps: null
+    iso_max: 25600
+    iso_min: 100
     lens_mount: Fujifilm X
     links:
         dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xa1/specifications
@@ -1116,6 +1177,8 @@ fujifilm_xa10:
     dimensions_mm: 117 x 67 x 40
     focus_points: 49
     gps: null
+    iso_max: 25600
+    iso_min: 100
     lens_mount: Fujifilm X
     links:
         dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xa10/specifications
@@ -1135,6 +1198,8 @@ fujifilm_xa2:
     dimensions_mm: 117 x 67 x 40
     focus_points: 49
     gps: null
+    iso_max: 25600
+    iso_min: 100
     lens_mount: Fujifilm X
     links:
         dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xa2/specifications
@@ -1155,6 +1220,8 @@ fujifilm_xa3:
     dimensions_mm: 117 x 67 x 40
     focus_points: 77
     gps: null
+    iso_max: 25600
+    iso_min: 100
     lens_mount: Fujifilm X
     links:
         dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xa3/specifications
@@ -1174,6 +1241,8 @@ fujifilm_xa5:
     dimensions_mm: 117 x 68 x 40
     focus_points: 91
     gps: null
+    iso_max: 51200
+    iso_min: 100
     lens_mount: Fujifilm X
     links:
         dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xa5/specifications
@@ -1192,6 +1261,8 @@ fujifilm_xe1:
     body_type: Rangefinder-style mirrorless
     dimensions_mm: 129 x 75 x 38
     gps: null
+    iso_max: 25600
+    iso_min: 100
     lens_mount: Fujifilm X
     links:
         dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xe1/specifications
@@ -1211,6 +1282,8 @@ fujifilm_xe2:
     body_type: Rangefinder-style mirrorless
     dimensions_mm: 129 x 75 x 37
     gps: null
+    iso_max: 25600
+    iso_min: 100
     lens_mount: Fujifilm X
     links:
         dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xe2/specifications
@@ -1231,6 +1304,8 @@ fujifilm_xe2s:
     dimensions_mm: 129 x 75 x 37
     focus_points: 77
     gps: null
+    iso_max: 51200
+    iso_min: 100
     lens_mount: Fujifilm X
     links:
         dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xe2s/specifications
@@ -1251,6 +1326,8 @@ fujifilm_xe3:
     dimensions_mm: 121 x 74 x 43
     focus_points: 325
     gps: null
+    iso_max: 51200
+    iso_min: 100
     lens_mount: Fujifilm X
     links:
         dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xe3/specifications
@@ -1271,6 +1348,8 @@ fujifilm_xh1:
     dimensions_mm: 140 x 97 x 86
     focus_points: 325
     gps: null
+    iso_max: 51200
+    iso_min: 100
     lens_mount: Fujifilm X
     links:
         dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xh1/specifications
@@ -1291,6 +1370,8 @@ fujifilm_xm1:
     dimensions_mm: 117 x 67 x 39
     focus_points: 49
     gps: null
+    iso_max: 25600
+    iso_min: 100
     lens_mount: Fujifilm X
     links:
         dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xm1/specifications
@@ -1310,6 +1391,8 @@ fujifilm_xpro1:
     body_type: Rangefinder-style mirrorless
     dimensions_mm: 140 x 82 x 43
     gps: null
+    iso_max: 25600
+    iso_min: 100
     lens_mount: Fujifilm X
     links:
         dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xpro1/specifications
@@ -1330,6 +1413,8 @@ fujifilm_xpro2:
     dimensions_mm: 141 x 83 x 56
     focus_points: 273
     gps: null
+    iso_max: 51200
+    iso_min: 100
     lens_mount: Fujifilm X
     links:
         dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xpro2/specifications
@@ -1349,6 +1434,8 @@ fujifilm_xt1:
     body_type: SLR-style mirrorless
     dimensions_mm: 129 x 90 x 47
     gps: Optional
+    iso_max: 51200
+    iso_min: 100
     lens_mount: Fujifilm X
     links:
         dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt1/specifications
@@ -1369,6 +1456,8 @@ fujifilm_xt10:
     dimensions_mm: 118 x 83 x 41
     focus_points: 77
     gps: Optional
+    iso_max: 51200
+    iso_min: 100
     lens_mount: Fujifilm X
     links:
         dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt10/specifications
@@ -1389,6 +1478,8 @@ fujifilm_xt100:
     dimensions_mm: 121 x 83 x 47
     focus_points: 91
     gps: null
+    iso_max: 51200
+    iso_min: 100
     lens_mount: Fujifilm X
     links:
         dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt100/specifications
@@ -1407,6 +1498,8 @@ fujifilm_xt1ir:
     body_type: SLR-style mirrorless
     dimensions_mm: 129 x 90 x 47
     gps: Optional
+    iso_max: 51200
+    iso_min: 100
     lens_mount: Fujifilm X
     links:
         dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt1_ir/specifications
@@ -1427,6 +1520,8 @@ fujifilm_xt2:
     dimensions_mm: 133 x 92 x 49
     focus_points: 325
     gps: null
+    iso_max: 51200
+    iso_min: 100
     lens_mount: Fujifilm X
     links:
         dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt2/specifications
@@ -1447,6 +1542,8 @@ fujifilm_xt20:
     dimensions_mm: 118 x 83 x 41
     focus_points: 325
     gps: Optional
+    iso_max: 51200
+    iso_min: 100
     lens_mount: Fujifilm X
     links:
         dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt20/specifications
@@ -1467,6 +1564,8 @@ fujifilm_xt3:
     dimensions_mm: 133 x 93 x 59
     focus_points: 425
     gps: null
+    iso_max: 51200
+    iso_min: 80
     lens_mount: Fujifilm X
     links:
         dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt3/specifications
@@ -1486,6 +1585,8 @@ fujifilm_xt30:
     dimensions_mm: 118 x 83 x 47
     focus_points: 425
     gps: null
+    iso_max: 51200
+    iso_min: 80
     lens_mount: Fujifilm X
     links:
         dpreview: https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt30/specifications
@@ -1525,6 +1626,7 @@ nikon_1j1:
     dimensions_mm: 106 x 61 x 30
     focus_points: 135
     gps: null
+    iso_max: 6400
     lens_mount: Nikon 1
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_j1/specifications
@@ -1543,6 +1645,7 @@ nikon_1j2:
     dimensions_mm: 106 x 61 x 30
     focus_points: 135
     gps: null
+    iso_max: 6400
     lens_mount: Nikon 1
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_j2/specifications
@@ -1657,6 +1760,7 @@ nikon_1v1:
     dimensions_mm: 113 x 76 x 44
     focus_points: 135
     gps: Optional
+    iso_max: 6400
     lens_mount: Nikon 1
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_v1/specifications
@@ -1713,6 +1817,8 @@ nikon_d3:
     body_type: Large SLR
     dimensions_mm: 160 x 157 x 88
     gps: Optional
+    iso_max: 25600
+    iso_min: 100
     lens_mount: Nikon F
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d3/specifications
@@ -1733,6 +1839,8 @@ nikon_d300:
     dimensions_mm: 147 x 114 x 74
     focus_points: 51
     gps: Optional
+    iso_max: 6400
+    iso_min: 100
     lens_mount: Nikon F
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d300/specifications
@@ -1753,6 +1861,7 @@ nikon_d3000:
     dimensions_mm: 126 x 97 x 64
     focus_points: 11
     gps: null
+    iso_max: 3200
     lens_mount: Nikon F
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d3000/specifications
@@ -1773,6 +1882,8 @@ nikon_d300s:
     dimensions_mm: 147 x 114 x 74
     focus_points: 51
     gps: Optional
+    iso_max: 6400
+    iso_min: 100
     lens_mount: Nikon F
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d300s/specifications
@@ -1792,6 +1903,7 @@ nikon_d3100:
     dimensions_mm: 124 x 96 x 75
     focus_points: 11
     gps: Optional
+    iso_max: 12800
     lens_mount: Nikon F
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d3100/specifications
@@ -1812,6 +1924,7 @@ nikon_d3200:
     dimensions_mm: 125 x 96 x 77
     focus_points: 11
     gps: Optional
+    iso_max: 12800
     lens_mount: Nikon F
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d3200/specifications
@@ -1832,6 +1945,7 @@ nikon_d3300:
     dimensions_mm: 124 x 98 x 76
     focus_points: 11
     gps: Optional
+    iso_max: 25600
     lens_mount: Nikon F
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d3300/specifications
@@ -1892,6 +2006,8 @@ nikon_d3s:
     dimensions_mm: 160 x 157 x 88
     focus_points: 51
     gps: Optional
+    iso_max: 102400
+    iso_min: 100
     lens_mount: Nikon F
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d3s/specifications
@@ -1912,6 +2028,8 @@ nikon_d3x:
     dimensions_mm: 160 x 157 x 88
     focus_points: 51
     gps: Optional
+    iso_max: 6400
+    iso_min: 50
     lens_mount: Nikon F
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d3x/specifications
@@ -1931,6 +2049,8 @@ nikon_d4:
     dimensions_mm: 160 x 157 x 91
     focus_points: 51
     gps: Optional
+    iso_max: 204800
+    iso_min: 50
     lens_mount: Nikon F
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d4/specifications
@@ -1951,6 +2071,8 @@ nikon_d4s:
     dimensions_mm: 160 x 157 x 91
     focus_points: 51
     gps: Optional
+    iso_max: 409600
+    iso_min: 50
     lens_mount: Nikon F
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d4s/specifications
@@ -1971,6 +2093,8 @@ nikon_d5:
     dimensions_mm: 160 x 159 x 92
     focus_points: 153
     gps: Optional
+    iso_max: 3280000
+    iso_min: 50
     lens_mount: Nikon F
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d5/specifications
@@ -1991,6 +2115,8 @@ nikon_d500:
     dimensions_mm: 147 x 115 x 81
     focus_points: 153
     gps: Optional
+    iso_max: 1640000
+    iso_min: 50
     lens_mount: Nikon F
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d500/specifications
@@ -2010,6 +2136,7 @@ nikon_d5000:
     dimensions_mm: 127 x 104 x 80
     focus_points: 11
     gps: Optional
+    iso_max: 6400
     lens_mount: Nikon F
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d5000/specifications
@@ -2029,6 +2156,7 @@ nikon_d5100:
     dimensions_mm: 128 x 97 x 79
     focus_points: 11
     gps: Optional
+    iso_max: 25600
     lens_mount: Nikon F
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d5100/specifications
@@ -2048,6 +2176,7 @@ nikon_d5200:
     dimensions_mm: 129 x 98 x 78
     focus_points: 39
     gps: Optional
+    iso_max: 25600
     lens_mount: Nikon F
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d5200/specifications
@@ -2068,6 +2197,7 @@ nikon_d5300:
     dimensions_mm: 125 x 98 x 76
     focus_points: 39
     gps: Built-in
+    iso_max: 25600
     lens_mount: Nikon F
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d5300/specifications
@@ -2126,6 +2256,7 @@ nikon_d60:
     body_type: Compact SLR
     dimensions_mm: 126 x 94 x 64
     focus_points: 3
+    iso_max: 3200
     lens_mount: Nikon F
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d60/specifications
@@ -2145,6 +2276,8 @@ nikon_d600:
     dimensions_mm: 141 x 113 x 82
     focus_points: 39
     gps: Optional
+    iso_max: 25600
+    iso_min: 50
     lens_mount: Nikon F
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d600/specifications
@@ -2165,6 +2298,8 @@ nikon_d610:
     dimensions_mm: 141 x 113 x 82
     focus_points: 39
     gps: Optional
+    iso_max: 25600
+    iso_min: 50
     lens_mount: Nikon F
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d610/specifications
@@ -2185,6 +2320,8 @@ nikon_d700:
     dimensions_mm: 147 x 123 x 77
     focus_points: 51
     gps: Optional
+    iso_max: 25600
+    iso_min: 100
     lens_mount: Nikon F
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d700/specifications
@@ -2205,6 +2342,8 @@ nikon_d7000:
     dimensions_mm: 132 x 105 x 77
     focus_points: 39
     gps: Optional
+    iso_max: 25600
+    iso_min: 100
     lens_mount: Nikon F
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d7000/specifications
@@ -2225,6 +2364,8 @@ nikon_d7100:
     dimensions_mm: 136 x 107 x 76
     focus_points: 51
     gps: Optional
+    iso_max: 25600
+    iso_min: 50
     lens_mount: Nikon F
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d7100/specifications
@@ -2244,6 +2385,7 @@ nikon_d7200:
     dimensions_mm: 136 x 107 x 76
     focus_points: 51
     gps: Optional
+    iso_max: 102400
     lens_mount: Nikon F
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d7200/specifications
@@ -2264,6 +2406,8 @@ nikon_d750:
     dimensions_mm: 141 x 113 x 78
     focus_points: 51
     gps: Optional
+    iso_max: 51200
+    iso_min: 50
     lens_mount: Nikon F
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d750/specifications
@@ -2284,6 +2428,8 @@ nikon_d7500:
     dimensions_mm: 136 x 104 x 73
     focus_points: 51
     gps: Optional
+    iso_max: 1640000
+    iso_min: 50
     lens_mount: Nikon F
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d7500/specifications
@@ -2303,6 +2449,8 @@ nikon_d800:
     dimensions_mm: 146 x 123 x 82
     focus_points: 51
     gps: Optional
+    iso_max: 25600
+    iso_min: 50
     lens_mount: Nikon F
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d800/specifications
@@ -2322,6 +2470,8 @@ nikon_d800e:
     dimensions_mm: 146 x 123 x 82
     focus_points: 51
     gps: Optional
+    iso_max: 25600
+    iso_min: 50
     lens_mount: Nikon F
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d800e/specifications
@@ -2342,6 +2492,8 @@ nikon_d810:
     dimensions_mm: 146 x 123 x 82
     focus_points: 51
     gps: Optional
+    iso_max: 51200
+    iso_min: 32
     lens_mount: Nikon F
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d810/specifications
@@ -2362,6 +2514,8 @@ nikon_d810a:
     dimensions_mm: 146 x 123 x 82
     focus_points: 51
     gps: Optional
+    iso_max: 51200
+    iso_min: 100
     lens_mount: Nikon F
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d810a/specifications
@@ -2382,6 +2536,8 @@ nikon_d850:
     dimensions_mm: 146 x 124 x 79
     focus_points: 151
     gps: null
+    iso_max: 102400
+    iso_min: 32
     lens_mount: Nikon F
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d850/specifications
@@ -2402,6 +2558,7 @@ nikon_d90:
     dimensions_mm: 132 x 103 x 77
     focus_points: 11
     gps: Optional
+    iso_max: 6400
     lens_mount: Nikon F
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_d90/specifications
@@ -2421,6 +2578,8 @@ nikon_df:
     dimensions_mm: 144 x 110 x 67
     focus_points: 39
     gps: null
+    iso_max: 204800
+    iso_min: 50
     lens_mount: Nikon F
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_df/specifications
@@ -2441,6 +2600,8 @@ nikon_z6:
     dimensions_mm: 134 x 101 x 68
     focus_points: 273
     gps: null
+    iso_max: 204800
+    iso_min: 50
     lens_mount: Nikon Z
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_z6/specifications
@@ -2461,6 +2622,8 @@ nikon_z7:
     dimensions_mm: 134 x 101 x 68
     focus_points: 493
     gps: null
+    iso_max: 102400
+    iso_min: 32
     lens_mount: Nikon Z
     links:
         dpreview: https://www.dpreview.com/products/nikon/slrs/nikon_z7/specifications
@@ -2481,6 +2644,7 @@ panasonic_dcg9:
     dimensions_mm: 137 x 97 x 92
     focus_points: 225
     gps: null
+    iso_min: 100
     lens_mount: Micro Four Thirds
     links:
         dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dcg9/specifications
@@ -2500,6 +2664,7 @@ panasonic_dcgf10:
     dimensions_mm: 107 x 65 x 33
     focus_points: 49
     gps: null
+    iso_min: 100
     lens_mount: Micro Four Thirds
     links:
         dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dcgf10/specifications
@@ -2520,6 +2685,7 @@ panasonic_dcgh5:
     dimensions_mm: 139 x 98 x 87
     focus_points: 225
     gps: null
+    iso_min: 100
     lens_mount: Micro Four Thirds
     links:
         dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dcgh5/specifications
@@ -2540,6 +2706,8 @@ panasonic_dcgh5s:
     dimensions_mm: 139 x 98 x 87
     focus_points: 225
     gps: null
+    iso_max: 204800
+    iso_min: 80
     lens_mount: Micro Four Thirds
     links:
         dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dcgh5s/specifications
@@ -2560,6 +2728,7 @@ panasonic_dcgx850:
     dimensions_mm: 107 x 65 x 33
     focus_points: 49
     gps: null
+    iso_min: 100
     lens_mount: Micro Four Thirds
     links:
         dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dcgx850/specifications
@@ -2580,6 +2749,7 @@ panasonic_dcgx9:
     dimensions_mm: 124 x 72 x 47
     focus_points: 49
     gps: null
+    iso_min: 100
     lens_mount: Micro Four Thirds
     links:
         dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dcgx9/specifications
@@ -2600,6 +2770,8 @@ panasonic_dcs1:
     dimensions_mm: 149 x 110 x 97
     focus_points: 225
     gps: null
+    iso_max: 204800
+    iso_min: 50
     lens_mount: Leica L
     links:
         dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dcs1/specifications
@@ -2619,6 +2791,8 @@ panasonic_dcs1r:
     dimensions_mm: 149 x 110 x 97
     focus_points: 225
     gps: null
+    iso_max: 51200
+    iso_min: 50
     lens_mount: Leica L
     links:
         dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dcs1r/specifications
@@ -2636,6 +2810,7 @@ panasonic_dmcg1:
     body_type: SLR-style mirrorless
     dimensions_mm: 124 x 84 x 45
     gps: null
+    iso_max: 3200
     lens_mount: Micro Four Thirds
     links:
         dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcg1/specifications
@@ -2748,6 +2923,7 @@ panasonic_dmcg7:
     dimensions_mm: 125 x 86 x 77
     focus_points: 49
     gps: null
+    iso_min: 100
     lens_mount: Micro Four Thirds
     links:
         dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcg7/specifications
@@ -2767,6 +2943,7 @@ panasonic_dmcg85:
     dimensions_mm: 128 x 89 x 74
     focus_points: 49
     gps: null
+    iso_min: 100
     lens_mount: Micro Four Thirds
     links:
         dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcg85/specifications
@@ -2865,6 +3042,7 @@ panasonic_dmcgf6:
     body_type: Rangefinder-style mirrorless
     dimensions_mm: 111 x 65 x 38
     gps: null
+    iso_max: 25600
     lens_mount: Micro Four Thirds
     links:
         dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgf6/specifications
@@ -2885,6 +3063,7 @@ panasonic_dmcgf7:
     dimensions_mm: 107 x 65 x 33
     focus_points: 23
     gps: null
+    iso_min: 100
     lens_mount: Micro Four Thirds
     links:
         dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgf7/specifications
@@ -2905,6 +3084,7 @@ panasonic_dmcgf8:
     dimensions_mm: 107 x 65 x 33
     focus_points: 23
     gps: null
+    iso_min: 100
     lens_mount: Micro Four Thirds
     links:
         dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgf8/specifications
@@ -2923,6 +3103,7 @@ panasonic_dmcgh1:
     body_type: SLR-style mirrorless
     dimensions_mm: 124 x 90 x 45
     gps: null
+    iso_max: 3200
     lens_mount: Micro Four Thirds
     links:
         dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgh1/specifications
@@ -2963,6 +3144,7 @@ panasonic_dmcgh3:
     dimensions_mm: 133 x 93 x 82
     focus_points: 23
     gps: null
+    iso_max: 25600
     lens_mount: Micro Four Thirds
     links:
         dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgh3/specifications
@@ -2983,6 +3165,7 @@ panasonic_dmcgh4:
     dimensions_mm: 133 x 93 x 84
     focus_points: 49
     gps: null
+    iso_min: 100
     lens_mount: Micro Four Thirds
     links:
         dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgh4/specifications
@@ -3003,6 +3186,7 @@ panasonic_dmcgm1:
     dimensions_mm: 99 x 55 x 30
     focus_points: 23
     gps: null
+    iso_min: 125
     lens_mount: Micro Four Thirds
     links:
         dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgm1/specifications
@@ -3022,6 +3206,7 @@ panasonic_dmcgm5:
     dimensions_mm: 99 x 60 x 36
     focus_points: 23
     gps: null
+    iso_min: 100
     lens_mount: Micro Four Thirds
     links:
         dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgm5/specifications
@@ -3060,6 +3245,7 @@ panasonic_dmcgx7:
     dimensions_mm: 123 x 71 x 55
     focus_points: 23
     gps: null
+    iso_min: 125
     lens_mount: Micro Four Thirds
     links:
         dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgx7/specifications
@@ -3080,6 +3266,7 @@ panasonic_dmcgx8:
     dimensions_mm: 133 x 78 x 63
     focus_points: 49
     gps: null
+    iso_min: 100
     lens_mount: Micro Four Thirds
     links:
         dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgx8/specifications
@@ -3100,6 +3287,7 @@ panasonic_dmcgx85:
     dimensions_mm: 122 x 71 x 44
     focus_points: 49
     gps: null
+    iso_min: 100
     lens_mount: Micro Four Thirds
     links:
         dpreview: https://www.dpreview.com/products/panasonic/slrs/panasonic_dmcgx85/specifications
@@ -3233,6 +3421,7 @@ sony_a6300:
     dimensions_mm: 120 x 67 x 49
     focus_points: 425
     gps: null
+    iso_max: 51200
     lens_mount: Sony E
     links:
         dpreview: https://www.dpreview.com/products/sony/slrs/sony_a6300/specifications
@@ -3253,6 +3442,7 @@ sony_a6400:
     dimensions_mm: 120 x 67 x 60
     focus_points: 425
     gps: null
+    iso_max: 102800
     lens_mount: Sony E
     links:
         dpreview: https://www.dpreview.com/products/sony/slrs/sony_a6400/specifications
@@ -3273,6 +3463,7 @@ sony_a6500:
     dimensions_mm: 120 x 67 x 53
     focus_points: 425
     gps: null
+    iso_max: 51200
     lens_mount: Sony E
     links:
         dpreview: https://www.dpreview.com/products/sony/slrs/sony_a6500/specifications
@@ -3293,6 +3484,7 @@ sony_a7:
     dimensions_mm: 127 x 94 x 48
     focus_points: 117
     gps: null
+    iso_min: 50
     lens_mount: Sony E
     links:
         dpreview: https://www.dpreview.com/products/sony/slrs/sony_a7/specifications
@@ -3313,6 +3505,7 @@ sony_a7ii:
     dimensions_mm: 127 x 96 x 60
     focus_points: 117
     gps: null
+    iso_min: 50
     lens_mount: Sony E
     links:
         dpreview: https://www.dpreview.com/products/sony/slrs/sony_a7ii/specifications
@@ -3333,6 +3526,8 @@ sony_a7iii:
     dimensions_mm: 127 x 96 x 74
     focus_points: 693
     gps: null
+    iso_max: 204800
+    iso_min: 50
     lens_mount: Sony E
     links:
         dpreview: https://www.dpreview.com/products/sony/slrs/sony_a7iii/specifications
@@ -3353,6 +3548,7 @@ sony_a7r:
     dimensions_mm: 127 x 94 x 48
     focus_points: 25
     gps: null
+    iso_min: 50
     lens_mount: Sony E
     links:
         dpreview: https://www.dpreview.com/products/sony/slrs/sony_a7r/specifications
@@ -3373,6 +3569,8 @@ sony_a7rii:
     dimensions_mm: 127 x 96 x 60
     focus_points: 399
     gps: null
+    iso_max: 102400
+    iso_min: 50
     lens_mount: Sony E
     links:
         dpreview: https://www.dpreview.com/products/sony/slrs/sony_a7rii/specifications
@@ -3393,6 +3591,8 @@ sony_a7riii:
     dimensions_mm: 127 x 96 x 74
     focus_points: 399
     gps: null
+    iso_max: 102400
+    iso_min: 50
     lens_mount: Sony E
     links:
         dpreview: https://www.dpreview.com/products/sony/slrs/sony_a7riii/specifications
@@ -3413,6 +3613,7 @@ sony_a7s:
     dimensions_mm: 127 x 94 x 48
     focus_points: 25
     gps: null
+    iso_min: 50
     lens_mount: Sony E
     links:
         dpreview: https://www.dpreview.com/products/sony/slrs/sony_a7s/specifications
@@ -3433,6 +3634,8 @@ sony_a7sii:
     dimensions_mm: 127 x 96 x 60
     focus_points: 169
     gps: null
+    iso_max: 409600
+    iso_min: 50
     lens_mount: Sony E
     links:
         dpreview: https://www.dpreview.com/products/sony/slrs/sony_a7sii/specifications
@@ -3453,6 +3656,8 @@ sony_a9:
     dimensions_mm: 127 x 96 x 63
     focus_points: 693
     gps: null
+    iso_max: 204800
+    iso_min: 50
     lens_mount: Sony E
     links:
         dpreview: https://www.dpreview.com/products/sony/slrs/sony_a9/specifications
@@ -3473,6 +3678,8 @@ sony_a99:
     dimensions_mm: 147 x 111 x 78
     focus_points: 19
     gps: Built-in
+    iso_max: 25600
+    iso_min: 50
     lens_mount: Sony/Minolta Alpha
     links:
         dpreview: https://www.dpreview.com/products/sony/slrs/sony_slta99/specifications
@@ -3493,6 +3700,8 @@ sony_a99ii:
     dimensions_mm: 143 x 104 x 76
     focus_points: 399
     gps: null
+    iso_max: 102400
+    iso_min: 50
     lens_mount: Sony/Minolta Alpha
     links:
         dpreview: https://www.dpreview.com/products/sony/slrs/sony_slta99_ii/specifications
@@ -3669,6 +3878,7 @@ sony_dslra560:
     dimensions_mm: 137 x 104 x 84
     focus_points: 15
     gps: null
+    iso_max: 25600
     lens_mount: Sony/Minolta Alpha
     links:
         dpreview: https://www.dpreview.com/products/sony/slrs/sony_dslra560/specifications
@@ -3689,6 +3899,7 @@ sony_dslra580:
     dimensions_mm: 137 x 104 x 84
     focus_points: 15
     gps: null
+    iso_max: 25600
     lens_mount: Sony/Minolta Alpha
     links:
         dpreview: https://www.dpreview.com/products/sony/slrs/sony_dslra580/specifications
@@ -3709,6 +3920,7 @@ sony_dslra850:
     dimensions_mm: 156 x 117 x 82
     focus_points: 9
     gps: null
+    iso_max: 6400
     lens_mount: Sony/Minolta Alpha
     links:
         dpreview: https://www.dpreview.com/products/sony/slrs/sony_dslra850/specifications
@@ -3885,6 +4097,7 @@ sony_nexc3:
     dimensions_mm: 110 x 60 x 33
     focus_points: 25
     gps: null
+    iso_max: 25600
     lens_mount: Sony E
     links:
         dpreview: https://www.dpreview.com/products/sony/slrs/sony_nexc3/specifications
@@ -3943,6 +4156,7 @@ sony_slta33:
     dimensions_mm: 124 x 92 x 85
     focus_points: 15
     gps: null
+    iso_max: 25600
     lens_mount: Sony/Minolta Alpha
     links:
         dpreview: https://www.dpreview.com/products/sony/slrs/sony_slta33/specifications
@@ -3962,6 +4176,7 @@ sony_slta35:
     dimensions_mm: 124 x 92 x 85
     focus_points: 15
     gps: null
+    iso_max: 25600
     lens_mount: Sony/Minolta Alpha
     links:
         dpreview: https://www.dpreview.com/products/sony/slrs/sony_slta35/specifications
@@ -3982,6 +4197,7 @@ sony_slta37:
     dimensions_mm: 124 x 92 x 85
     focus_points: 15
     gps: null
+    iso_max: 25600
     lens_mount: Sony/Minolta Alpha
     links:
         dpreview: https://www.dpreview.com/products/sony/slrs/sony_slta37/specifications
@@ -4000,6 +4216,7 @@ sony_slta55:
     dimensions_mm: 124 x 92 x 85
     focus_points: 15
     gps: Built-in
+    iso_max: 25600
     lens_mount: Sony/Minolta Alpha
     links:
         dpreview: https://www.dpreview.com/products/sony/slrs/sony_slta55/specifications
@@ -4020,6 +4237,7 @@ sony_slta57:
     dimensions_mm: 132 x 98 x 81
     focus_points: 15
     gps: null
+    iso_max: 25600
     lens_mount: Sony/Minolta Alpha
     links:
         dpreview: https://www.dpreview.com/products/sony/slrs/sony_slta57/specifications
@@ -4039,6 +4257,7 @@ sony_slta58:
     dimensions_mm: 129 x 95 x 78
     focus_points: 15
     gps: null
+    iso_max: 25600
     lens_mount: Sony/Minolta Alpha
     links:
         dpreview: https://www.dpreview.com/products/sony/slrs/sony_slta58/specifications
@@ -4056,6 +4275,7 @@ sony_slta65:
     dimensions_mm: 132 x 97 x 81
     focus_points: 15
     gps: Built-in
+    iso_max: 25600
     lens_mount: Sony/Minolta Alpha
     links:
         dpreview: https://www.dpreview.com/products/sony/slrs/sony_slta65/specifications
@@ -4095,6 +4315,8 @@ sony_slta77:
     dimensions_mm: 143 x 104 x 81
     focus_points: 19
     gps: Built-in
+    iso_max: 25600
+    iso_min: 50
     lens_mount: Sony/Minolta Alpha
     links:
         dpreview: https://www.dpreview.com/products/sony/slrs/sony_slta77/specifications
@@ -4115,6 +4337,8 @@ sony_slta77ii:
     dimensions_mm: 143 x 104 x 81
     focus_points: 79
     gps: null
+    iso_max: 51200
+    iso_min: 50
     lens_mount: Sony/Minolta Alpha
     links:
         dpreview: https://www.dpreview.com/products/sony/slrs/sony_slta77ii/specifications
